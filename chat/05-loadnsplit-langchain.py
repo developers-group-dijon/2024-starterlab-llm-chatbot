@@ -7,38 +7,29 @@ from utils.prompt import Debugger, debug_label
 from utils.splitter import split_file
 
 
-# TODO: - 001 : Consulter et appeler la fonction split_file dans utils puis la fonction log_chunks_stats
-#       - 002 : Compléter la fonction get_overlap
-#       - 003 : Créer le template de prompt en associant le system prompt et le human prompt
-#       - 004 : Compléter les messages d'analyse des chunks
-def log_chunks_stats(chunks: List[Document]) -> None:
-  """ Analyse la taille et l'overlap des chunks"""
-
+def log_chunks_stats(_chunks: List[Document]) -> None:
   # Evaluate chunks length and overlap
-  # TODO 002 - Tips : utiliser la fonction SequenceMatcher de difflib
   def get_overlap(s1: str, s2: str) -> str:
-    s = ...
-    pos_a, pos_b, size = s.find_longest_match(...)
+    s = difflib.SequenceMatcher(None, s1, s2, False)
+    pos_a, pos_b, size = s.find_longest_match(0, len(s1), 0, len(s2))
 
     # Getting overlaps at the start or end of chunks
-    _overlap = s1[pos_a: pos_a + size]
+    _overlap = s1[pos_a : pos_a + size]
     if (s1.startswith(_overlap) and s2.endswith(_overlap)) or (s1.endswith(_overlap) and s2.startswith(_overlap)):
       return _overlap
 
     return ""
 
-  n_chunks = len(chunks)
+  n_chunks = len(_chunks)
   overlap = []
   for k in range(n_chunks - 1):
-    # TODO 003 - Tips : Use  page_content attribut
-    tmp = get_overlap(..., ...)
-    overlap.append(...)
+    tmp = get_overlap(_chunks[k].page_content, _chunks[k + 1].page_content)
+    overlap.append(len(tmp))
 
-  # TODO 004
   debug_label(
-    f"Taille des <ansigreen>{len(chunks)}</ansigreen> chunks", f"{[len(...) for ... in ...]}"
+    f"Taille des <ansigreen>{len(_chunks)}</ansigreen> chunks", f"{[len(chunk.page_content) for chunk in _chunks]}"
   )
-  debug_label("Overlap des chunks", f"{...}")
+  debug_label("Overlap des chunks", f"{overlap}")
 
 
 if __name__ == "__main__":
@@ -49,8 +40,7 @@ if __name__ == "__main__":
   Debugger.debug_mode = True
 
   # Splitting the files
-  # TODO 001
-  chunks = ...
+  chunks = split_file(args)
 
   # Analyzing the chunks
-  log_chunks_stats(...)
+  log_chunks_stats(chunks)

@@ -1,6 +1,6 @@
 from collections.abc import Iterator
 import time
-from typing import Any, Callable
+from typing import Any, Callable, Tuple
 
 from langchain_core.runnables.base import RunnableLambda
 from prompt_toolkit import HTML, PromptSession, print_formatted_text as print
@@ -48,15 +48,26 @@ def prompt_session(callback: Callable[[str], Iterator[str]]) -> None:
 
     t0 = time.time()
 
-    print_response(callback(message))
-    debug(f"Réponse générée en <ansigreen>{(time.time() - t0):0.3}</ansigreen> secondes")
+    n_words, n_char = print_response(callback(message))
+    feedback = f"""Réponse générée en <ansigreen>{(time.time() - t0):0.3}</ansigreen> secondes avec <ansigreen>{n_words}</ansigreen> mots et <ansigreen>{n_char}</ansigreen> caractères."""
+    debug(feedback)
 
 
-def print_response(response: Iterator[str]) -> None:
+def print_response(response: Iterator[str]) -> tuple[int, int]:
   first = True
+  sentence = []
+  n_char = 0
+  n_words = 0
   for chunk in response:
     if first:
       print("")
       first = False
     print(chunk, end="", flush=True)
+    sentence += chunk
   print("\n")
+
+  sentence = "".join(sentence)[1:]
+  n_char = len(sentence)
+  n_words = len(sentence.split(" "))
+
+  return n_words, n_char

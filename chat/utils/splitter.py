@@ -37,8 +37,7 @@ def split_file(args: SplitNamespace) -> List[Document]:
   chunks = []
   match args.text_splitter:
     case "RecursiveCharacterTextSplitter":
-      # Utilisation du loader adapté au type de contenu
-      # pour pouvoir ensuite travailler (découper) sur du texte brut
+      # Pickup a data format-tailored loader to get and split plain text
       if args.file_path.endswith(".pdf"):
         loader_class = PDFMinerLoader
       elif args.file_path.endswith(".html"):
@@ -47,15 +46,19 @@ def split_file(args: SplitNamespace) -> List[Document]:
         loader_class = UnstructuredMarkdownLoader
       else:
         loader_class = TextLoader
+
       docs = loader_class(args.file_path).load()
       chunks = text_splitter(args.chunk_size, args.chunk_overlap).split_documents(docs)
+
     case "HTMLHeaderTextSplitter":
       chunks = html_splitter().split_text_from_file(args.file_path)
+
     case "MarkdownHeaderTextSplitter":
       docs = TextLoader(args.file_path).load()
       chunks = markdown_splitter().split_text(docs[0].page_content)
+
     case _:
-      raise Exception(f"Splitter non valide : {args.text_splitter}")
+      raise Exception(f"Unmanaged Splitter : {args.text_splitter}")
 
   if args.apply_recursive_text_splitter and args.text_splitter != "RecursiveCharacterTextSplitter":
     chunks = text_splitter(args.chunk_size, args.chunk_overlap).split_documents(chunks)

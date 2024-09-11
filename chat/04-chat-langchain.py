@@ -10,42 +10,33 @@ from utils.args import init_args
 from utils.prompt import Debugger, debug_runnable_fn, prompt_session
 
 
-# TODO: - 001 :  Initier le modèle et la chaine de traitement
-#       - 002 :  Créer la session prompt
-#       - 003 :  Créer le template de prompt en associant le system prompt et le human prompt
-#       - 004 : Créer la chaine de traitement
-#       - 005 : Compléter le retour de la fonction ask_bot
 def init_chain(_model: BaseChatModel) -> RunnableSerializable:
   """
   Initialise la chaîne d'appel au LLM
   """
 
-  # TODO 003 - Tips : utiliser la fonction ChatPromptTemplate.from_messages
   system_prompt = """
     Répond en 3 phrases maximum et utilise un ton neutre.
     Lorsque tu n'as pas d'informations pour répondre à la question posée, réponds que tu n'as la réponse.
     """
-
   human_template = "{question}"
 
   custom_prompt = ChatPromptTemplate.from_messages(
     [
-      ...,
-      ...,
+      SystemMessage(system_prompt),
+      HumanMessagePromptTemplate.from_template(human_template),
     ]
   )
 
-  # TODO 004
-  return ... | ... | ... | ...
+  return custom_prompt | debug_runnable_fn("Prompt") | _model | StrOutputParser()
 
 
-def ask_bot(chain: RunnableSerializable, question: str) -> Iterator[str]:
+def ask_bot(_chain: RunnableSerializable, question: str) -> Iterator[str]:
   """
   Implémentation de l'appel au bot
   """
 
-  # TODO 005 - Tips : utiliser la fonction stream
-  return ...
+  return _chain.stream(question)
 
 
 if __name__ == "__main__":
@@ -56,10 +47,8 @@ if __name__ == "__main__":
   Debugger.debug_mode = args.debug
 
   # Instantiating the LLM chain
-  # TODO 001 - Tips : utiliser la classe ChatOllama de la bibliothèque langchain_community
-  model = ChatOllama(...)
-  chain = init_chain(...)
+  model = ChatOllama(model=args.model, base_url=args.ollama_url, temperature=args.temperature)
+  chain = init_chain(model)
 
   # Starting the prompt session
-  # TODO 002
-  prompt_session(...)
+  prompt_session(lambda question: ask_bot(chain, question))

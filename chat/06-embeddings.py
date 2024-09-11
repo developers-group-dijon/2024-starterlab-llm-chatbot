@@ -4,48 +4,40 @@ from typing import List
 
 import numpy as np
 import numpy.typing as npt
+import ollama
 from utils.args import init_args
 from utils.prompt import Debugger, debug, debug_label
 from utils.similarity import get_similarity
 
 
-# TODO: - 001 : Définir une liste de phrases
-#       - 002 : Vectoriser les phrases et calculer la matrices de similarité
-#       - 003 : Afficher les résultats du calcul de similarité
-#       - 004 : Initialiser la matrice vectors
-#       - 005 : Vectoriser chaque phrase avec le même modèle.
-#       - 006 : Remplir la matrice de similarité
-def compute_embeddings(list_sentences: List[str], _model: str) -> npt.NDArray[np.float64]:
+def compute_embeddings(list_sentences: List[str], model: str) -> npt.NDArray[np.float64]:
   """Compute embeddings of each element of the input list."""
 
   # Evaluate the output dimension
-  # TODO 004 - Tips : inférer le modèle d'embeddings avec un prompt pour connaitre la dimension de l'espace vectoriel
-  n_sentences = ...
-  n_dim = ...
+  n_sentences = len(list_sentences)
+  n_dim = len(ollama.embeddings(model=model, prompt="dummy")["embedding"])
 
+  # Get embeddings
   t0 = time.time()
   _vectors = np.empty(shape=[n_sentences, n_dim], dtype=float)
 
-  # TODO 005 - Tips : utiliser la méthode embeddings de la classe ollama
   for i, sentence in enumerate(list_sentences):
-    _vectors[i] = ...
+    _vectors[i] = ollama.embeddings(model=model, prompt=sentence)["embedding"]
 
   debug(
-    f"Vectorisation de <ansigreen>{n_sentences}</ansigreen> phrases en <ansigreen>{(time.time() - t0):0.3}</ansigreen> secondes avec le modèle {_model}"
+    f"Vectorisation de <ansigreen>{n_sentences}</ansigreen> phrases en <ansigreen>{(time.time() - t0):0.3}</ansigreen> secondes avec le modèle {model}"
   )
   return _vectors
 
 
 def compute_cosine_matrix(_vectors: npt.NDArray[np.float64]) -> npt.NDArray[np.float64]:
-  """Calcule la matrice de similarité entre deux vecteurs"""
-
   n_sentences = len(_vectors)
+
   cos_matrix = np.empty(shape=[n_sentences, n_sentences], dtype=float)
 
-  # TODO 006
   for k in range(n_sentences):
     for j in range(k, n_sentences):
-      cos_matrix[k, j] = ...
+      cos_matrix[k, j] = get_similarity(_vectors[k], _vectors[j])
       cos_matrix[j, k] = cos_matrix[k, j]
 
   return cos_matrix
@@ -70,25 +62,27 @@ if __name__ == "__main__":
   # Activating the debug mode
   Debugger.debug_mode = True
 
-  # Calculating embeddings
-  # TODO 001
+  # Creating sentences
   sentences = [
-    ...,
-    ...,
-    ...,
-    ...,
-    ...,
-    ...,
+    "J'aime le paté",
+    "J'aime les courgettes",
+    "La charcuterie, c'est la vie",
+    "Je n'aime pas les légumes",
+    "Le végétal c'est le mal",
+    "Le paté est trop bon",
+    "La vie est triste sans paté",
+    "Je suis allergique au paté",
   ]
 
+  # Calculating embeddings
+  vectors = compute_embeddings(sentences, model=args.embeddings)
+
   # Calculating the similarity matrix
-  # TODO 002
-  vectors = ...
-  cosine_matrix = ...
+  cosine_matrix = compute_cosine_matrix(vectors)
 
   # Printing results
-  # TODO 003
   with np.printoptions(precision=3) as opts:
-    debug_label("La similarité cosinus entre les phrases est respectivement", f"""\n{...}""")
-  for n in range(1, len(sentences)):
-    print_similarity(..., ..., 0, n)
+    debug_label("La similarité cosinus entre les phrases est respectivement", f"""\n{cosine_matrix}""")
+
+  for k in range(1, len(sentences)):
+    print_similarity(sentences, cosine_matrix, 0, k)

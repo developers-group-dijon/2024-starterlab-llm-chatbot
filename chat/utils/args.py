@@ -30,11 +30,9 @@ def add_text_splitter_arg(parser: ArgumentParser) -> None:
     default="RecursiveCharacterTextSplitter",
     choices=["RecursiveCharacterTextSplitter", "HTMLHeaderTextSplitter", "MarkdownHeaderTextSplitter"],
   )
-  # Paramètres pour RecursiveCharacterTextSplitter
+  # Splitter parameters
   parser.add_argument("--chunk-size", help="taille des chunks", default=1000, type=int)
   parser.add_argument("--chunk-overlap", help="overlap entre les chunks", default=100, type=int)
-  # Paramètres pour HTMLHeaderTextSplitter
-  # Paramètres pour MarkdownHeaderTextSplitter
   parser.add_argument(
     "--apply-recursive-text-splitter",
     help="applique RecursiveCharacterTextSplitter en plus des autres splitter",
@@ -76,6 +74,7 @@ class ChatNamespace(argparse.Namespace):
   chunk_size: int
   chunk_overlap: int
   apply_recursive_text_splitter: bool
+  postgres_url: str
 
 
 class SplitNamespace(argparse.Namespace):
@@ -105,6 +104,7 @@ def init_args() -> ChatNamespace:
   add_embedding_arg(parser)
   add_debug_arg(parser)
   add_text_splitter_arg(parser)
+  add_postgres_arg(parser)
 
   return parser.parse_args(namespace=ChatNamespace())
 

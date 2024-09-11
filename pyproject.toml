@@ -1,0 +1,51 @@
+[tool.poetry]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "~3.12.0"
+ollama = "^0.3.2"
+prompt-toolkit = "^3.0.47"
+langchain-community = "^0.2.16"
+ruff = "^0.6.3"
+psycopg-binary = "^3.1.19"
+faiss-cpu = "^1.8.0.post1"
+unstructured = {extras = ["html"], version = "^0.15.9"}
+psutil = "^6.0.0"
+pgvecto-rs = {extras = ["sdk"], version = "^0.2.1"}
+psycopg = "^3.2.1"
+nltk = "^3.9.1"
+pdfminer-six = "^20240706"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.mypy]
+follow_imports = "skip"
+ignore_missing_imports = true
+disable_error_code = ["method-assign", "union-attr"]
+disallow_untyped_calls = true
+disallow_untyped_defs = true
+pretty = true
+strict_optional = true
+warn_redundant_casts = true
+warn_unreachable = true
+
+[tool.ruff]
+indent-width = 2
+line-length = 120
+target-version = "py312"
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+
+[tool.ruff.lint]
+extend-select = ["I"]
+
+[tool.ruff.lint.isort]
+split-on-trailing-comma = true
+combine-as-imports = true
+section-order = ["future", "standard-library", "first-party", "local-folder", "third-party"]
+force-sort-within-sections = true
+from-first = true

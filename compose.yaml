@@ -1,0 +1,15 @@
+services:
+  pgvectors:
+    image: tensorchord/pgvecto-rs:pg16-v0.3.0
+    environment:
+      - POSTGRES_PASSWORD=pgvectors
+      - POSTGRES_USER=pgvectors
+      - POSTGRES_DB=pgvectors
+      - PGDATA=/var/lib/postgresql/data
+    ports:
+      - 127.0.0.1:5432:5432
+    volumes:
+      - ./docker/pgvectors:/docker-entrypoint-initdb.d:ro
+      - pgvectors:/var/lib/postgresql/data
+volumes:
+  pgvectors:

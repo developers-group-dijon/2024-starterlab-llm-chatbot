@@ -1,0 +1,2299 @@
+{{Semi-protection}}
+{{Match en direct}}
+{{Compétition sportive en cours|sport=football}}
+{{Infobox Compétition sportive
+ | charte             = football
+ | titre              = UEFA Euro 2024
+ | image              = Logo UEFA Euro 2024.svg
+ | sport              = [[Football]]
+ | organisateur       = [[Union des associations européennes de football|UEFA]]
+ | édition            = {{17e}}
+ | lieu               = {{Allemagne}}
+ | date               = Du {{date-|14|6|2024-}} au {{date-|14|7|2024}}
+ | participants       = 24 équipes
+ | matchs joués       = 51 rencontres
+ | site               = 10 (dans 10 villes hôtes)
+ | site web           = [https://fr.uefa.com/euro-2024/ UEFA Euro 2024]
+ | tenant             = {{ITA football}} (2)
+ | vainqueur          = 
+ | finaliste          = 
+ | demi-finalistes    = 
+ | buts               =
+ | meilleur buteur    = 
+ | meilleur joueur    = 
+ | meilleur passeur   = 
+ | précédent lien     = Championnat d'Europe de football 2020
+ | suivant lien       = Championnat d'Europe de football 2028
+ | article principal  = Championnat d'Europe de football
+ | précédent texte    = Europe 2020
+ | suivant texte      = Irlande - Royaume-Uni 2028
+ | yelcards           = 
+ | redcards           = 
+}}
+
+Le '''Championnat d'Europe de l'UEFA de football 2024''' est la {{17e}} édition du [[Championnat d'Europe de football]], communément abrégé en '''Euro 2024''', compétition organisée par l'[[Union des associations européennes de football|UEFA]] et rassemblant les meilleures équipes nationales masculines européennes. L'[[Allemagne]] est désignée pays organisateur de la compétition le {{date-|27 septembre 2018}}.
+
+C'est la troisième fois que des matches du Championnat d'Europe de football se déroulent sur le territoire allemand et la deuxième fois dans l'Allemagne réunifiée, puisque l'ancienne [[Allemagne de l'Ouest]] avait accueilli [[Championnat d'Europe de football 1988|l'édition 1988]] du tournoi et que quatre matches de l'[[Championnat d'Europe de football 2020|Euro 2020]] multinational s'étaient déroulés à [[Allianz Arena|Munich]]. C'est la première fois que la compétition se déroule dans l'ancienne [[République démocratique allemande|Allemagne de l'Est]], avec [[Leipzig]] comme ville hôte, et la première fois qu'une Allemagne réunifiée est pays hôte. Le tournoi reprend son cycle habituel de quatre ans, après que l'édition 2020 a été reportée à [[2021]] en raison de la [[pandémie de Covid-19]].
+
+L'[[Équipe d'Italie de football|Italie]] est le champion en titre, ayant remporté le tournoi de 2020 après avoir battu l'[[Équipe d'Angleterre de football|Angleterre]] aux tirs au but en finale.
+
+== Candidatures ==
+=== Conditions ===
+Les pays intéressés par l'organisation de l'Euro 2024 ont eu jusqu'au {{date-|3 mars 2017}} pour déposer leur candidature.
+
+=== Candidatures officielles ===
+* {{Allemagne}}<ref>{{Lien web |langue=fr |auteur=AFP |titre=Euro 2024 : l'Allemagne est candidate pour l'organisation |url=https://www.lequipe.fr/Football/Actualites/Euro-2024-l-allemagne-est-candidate-pour-l-organisation/770540 |accès url=libre |site=www.lequipe.fr |éditeur=[[L'Équipe]] |date=20 janvier 2017 |consulté le=14 juin 2024}}.</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Le Figaro |titre=L'Allemagne candidate pour organiser l'Euro 2024 |url=https://www.lefigaro.fr/sports/football/fil-info/l-allemagne-candidate-pour-organiser-l-euro-2024-842291 |accès url=libre |site=www.lefigaro.fr |éditeur=[[Le Figaro]] |date=20 janvier 2024 |consulté le=14 juin 2024}}.</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=JD |titre=L’Allemagne candidate à l’organisation de l’Euro 2024 |url=http://www.sofoot.com/l-allemagne-candidate-a-l-organisation-de-l-euro-2024-437806.html |accès url=libre |site=www.sofoot.com |éditeur=[[So Foot]] |date=20 janvier 2017 |consulté le=14 juin 2024}}.</ref>
+Le {{date-|24 octobre 2013}}, le comité exécutif de la [[Fédération allemande de football]] (DFB) vote pour proposer une candidature au Championnat 2024, vote confirmé par une décision unanime en {{date-|janvier 2017}}. Le pays a précédemment accueilli l'[[Championnat d'Europe de football 1988|Euro 1988]], ainsi que la [[Coupe du monde de football 1974]] et la [[Coupe du monde de football 2006]].
+
+17 villes se sont déclarées intéressées pour accueillir des matchs du championnat européen, avant que 15 d'entre elles ne s'inscrivent formellement avant l'échéance d'[[avril 2017]].<!-- Quelles sont les deux villes manquantes ? Kaiserlautern était-elle l'une des deux ? C'est confus --> La ville de [[Kaiserslautern]] s'est par la suite retirée, en raison d'incertitudes financières. {{refnec|L'annonce des dix villes officiellement candidates}} a lieu le {{date-|15 septembre 2017}} : [[Berlin]], [[Cologne]], [[Dortmund]], [[Düsseldorf]], [[Francfort-sur-le-Main]], [[Gelsenkirchen]], [[Hambourg]], [[Leipzig]], [[Munich]] et [[Stuttgart]] sont choisies, les quatre villes non sélectionnées sont [[Brême]], [[Hanovre]], [[Mönchengladbach]] et [[Nuremberg]].
+
+Le {{date-|24 avril 2018}}, l'UEFA annonce que la DFB a déposé son dossier de candidature pour l'organisation de ce Championnat d'Europe{{Référence souhaitée|date=16 juin 2024}}.
+
+* {{Turquie}}<ref>{{Lien web |langue=fr |auteur=AFP |titre=Euro-2024: la Turquie candidate à l'organisation |url=http://www.lexpress.fr/actualites/1/sport/euro-2024-la-turquie-candidate-a-l-organisation_1879412.html |accès url=libre |site=www.lexpress.fr |éditeur=[[L'Express]] |date=15 février 2017 |consulté le=14 juin 2024}}.</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=AFP |titre=Euro-2024 : la Turquie candidate à l'organisation |url=https://www.lepoint.fr/sport/euro-2024-la-turquie-candidate-a-l-organisation-15-02-2017-2104906_26.php#11 |accès url=libre |site=www.lepoint.fr |éditeur=[[Le Point]] |date=15 février 2017 |consulté le=14 juin 2024}}.</ref>.
+En [[avril 2014]], la [[Fédération de Turquie de football]] (TFF) annonce qu'elle ne proposera pas sa candidature pour l'organisation des demi-finales ou de la finale de l'[[Championnat d'Europe de football 2020|Euro 2020]] qui se déroule dans toute l'Europe, préférant se concentrer sur sa candidature pour l'Euro 2024. Cette décision est en partie due aux échecs des candidatures turques pour l’organisation de l'[[Championnat d'Europe de football 2016|Euro 2016]] ou des [[Jeux olympiques d'été de 2020]] avec sa plus grande ville : [[Istanbul]]. Le pays n'a pas encore accueilli une compétition sportive majeure, ayant échoué lors des candidatures pour l'[[Championnat d'Europe de football 2008|Euro 2008]] (avec la [[Grèce]]) et pour l'[[Championnat d'Europe de football 2012|Euro 2012]].
+
+Le {{date-|15 février 2017}}, la TFF confirme sa candidature. Les autorités turques estiment que le pays possède désormais les infrastructures sportives pour organiser un événement sportif de grande ampleur. Le {{date-|20 octobre 2017}}, {{refnec|la fédération dévoile les stades choisis pour son dossier}}, avec [[Ankara]], [[Antalya]], [[Bursa]], [[Eskişehir]], [[Gaziantep]], [[Istanbul]], [[Izmit]], [[Konya]] et [[Trabzon]]. Le slogan officiel de la candidature pour la compétition est {{Citation|''Share together''}}. Le {{date-|26 avril 2018}}, le dossier est officiellement déposé au siège de l'[[Union des associations européennes de football|UEFA]], en [[Suisse]].
+
+<gallery>
+Euro 2024 Allemagne logo candidature.png|Logo de la candidature allemande
+Euro 2024 Turquie logo candidature.png|Logo de la candidature turque
+</gallery>
+
+=== Désignation du pays organisateur ===
+La désignation du pays organisateur s'effectue le {{date-|27 septembre 2018}} à [[Nyon]], en [[Suisse]], par vote à bulletins secrets des dix neuf membres du Comité exécutif de l'UEFA, à l'exception de [[Reinhard Grindel]] et {{Lien|langue=tr|Servet Yardımcı|trad=Servet Yardımcı}}, ces deux membres étant respectivement les représentants des fédérations [[Fédération allemande de football|allemande]] et [[Fédération de Turquie de football|turque]]. L'Allemagne est choisie pour organiser ce championnat d'Europe avec un total de 12 voix sur 17<ref>{{Article|langue=fr|titre=L'Euro 2024 se jouera en Allemagne|périodique=[[L'Essentiel (journal)|L'Essentiel]]|date=27 septembre 2018|lire en ligne=http://www.lessentiel.lu/fr/sports/football/story/l-euro-2024-se-jouera-en-allemagne-25308330|consulté le=|accès url=libre}}.</ref>{{,}}<ref name=\"paysorg(l'équipe)\">{{Lien web |langue=fr |titre=L'Allemagne organisera l'Euro 2024 |url=https://www.lequipe.fr/Football/Actualites/L-allemagne-organisera-l-euro-2024/944161 |accès url=libre |site=[[L'Équipe]] |date=27 septembre 2018 |consulté le=7 novembre 2021}}.</ref>{{,}}<ref name=\"paysorg(lepoint)\">{{Lien web |langue=fr |auteur=AFP |titre=Euro-2024: l'UEFA choisit l'Allemagne et la sécurité |url=https://www.lepoint.fr/sport/euro-2024-l-uefa-choisit-l-allemagne-et-la-securite-27-09-2018-2258445_26.php |accès url=libre |site=Lepoint.fr |date=27 septembre 2018 |consulté le=7 novembre 2021}}.</ref>.
+
+{| class=\"wikitable left\" style=\"text-align:center;\"
+|+Choix du pays hôte
+! style=\"width:200px;\" scope=\"col\" |Fédération candidate
+! style=\"width:70px;\" scope=\"col\" |Vote
+|-
+| style=\"background:#90ee97; text-align:left;\" |{{GER-d}} [[Fédération allemande de football|Allemagne]]
+| style=\"background:#90ee97;\" |'''12'''
+|-
+| style=\"text-align:left;\" |{{TUR-d}} [[Fédération de Turquie de football|Turquie]]
+|4
+|-
+| style=\"text-align:left;\" |Vote nul
+|1
+|- class=\"sortbottom\" style=\"font-weight:bold;\"
+|Total
+|17
+|}
+{{clr}}
+
+== Villes et stades ==
+{| class=\"wikitable center\" style=\"text-align:center; font-size:100%\"
+|+'''Stades et Localisation'''<ref>{{Lien web |langue=fr |auteur=UEFA |titre=Villes hôtes de l'EURO 2024, le guide des stades |url=https://fr.uefa.com/news/0274-14d47143e47a-743218772ff7-1000--villes-hotes-le-guide-des-stades/ |accès url=libre |site=fr.uefa.com |date=4 avril 2022 |consulté le=4 avril 2022}}.</ref>
+|-
+! scope=\"col\" |[[Berlin]]
+! scope=\"col\" |[[Cologne]]
+! scope=\"col\" |[[Dortmund]]
+! scope=\"col\" |[[Düsseldorf]]
+|- 
+|[[Stade olympique de Berlin|Olympiastadion]]
+|[[RheinEnergieStadion|Stade de Cologne]]
+|[[Signal Iduna Park|BVB Stadion Dortmund]]
+|[[Merkur Spiel-Arena|Düsseldorf Arena]]
+|-
+| Capacité : {{Nombre|70000}}
+| Capacité : {{Nombre|47000}}
+| Capacité : {{Nombre|66000}}
+| Capacité : {{Nombre|47000}}
+|-
+|[[Fichier:Olympiastadion Berlin-Marathontor-msu-2020-3139.jpg|sans_cadre|200px]]
+|[[Fichier:RheinEnergieStadion (Flickr 19557605463).jpg|sans_cadre|200px]]
+|[[Fichier:Signal_iduna_park_stadium_dortmund_4.jpg|sans_cadre|200px]]
+|[[Fichier:Merkur-Spiel-Arena.jpg|sans_cadre|200px]]
+|-
+! scope=\"col\" |[[Francfort-sur-le-Main]]
+! colspan=\"2\" rowspan=\"8\" scope=\"row\" |{{Début d'illustration|center}}
+{{Début de carte}}[[Fichier:{{Géolocalisation/Allemagne|image}}|400px]]
+{{G|Allemagne|52.514722|13.239444|Berlin|Ville|4|n}}
+{{G|Allemagne|51.492569|7.451842|Dortmund|Ville|4|e}}
+{{G|Allemagne|51.345794|12.348219|Leipzig|Ville|4|e}}
+{{G|Allemagne|48.218775|11.624753|Munich|Ville|4|s}}
+{{G|Allemagne|51.554498|7.067554|Gelsenkirchen|Ville|4|n}}
+{{G|Allemagne|50.069206|8.644234|Francfort-sur-le-Main|Ville|4|e}}
+{{G|Allemagne|51.2609|6.7351|Düsseldorf|Ville|4|e}}
+{{G|Allemagne|48.792295|9.232141|Stuttgart|Ville|4|e}}
+{{G|Allemagne|50.9334609|6.8751545|Cologne|Ville|4|e}}
+{{G|Allemagne|53.5871279|9.8986004|Hambourg|Ville|4|e}}
+{{Fin de carte}}
+{{Fin d'illustration|{{Géolocalisation/Allemagne|image}}|}}
+! scope=\"col\" |[[Gelsenkirchen]]
+|- 
+|[[Deutsche Bank Park|Frankfurt Arena]]
+|[[Veltins-Arena|Arena AufSchalke]]
+|-
+| Capacité : {{Nombre|46000}}
+| Capacité : {{Nombre|50000}}
+|-
+|[[Fichier:Deutsche_bank_park.jpg|sans_cadre|200px]]
+|[[Fichier:2010-06-03 Arena AufSchalke 01.jpg|sans_cadre|200px]]
+|-
+! scope=\"col\" |[[Hambourg]]
+! scope=\"col\" |[[Leipzig]]
+|- 
+|[[Volksparkstadion]]
+|[[Red Bull Arena (Leipzig)|Stade de Leipzig]]
+|-
+| Capacité : {{Nombre|50000}}
+| Capacité : {{Nombre|46000}}
+|-
+|[[Fichier:RK 1009 9831 Volksparkstadion.jpg|sans_cadre|200px]]
+|[[Fichier:Leipzig stadium.jpg|sans_cadre|200px]]
+|-
+! colspan=\"2\" scope=\"col\" |[[Munich]]
+! colspan=\"2\" scope=\"col\" |[[Stuttgart]]
+|- 
+| colspan=\"2\" |[[Allianz Arena|Munich Football Arena]]
+| colspan=\"2\" |[[MHPArena|Stuttgart Arena]]
+|-
+| colspan=\"2\" | Capacité : {{Nombre|67000}}
+| colspan=\"2\" | Capacité : {{Nombre|54000}}
+|-
+| colspan=\"2\" |[[Fichier:Allianz Arena Pahu.jpg|sans_cadre|200px]]
+| colspan=\"2\" |[[Fichier:Stuttgart stadium.jpg|sans_cadre|200px]]
+|}
+
+L'Allemagne disposait d'un large choix de stades satisfaisant à l'exigence de capacité minimale de l'UEFA de 30 000 places pour les matches du championnat d'Europe.
+
+Sur les dix stades sélectionnés pour l'Euro 2024, neuf ont été utilisés pour la Coupe du monde 2006 : Berlin, Dortmund, Munich, Cologne, Stuttgart, Hambourg, Leipzig, Francfort et Gelsenkirchen. Düsseldorf, qui n'a pas été utilisé en 2006 mais qui avait déjà été utilisé pour la Coupe du Monde 1974 et pour l'Euro 1988, servira de dixième stade ; à l'inverse, Hanovre, Nuremberg et Kaiserslautern, villes hôtes en 2006 (en plus de 1974 et 1988 dans le cas de Hanovre), ne seront pas utilisées pour ce championnat. Munich a également été ville hôte lors de l'Euro 2020 accueillant quatre matchs (dont trois impliquant l'Allemagne) devant un nombre de spectateurs fortement réduit en raison des restrictions liées à la COVID-19.
+
+Divers autres stades, comme ceux de Brême et de Mönchengladbach, n'ont pas été retenus. Les stades couvraient toutes les principales régions d'Allemagne, mais la zone comptant le plus grand nombre de stades à l'Euro 2024 est la région métropolitaine Rhin-Ruhr, dans le Land de Rhénanie-du-Nord-Westphalie, avec quatre des dix villes hôtes (Dortmund, Düsseldorf, Gelsenkirchen et Cologne).
+
+== Communication et produits dérivés ==
+=== Logo ===
+Le logo officiel de la compétition est présenté le {{date-|5 octobre 2021}} à {{Heure|20|24}} [[CEST]] au [[Stade olympique de Berlin]]{{Référence souhaitée|date=16 juin 2024}}.
+
+Il se compose d'une représentation du [[Championnat d'Europe de football#Le trophée|trophée Henri-Delaunay]] entouré d'une zone ovale rappelant le toit du Stade olympique, striée des couleurs des 55 associations de l'[[UEFA]] figurant dans 24 bandes, correspondant aux 24 pays qualifiés<ref>{{Lien web |langue=fr |auteur=GL |titre=Euro 2024 : le logo du tournoi a été dévoilé |url=https://rmcsport.bfmtv.com/football/euro/euro-2024-le-logo-du-tournoi-a-ete-devoile_AV-202110050563.html |accès url=libre |site=rmcsport.bfmtv |date=5 octobre 2021}}.</ref>.
+
+=== Slogan ===
+Le slogan de la compétition, dévoilé en même temps que le logo, est : {{Citation|United by Football. Vereint im Herzen Europas}}. Ce slogan utilisé pour la candidature de l'Allemagne à l'organisation de la compétition se veut un message d'unité et d'inclusion<ref>{{Lien web |langue=fr |titre=Euro 2024 : le logo dévoilé |url=https://www.dfb.de/fr/actus/detail/euro-2024-le-logo-devoile-232840/?no_cache=1 |accès url=libre |site=dfb.de |date=5 octobre 2021}}.</ref>.
+
+=== Ballon officiel ===
+[[Fichier:UEFA Euro 2024 Match Ball Fussballliebe.jpg|thumb|200px|Ballon officiel de l'Euro 2024.]]
+Le ballon officiel de la compétition est présenté le {{date-|15 novembre 2023}}{{Référence souhaitée|date=16 juin 2024}}.
+
+Baptisé ''Fussballliebe'' (l'amour du football en allemand), il est décoré de motifs en forme d’ailes noires aux bords colorés. Ces ailes sont mises en valeur par des points de couleur, qui symbolisent le {{Citation|mouvement du ballon}} et {{Citation|l’énergie qui imprègne le football}}<ref name=\"lien\">{{lien web |langue=fr |auteur=Lucas Delhomme |titre=Euro 2024 : le ballon officiel présenté par Adidas |url=https://www.footpack.fr/201996-euro-2024-le-ballon-officiel-presente-par-adidas |accès url=libre |site=footpack.fr |éditeur=footpack |date=15 novembre 2023 |consulté le=15 novembre 2023}}.</ref>.
+
+=== Mascotte ===
+La mascotte est présentée le {{date-|2|décembre|2023}} durant le tirage au sort de la {{Passage à vérifier|phase finale}}. Elle se nomme ''Albärt'', un hommage à l'image inusable du fidèle ours en peluche allemand, dont on dit qu'il est né en dans le pays au début du {{XXe siècle}}. Présent dans tous les noms proposés, « Bär » signifie ours en allemand<ref>{{Lien web |langue=fr |auteur=Milan Busignies |titre=Euro 2024 : comment s’appelle la mascotte allemande ? |url=https://www.leparisien.fr/sports/football/euro/euro-2024-comment-sappelle-la-mascotte-allemande-02-12-2023-EXMTYSIHCZFAHDWA3AKMCBADC4.php |accès url=libre |site=leparisien.fr |date=2 décembre 2023 |consulté le=6 décembre 2023}}</ref>.
+
+== Éliminatoires ==
+{{Article détaillé|Éliminatoires du Championnat d'Europe de football 2024}}
+[[Fichier:UEFA Euro 2024 Qualifiers Map.png|vignette|350px|
+{{Légende|#0000FF|Équipes qualifiées pour l’Euro 2024}}
+{{Légende|#FFCD00|Équipes éliminées}}
+{{Légende|#000000|Exclu}}]]
+Le tirage au sort des éliminatoires a lieu le dimanche {{date-|9|octobre|2022}} au Centre d'expositions de la [[Festhalle]] de [[Francfort-sur-le-Main|Francfort]]<ref>{{Lien web |langue=fr |titre=UEFA Euro 2024, tirage des éliminatoires à Francfort en 2022 {{!}} UEFA EURO 2024 |url=https://fr.uefa.com/euro2024/news/026e-136b9d135e76-87c4b3785b05-1000--uefa-euro-2024-tirage-des-eliminatoires-a-francfort-en-2022/ |accès url=libre |site=UEFA.com |date=19 septembre 2022}}</ref>. La phase de groupes débute le {{date-|23 mars}} et se conclut le {{date-|21 novembre 2023}}. Les barrages sont disputés en {{date-|mars 2024}}.
+
+Au total, {{nombre|53|équipes}} se disputent 20 des {{nombre|23|places}} qualificatives. Les équipes sont réparties en trois groupes de six et sept groupes de cinq. {{nombre|20|places}} qualificatives sont distribuées aux vainqueurs et deuxièmes de groupes, qui s'assurent donc directement une participation à la {{Passage à vérifier|phase finale}} de la compétition. Puis, les douze équipes les mieux classées au classement général de la [[Ligue des nations de l'UEFA 2022-2023|Ligue des nations]] n'ayant pas terminé dans les deux premières places de leur groupe disputent les barrages pour attribuer les trois dernières places.
+
+=== Composition des groupes ===
+
+{| class=\"wikitable\" style=\"text-align:left; font-size:86%\"
+|+Composition des groupes de qualification et résultats des sélections
+!scope=col style=\"width:20%;\"| Groupe
+!scope=col style=\"width:20%;\"| Sélection<br />directement qualifiée
+!scope=col style=\"width:20%;\"| Sélection<br />qualifiée via les [[Barrages des éliminatoires du Championnat d'Europe de football 2024|barrages]]
+!scope=col style=\"width:20%;\"| Sélection<br />éliminée aux [[Barrages des éliminatoires du Championnat d'Europe de football 2024|barrages]]
+!scope=col style=\"width:20%;\"| Sélection<br />éliminée en phase éliminatoire
+|-
+|+Composition des {{nombre|10|groupes}}
+!scope=row| [[Groupe A des éliminatoires du Championnat d'Europe de football 2024|Groupe A]]
+| {{ESP football}}<br>{{SCO football}}
+| {{GEO football}} 
+| 
+| {{NOR football}}<br>{{CHY football}}
+|-
+!scope=row| [[Groupe B des éliminatoires du Championnat d'Europe de football 2024|Groupe B]]
+| {{FRA football}}<br>{{NED football}}
+| 
+| {{GRE football}}
+| {{IRL football}}<br>{{GIB football}}
+|-
+!scope=row| [[Groupe C des éliminatoires du Championnat d'Europe de football 2024|Groupe C]]
+| {{ENG football}}<br>{{ITA football}}
+| {{UKR football}}
+| 
+| {{MKD football}}<br>{{MLT football}}
+|-
+!scope=row| [[Groupe D des éliminatoires du Championnat d'Europe de football 2024|Groupe D]]
+| {{TUR football}}<br>{{CRO football}}
+| 
+| {{WAL football}}
+| {{ARM football}}<br>{{LAT football}}
+|-
+!scope=row| [[Groupe E des éliminatoires du Championnat d'Europe de football 2024|Groupe E]]
+| {{ALB football}}<br>{{CZE football}}
+| {{POL football}}
+|
+| {{MDA football}}<br>{{FRO football}}
+|-
+!scope=row| [[Groupe F des éliminatoires du Championnat d'Europe de football 2024|Groupe F]]
+| {{BEL football}}<br>{{AUT football}}
+| 
+| {{EST football}}
+| {{SWE football}}<br>{{AZE football}}
+|-
+!scope=row| [[Groupe G des éliminatoires du Championnat d'Europe de football 2024|Groupe G]]
+| {{HUN football}}<br>{{SRB football}}
+| 
+| 
+| {{MNE football}}<br>{{LTU football}}<br>{{BUL football}}
+|-
+!scope=row| [[Groupe H des éliminatoires du Championnat d'Europe de football 2024|Groupe H]]
+| {{DEN football}}<br>{{SLO football}}
+| 
+| {{FIN football}}<br>{{KAZ football}}
+| {{NIR football}}<br>{{SMR football}}
+|-
+!scope=row| [[Groupe I des éliminatoires du Championnat d'Europe de football 2024|Groupe I]]
+| {{ROU football}}<br>{{SUI football}}
+| 
+| {{ISR football}}
+| {{KOS football}}<br>{{BLR football}}<br>{{AND football}}
+|-
+!scope=row| [[Groupe J des éliminatoires du Championnat d'Europe de football 2024|Groupe J]]
+| {{POR football}}<br>{{SVK football}}
+| 
+| {{ISL football}}<br>{{LUX football}}<br>{{BIH football}}
+| {{LIE football}}
+|}
+
+=== Barragistes ===
+{{Article détaillé|Barrages des éliminatoires du Championnat d'Europe de football 2024}}
+À l'issue de la phase éliminatoire principale, {{nombre|12|équipes}} sont repêchées pour disputer les barrages et sont réparties en trois groupes de quatre équipes. 
+==== Groupes de barrages ====
+{{...}}
+
+== Acteurs de l'Euro ==
+=== Qualifiés ===
+{{Article détaillé|Effectif des équipes au Championnat d'Europe de football 2024}}
+{| class=\"wikitable sortable\" style=\"text-align:center\"
+! scope=\"col\" |Pays
+! scope=\"col\" |Date de qualification
+! scope=\"col\" |Participations au tournoi final
+! scope=\"col\" |Meilleur résultat
+! scope=\"col\" |Dernière participation<br>(résultat obtenu)
+! scope=\"col\" |Âge moyen de<br />la sélection<ref>{{Lien web  |titre=Analyse de l'âge moyen : les équipes de l'Euro 2024 classées par composition des équipes  |url=https://betimate.com/fr/news/knowledge/average-age-analysis-euro-2024-squads-ranked-by-team-composition-1409714 |site=betimate.com |date=18 juin 2024 |consulté le=20 juin 2024}}</ref>
+|-
+|{{GER football}} {{Pays organisateur}}
+|Qualifié d'office<br>{{date-|27|septembre|2018}}
+|{{smn|13|}}<br><small>([[Championnat d'Europe de football 1972|1972]], [[Championnat d'Europe de football 1976|1976]], [[Championnat d'Europe de football 1980|1980]], [[Championnat d'Europe de football 1984|1984]], [[Championnat d'Europe de football 1988|1988]], [[Championnat d'Europe de football 1992|1992]], [[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2000|2000]], [[Championnat d'Europe de football 2004|2004]], [[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2012|2012]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+|{{médaille|1|Eu}} Vainqueur (3)<br><small>([[Championnat d'Europe de football 1972|1972]], [[Championnat d'Europe de football 1980|1980]], [[Championnat d'Europe de football 1996|1996]])</small>
+|[[Championnat d'Europe de football 2020|2020]]<br>(1/8 de finale)
+| 28,6 ans
+|-
+|{{FRA football}}<br><small>[[Groupe B des éliminatoires du Championnat d'Europe de football 2024|Groupe B]] -</small> {{1re|place}}
+| rowspan=\"3\" |{{date-|13|octobre|2023}}
+| {{smn|10|}}<br><small>([[Coupe d'Europe des nations de football 1960|1960]], [[Championnat d'Europe de football 1984|1984]], [[Championnat d'Europe de football 1992|1992]], [[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2000|2000]], [[Championnat d'Europe de football 2004|2004]], [[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2012|2012]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| {{médaille|1|Eu}} Vainqueur (2)<br><small>([[Championnat d'Europe de football 1984|1984]], [[Championnat d'Europe de football 2000|2000]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>(1/8 de finale)<center>
+| 26,9 ans
+|-
+|{{BEL football}}<br><small>[[Groupe F des éliminatoires du Championnat d'Europe de football 2024|Groupe F]] -</small> {{1re|place}} 
+| {{smn|6|}}<br><small>([[Championnat d'Europe de football 1972|1972]], [[Championnat d'Europe de football 1980|1980]], [[Championnat d'Europe de football 1984|1984]], [[Championnat d'Europe de football 2000|2000]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small><center>
+| {{médaille|2|Eu}} Finaliste (1)<br><small>([[Championnat d'Europe de football 1980|1980]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>(1/4 de finale)
+| 26,9 ans
+|-
+|{{POR football}}<br><small>[[Groupe J des éliminatoires du Championnat d'Europe de football 2024|Groupe J]] -</small> {{1re|place}}
+| {{smn|8|}}<br><small>([[Championnat d'Europe de football 1984|1984]], [[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2000|2000]], [[Championnat d'Europe de football 2004|2004]], [[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2012|2012]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| {{médaille|1|Eu}} Vainqueur (1)<br><small>([[Championnat d'Europe de football 2016|2016]])</small>
+|[[Championnat d'Europe de football 2020|2020]]<br>(1/8 de finale)
+| 27 ans
+|-
+|{{ESP football}}<br><small>[[Groupe A des éliminatoires du Championnat d'Europe de football 2024|Groupe A]] -</small> {{1re|place}}
+| rowspan=\"3\" |{{date-|15|octobre|2023}}
+| {{smn|11|}}<br><small>([[Coupe d'Europe des nations de football 1964|1964]], [[Championnat d'Europe de football 1980|1980]], [[Championnat d'Europe de football 1984|1984]], [[Championnat d'Europe de football 1988|1988]], [[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2000|2000]], [[Championnat d'Europe de football 2004|2004]], [[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2012|2012]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| {{médaille|1|Eu}} Vainqueur (3)<br><small>([[Coupe d'Europe des nations de football 1964|1964]], [[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2012|2012]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>({{médaille|3|Eu}} Demi-finale)
+| 27 ans
+|-
+|{{SCO football}}<br><small>[[Groupe A des éliminatoires du Championnat d'Europe de football 2024|Groupe A]] -</small> {{2e|place}}
+| {{smn|3|}}<br><small>([[Championnat d'Europe de football 1992|1992]], [[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2020|2020]])</small>
+| Premier tour (3)<br><small>([[Championnat d'Europe de football 1992|1992]], [[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2020|2020]])</small>
+| <center>[[Championnat d'Europe de football 2020|2020]]<br>(Premier tour)
+| 28,3 ans
+|-
+|{{TUR football}}<br><small>[[Groupe D des éliminatoires du Championnat d'Europe de football 2024|Groupe D]] -</small> {{1re|place}}
+| {{smn|5|}}<br><small>([[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2000|2000]], [[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| {{médaille|3|Eu}} Demi-finale (1)<br><small>([[Championnat d'Europe de football 2008|2008]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>(Premier tour)
+| 25,8 ans
+|-
+|{{AUT football}}<br><small>[[Groupe F des éliminatoires du Championnat d'Europe de football 2024|Groupe F]] -</small> {{2e|place}}
+|{{date-|16|octobre|2023}}
+| {{smn|3|}}<br><small>([[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| 1/8 de finale (1)<br><small>([[Championnat d'Europe de football 2020|2020]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>(1/8 de finale)
+| 26,8 ans
+|-
+|{{ENG football}}<br><small>[[Groupe C des éliminatoires du Championnat d'Europe de football 2024|Groupe C]] -</small> {{1re|place}}
+|{{date-|17|octobre|2023}}
+| {{smn|10|}}<br><small>([[Championnat d'Europe de football 1968|1968]], [[Championnat d'Europe de football 1980|1980]], [[Championnat d'Europe de football 1988|1988]], [[Championnat d'Europe de football 1992|1992]], [[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2000|2000]], [[Championnat d'Europe de football 2004|2004]], [[Championnat d'Europe de football 2012|2012]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| {{médaille|2|Eu}} Finaliste (1)<br><small>([[Championnat d'Europe de football 2020|2020]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>({{médaille|2|Eu}} Finaliste)
+| 26,1 ans
+|-
+|{{HUN football}}<br><small>[[Groupe G des éliminatoires du Championnat d'Europe de football 2024|Groupe G]] -</small> {{1re|place}}
+| rowspan=\"2\" |{{date-|16|novembre|2023}}
+| {{smn|4|}}<br><small>([[Coupe d'Europe des nations de football 1964|1964]], [[Championnat d'Europe de football 1972|1972]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| {{médaille|3|Eu}} Demi-finale (2)<br><small>([[Coupe d'Europe des nations de football 1964|1964]], [[Championnat d'Europe de football 1972|1972]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>(Premier tour)
+| 27,5 ans
+|-
+|{{SVK football}}<br><small>[[Groupe J des éliminatoires du Championnat d'Europe de football 2024|Groupe J]] -</small> {{2e|place}}
+| <center>{{smn|2}}<ref group=\"Note\" name=\":1\">+ 3 participations avec la [[Équipe de Tchécoslovaquie de football|Tchécoslovaquie]] dont la Tchéquie et la Slovaquie étaient membres jusqu'en 1993 : [[Coupe d'Europe des nations de football 1960|1960]], [[Championnat d'Europe de football 1976|1976]] ({{médaille|1|Eu}} V), [[Championnat d'Europe de football 1980|1980]].</ref><br><small>([[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| 1/8 de finale (1)<br><small>([[Championnat d'Europe de football 2016|2016]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>(Premier tour)
+| 27,3 ans
+|-
+|{{ALB football}}<br><small>[[Groupe E des éliminatoires du Championnat d'Europe de football 2024|Groupe E]] -</small> {{1re|place}}
+| rowspan=\"2\" |{{date-|17|novembre|2023}}
+| <center>{{smn|1|}}<br><small>([[Championnat d'Europe de football 2016|2016]])</small>
+| Premier tour (1)<br><small>([[Championnat d'Europe de football 2016|2016]])</small>
+| [[Championnat d'Europe de football 2016|2016]]<br>(Premier tour)
+| 27,3 ans
+|-
+|{{DEN football}}<br><small>[[Groupe H des éliminatoires du Championnat d'Europe de football 2024|Groupe H]] -</small> {{1re|place}}
+| {{smn|9|}}<br><small>([[Coupe d'Europe des nations de football 1964|1964]], [[Championnat d'Europe de football 1984|1984]], [[Championnat d'Europe de football 1988|1988]], [[Championnat d'Europe de football 1992|1992]], [[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2000|2000]], [[Championnat d'Europe de football 2004|2004]], [[Championnat d'Europe de football 2012|2012]], [[Championnat d'Europe de football 2020|2020]])</small>
+| {{médaille|1|Eu}} Vainqueur (1)<br><small>([[Championnat d'Europe de football 1992|1992]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>({{médaille|3|Eu}} Demi-finale)
+| 27,7 ans
+|-
+|{{SUI football}}<br><small>[[Groupe I des éliminatoires du Championnat d'Europe de football 2024|Groupe I]] -</small> {{2e|place}}
+| rowspan=\"3\" |{{date-|18|novembre|2023}}
+| {{smn|5|}}<br><small>([[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2004|2004]], [[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| 1/4 de finale (1)<br><small>([[Championnat d'Europe de football 2020|2020]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>(1/4 de finale)
+| 27,7 ans
+|-
+|{{ROU football}}<br><small>[[Groupe I des éliminatoires du Championnat d'Europe de football 2024|Groupe I]] -</small> {{1re|place}}
+| {{smn|5|}}<br><small>([[Championnat d'Europe de football 1984|1984]], [[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2000|2000]], [[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2016|2016]])</small>
+| 1/4 de finale (1)<br><small>([[Championnat d'Europe de football 2000|2000]])</small>
+| [[Championnat d'Europe de football 2016|2016]]<br>(Premier tour)
+| 27 ans
+|-
+|{{NED football}}<br><small>[[Groupe B des éliminatoires du Championnat d'Europe de football 2024|Groupe B]] -</small> {{2e|place}}
+| {{smn|10|}}<br><small>([[Championnat d'Europe de football 1976|1976]], [[Championnat d'Europe de football 1980|1980]], [[Championnat d'Europe de football 1988|1988]], [[Championnat d'Europe de football 1992|1992]], [[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2000|2000]], [[Championnat d'Europe de football 2004|2004]], [[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2012|2012]], [[Championnat d'Europe de football 2020|2020]])</small>
+| {{médaille|1|Eu}} Vainqueur (1)<br><small>([[Championnat d'Europe de football 1988|1988]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>(1/8 de finale)
+| 26,3 ans
+|-
+|{{SRB football}}<br><small>[[Groupe G des éliminatoires du Championnat d'Europe de football 2024|Groupe G]] -</small> {{2e|place}}
+|{{date-|19|novembre|2023}}
+| {{smn|0}}<ref group=\"Note\">+ 4 participations avec la [[Équipe de Yougoslavie de football|Yougoslavie]] dont la Serbie était membre jusqu'en 1991 : [[Coupe d'Europe des nations de football 1960|1960]], [[Championnat d'Europe de football 1968|1968]] (finaliste), [[Championnat d'Europe de football 1976|1976]] (demi-finaliste), [[Championnat d'Europe de football 1984|1984]].<br>+ 1 participations avec la [[Équipe de Serbie-et-Monténégro de football|République fédérale de Yougoslavie]] dont la Serbie était membre de 1992 à 2003 : [[Championnat d'Europe de football 2000|2000]].</ref><br><small>''Première apparition (en tant que nation indépendante)''</small>
+| -
+| -
+| 27,4 ans
+|-
+|{{ITA football}} {{Tenant du titre}}<br><small>[[Groupe C des éliminatoires du Championnat d'Europe de football 2024|Groupe C]] -</small> {{2e|place}}
+| rowspan=\"3\" |{{date-|20|novembre|2023}}
+| {{smn|10|}}<br><small>([[Championnat d'Europe de football 1968|1968]], [[Championnat d'Europe de football 1980|1980]], [[Championnat d'Europe de football 1988|1988]], [[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2000|2000]], [[Championnat d'Europe de football 2004|2004]], [[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2012|2012]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| {{médaille|1|Eu}} Vainqueur (2)<br><small>([[Championnat d'Europe de football 1968|1968]], [[Championnat d'Europe de football 2020|2020]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>({{médaille|1|Eu}} Vainqueur)
+| 26,5 ans
+|-
+|{{CZE football}}<br><small>[[Groupe E des éliminatoires du Championnat d'Europe de football 2024|Groupe E]] -</small> {{2e|place}}
+| {{smn|7|}}<ref name=\":1\" group=\"Note\" /><br><small>([[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2000|2000]], [[Championnat d'Europe de football 2004|2004]], [[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2012|2012]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| {{médaille|2|Eu}} Finaliste (1)<br><small>([[Championnat d'Europe de football 1996|1996]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>(1/4 de finale)
+| 25,5 ans
+|-
+|{{SLO football}}<br><small>[[Groupe H des éliminatoires du Championnat d'Europe de football 2024|Groupe H]] -</small> {{2e|place}}
+| {{smn|1|}}<ref group=\"Note\" name=\":0\">+ 4 participations avec la [[Équipe de Yougoslavie de football|Yougoslavie]] dont la Croatie et la Slovénie était membre jusqu'en 1991 : [[Coupe d'Europe des nations de football 1960|1960]], [[Championnat d'Europe de football 1968|1968]] (finaliste), [[Championnat d'Europe de football 1976|1976]] (demi-finaliste), [[Championnat d'Europe de football 1984|1984]].</ref><br><small>([[Championnat d'Europe de football 2000|2000</small>]]<small>)</small>
+| Premier tour (1)<br><small>([[Championnat d'Europe de football 2000|2000]])</small>
+| [[Championnat d'Europe de football 2000|2000]]<br>(Premier tour)
+| 27,3 ans
+|-
+|{{CRO football}}<br><small>[[Groupe D des éliminatoires du Championnat d'Europe de football 2024|Groupe D]] -</small> {{2e|place}}
+|{{date-|21|novembre|2023}}
+| {{smn|6|}}<ref name=\":0\" group=\"Note\" /><br><small>([[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2004|2004]], [[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2012|2012]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| 1/4 de finale (2)<br><small>([[Championnat d'Europe de football 1996|1996]], [[Championnat d'Europe de football 2008|2008]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>(1/8 de finale)
+| 27,7 ans
+|-
+|{{POL football}}<br><small>[[Barrages des éliminatoires du Championnat d'Europe de football 2024|Vainqueur des barrages de la Ligue A]]</small>
+| rowspan=\"3\" |{{date-|26|mars|2024}}
+| {{smn|4|}}<br><small>([[Championnat d'Europe de football 2008|2008]], [[Championnat d'Europe de football 2012|2012]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| 1/4 de finale (1)<br><small>([[Championnat d'Europe de football 2016|2016]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>(Premier tour)
+| 27,8 ans
+|-
+|{{UKR football}}<br><small>[[Barrages des éliminatoires du Championnat d'Europe de football 2024|Vainqueur des barrages de la Ligue B]]</small>
+| {{smn|3|}}<ref name=\":2\" group=\"Note\" /><br><small>([[Championnat d'Europe de football 2012|2012]], [[Championnat d'Europe de football 2016|2016]], [[Championnat d'Europe de football 2020|2020]])</small>
+| 1/4 de finale (1)<br><small>([[Championnat d'Europe de football 2020|2020]])</small>
+| [[Championnat d'Europe de football 2020|2020]]<br>(1/4 de finale)
+| 26,3 ans
+|-
+|{{GEO football}}<br><small>[[Barrages des éliminatoires du Championnat d'Europe de football 2024|Vainqueur des barrages de la Ligue C]]</small>
+| {{smn|0}}<ref group=\"Note\" name=\":2\">+ 4 participations avec l'[[Équipe d'Union soviétique de football|Union soviétique]] dont la Géorgie et l'Ukraine était membre jusqu'en 1991 : [[Coupe d'Europe des nations de football 1960|1960]] (vainqueur, [[Coupe d'Europe des nations de football 1964|1964]] (finaliste), [[Championnat d'Europe de football 1968|1968]] (finaliste), [[Championnat d'Europe de football 1972|1972]] (finaliste) et [[Championnat d'Europe de football 1988|1988]] (finaliste). + 1 participations avec la [[Équipe de la Communauté des États indépendants de football|Communauté des États indépendants]] dont la Géorgie et l'Ukraine était membre de janvier à juin 1992 : [[Championnat d'Europe de football 1992|1992]] (1er tour).</ref><br><small>''Première apparition (en tant que nation indépendante)''</small>
+| -
+| -
+| 27,2 ans
+|}
+
+=== Camps de base ===
+Chaque équipe établit un « camp de base » sur le [[Allemagne|territoire allemand]] où elle s'entraîne et réside pendant toute la durée du tournoi, du {{Date|1=14|2=juin}} jusqu'à la fin de son parcours.
+
+{{Début d'illustration|}}
+{{Début de carte}}[[Fichier:{{Géolocalisation/Allemagne|image}}|450px]]
+{{G|Allemagne|51.591667|7.665278|[[Kamen (Allemagne)|Kamen]] {{ALB-d}}|Ville sans lien|4|no}}
+{{G|Allemagne|49.566667|10.883333|[[Herzogenaurach]] {{ALL-d}}|Ville sans lien|4|e}}
+{{G|Allemagne|50.86|11.343889|[[Blankenhain]] {{ENG-d}}|Ville sans lien|4|s}}
+{{G|Allemagne|52.520008|13.404954|[[Berlin]] {{AUT-d}}|Ville sans lien|4|e}}
+{{G|Allemagne|48.8975|09.1922|[[Louisbourg (Allemagne)|Louisbourg]] {{BEL-d}}|Ville sans lien|4|n}}
+{{G|Allemagne|52.922222|12.8|[[Neuruppin]] {{CRO-d}}|Ville sans lien|4|n}}
+{{G|Allemagne|48.4634|8.4117|[[Freudenstadt]] {{DAN-d}}|Ville sans lien|4|o}}
+{{G|Allemagne|47.500|11.100|[[Garmisch-Partenkirchen]] {{SCO-d}}|Ville sans lien|4|ne}}
+{{G|Allemagne|47.953056|8.503333|[[Donaueschingen]] {{ESP-d}}|Ville sans lien|4|o}}
+{{G|Allemagne|51.716667|8.766667|[[Paderborn]] {{FRA-d}}|Ville sans lien|4|e}}
+{{G|Allemagne|51.33|7.05|[[Velbert]] {{GEO-d}}|Ville sans lien|4|o}}
+{{G|Allemagne|47.5314|9.92666|[[Weiler-Simmerberg|Weiler]] {{HUN-d}}|Ville sans lien|4|n}}
+{{G|Allemagne|51.367|7.700|[[Iserlohn]] {{ITA-d}}|Ville sans lien|4|e}}
+{{G|Allemagne|52.423056|10.787222|[[Wolfsburg]] {{NED-d}}|Ville sans lien|4|n}}
+{{G|Allemagne|52.374444|9.738611|[[Hanovre]] {{POL-d}}|Ville sans lien|4|no}}
+{{G|Allemagne|51.9667|8.23306|[[Harsewinkel]] {{POR-d}}|Ville sans lien|4|no}}
+{{G|Allemagne|49.788|9.936|[[Wurtzbourg]] {{ROU-d}}|Ville sans lien|4|n}}
+{{G|Allemagne|48.366512|10.894446|[[Augsbourg]] {{SRB-d}}|Ville sans lien|4|s}}
+{{G|Allemagne|50|8.271111|[[Mayence]] {{SVK-d}}|Ville sans lien|4|s}}
+{{G|Allemagne|51.267|7.183|[[Wuppertal]] {{SLO-d}}|Ville sans lien|4|s}}
+{{G|Allemagne|48.7766|09.1777|[[Stuttgart]] {{SUI-d}}|Ville sans lien|4|e}}
+{{G|Allemagne|53.695736|9.983634|[[Norderstedt]] {{CZE-d}}|Ville sans lien|4|n}}
+{{G|Allemagne|52.3020737|9.4693993|[[Barsinghausen]] {{TUR-d}}|Ville sans lien|4|se}}
+{{G|Allemagne|50.082054|8.241377|[[Wiesbaden]] {{UKR-d}}|Ville sans lien|4|n}}
+{{Fin de carte}}
+{{Fin d'illustration||Localisation du camp de base de chaque équipe<ref>{{Lien web |langue=fr |titre=Vingt-et-une équipes nationales confirment leur camp de base pour l’UEFA EURO 2024 |url=https://fr.uefa.com/euro2024/news/028a-1a13c08579f1-eed1b7d95b3a-1000--vingt-et-une-equipes-nationales-confirment-leur-camp-de-b/ |accès url=libre |site=[[Union des associations européennes de football|UEFA]] |date=1 février 2024 |consulté le=19 juin 2024}}</ref>.}}
+
+=== Non-qualifiés de l'édition 2020 ===
+Cinq nations ayant participé à l'[[Championnat d'Europe de football 2020|édition 2020]] ne se sont pas qualifiées pour cette édition :
+* {{WAL football}} : Huitièmes de finale
+* {{SWE football}} : Huitièmes de finale
+* {{FIN football}} : {{1er}} tour
+* {{MKD football}} : {{1er}} tour
+* {{RUS football}} (exclue) : {{1er}} tour
+
+=== Arbitres ===
+Le {{Date|23|avril|2024}}, l'UEFA désigne dix-neuf arbitres centraux pour la compétition. Pour la troisième fois depuis 2020, un arbitre non européen, l'argentin [[Facundo Tello]], est sélectionné comme arbitre lors d'un championnat d'Europe. Il rejoindra la compétition à partir de la phase finale<ref>{{Lien web |langue=en |nom=UEFA.com |titre=Referee teams for UEFA EURO 2024 appointed |url=https://www.uefa.com/euro2024/media/news/028c-1ab861ea105d-1af970c69ec4-1000--referee-teams-for-uefa-euro-2024-appointed/ |accès url=libre |site=UEFA.com |date=23 avril 2024}}</ref>.
+
+{| class=\"wikitable gauche\" style=\"display:inline-table; margin-right:1em;\"
+|+Arbitres de terrain
+!scope=col| Arbitres
+!scope=col| Arbitres assistants
+|-
+| {{GER-d}} [[Daniel Siebert]]
+| {{GER-d}} Jan Seidel<br>{{GER-d}} Rafael Foltyn
+|-
+| {{GER-d}} [[Felix Zwayer]]
+| {{GER-d}} Stefan Lupp<br>{{GER-d}} Marco Achmüller
+|-
+| {{ENG-d}} [[Michael Oliver]]
+| {{ENG-d}} Stuart Burt<br>{{ENG-d}} Dan Cook
+|-
+| {{ENG-d}} [[Anthony Taylor (arbitre)|Anthony Taylor]]
+| {{ENG-d}} Gary Beswick<br>{{ENG-d}} Adam Nunn
+|-
+| {{ARG-d}} [[Facundo Tello]]
+| {{ARG-d}} Gabriel Chade<br>{{ARG-d}} Ezequiel Brailovsky
+|-
+| {{ESP-d}} {{Lien|langue=en|fr=Jesús Gil Manzano}}
+| {{ESP-d}} Diego Barbero Sevilla<br>{{ESP-d}} Ángel Nevado Rodriguez
+|-
+| {{FRA-d}} [[François Letexier]]
+| {{FRA-d}} Cyril Mugnier<br>{{FRA-d}} Mehdi Rahmouni
+|-
+| {{FRA-d}} [[Clément Turpin]]
+| {{FRA-d}} Nicolas Danos<br>{{FRA-d}} Benjamin Pages
+|-
+| {{ITA-d}} {{Lien|langue=en|fr=Marco Guida}}
+| {{ITA-d}} Filippo Meli<br>{{ITA-d}} Giorgio Peretti
+|-
+| {{ITA-d}} [[Daniele Orsato]]
+| {{ITA-d}} Ciro Carbone<br>{{ITA-d}} Alessandro Giallatini
+|-
+| {{NED-d}} [[Danny Makkelie]] 
+| {{NED-d}} Hessel Steegstra<br>{{NED-d}} Jan de Vries
+|-
+| {{POL-d}} [[Szymon Marciniak]]
+| {{POL-d}} Tomasz Listkiewicz<br>{{POL-d}} Adam Kupsik
+|-
+| {{POR-d}} [[Artur Soares Dias]]
+| {{POR-d}} Paulo Alexandre Santos Soares<br>{{POR-d}} Pedro Ribeiro
+|-
+| {{ROU-d}} [[István Kovács (arbitre)|István Kovács]]
+| {{ROU-d}} Vasile Florin Marinescu<br>{{ROU-d}} Mihai Ovidiu Artene
+|-
+| {{SVK-d}} {{Lien|langue=en|fr=Ivan Kruzliak}}
+| {{SVK-d}} Branislav Hancko<br>{{SVK-d}} Jan Pozor
+|-
+| {{SLO-d}} [[Slavko Vinčić]]
+| {{SLO-d}} Tomaž Klančnik<br>{{SLO-d}} Andraž Kovačič
+|-
+| {{SWE-d}} {{Lien|langue=en|fr=Glenn Nyberg}}
+| {{SWE-d}} Mahbod Beigi<br>{{SWE-d}} Andreas Söderkvist 
+|-
+| {{SUI-d}} {{Lien|langue=en|fr=Sandro Schärer}}
+| {{SUI-d}} Stéphane de Almeida<br>{{SUI-d}} Bekim Zogaj 
+|-
+| {{TUR-d}} {{Lien|langue=en|fr=Halil Umut Meler}}
+| {{TUR-d}} Mustafa Emre Eyisoy<br>{{TUR-d}} Kerem Ersoy
+|}
+
+{| class=\"wikitable gauche\" style=\"display:inline-table; margin-right:1em;\"
+|+Arbitres vidéo
+|-
+| {{GER-d}} {{Lien|langue=en|fr=Bastian Dankert}}<br>{{GER-d}} {{Lien|langue=en|fr=Christian Dingert}}<br>{{GER-d}} {{Lien|langue=en|fr=Marco Fritz}}
+|-
+| {{ENG-d}} {{Lien|langue=en|fr=Stuart Attwell}}<br>{{ENG-d}} {{Lien|langue=en|trad=David Coote (referee)|fr=David Coote}}
+|-
+| {{ESP-d}} {{Lien|langue=en|fr=Alejandro Hernández Hernández}}<br>{{ESP-d}} {{Lien|langue=en|fr=Juan Martínez Munuera}}
+|-
+| {{FRA-d}} [[Jérôme Brisard]]<br>{{FRA-d}} {{Lien|langue=en|fr=Willy Delajod}}
+|-
+| {{ITA-d}} [[Massimiliano Irrati]]<br>{{ITA-d}} {{Lien|langue=en|fr=Paolo Valeri}}
+|-
+| {{NED-d}} Rob Dieperink<br>{{NED-d}} {{Lien|langue=en|fr=Pol van Boekel}}
+|-
+| {{POL-d}} {{Lien|langue=en|fr=Bartosz Frankowski}}<br>{{POL-d}} {{Lien|langue=en|fr=Tomasz Kwiatkowski}}
+|-
+| {{POR-d}} {{Lien|langue=en|fr=Tiago Martins}}
+|-
+| {{ROU-d}} {{Lien|langue=en|fr=Catalin Popa}}
+|-
+| {{SLO-d}} {{Lien|langue=en|fr=Ned Kajtazovic}}
+|-
+| {{SUI-d}} {{Lien|langue=en|fr=Fedayi San}}
+|-
+| {{TUR-d}} {{Lien|langue=en|fr=Alper Ulusoy}}
+|}
+{| class=\"wikitable gauche\" style=\"display:inline-table; margin-right:1em;\"
+|+Arbitres de réserve
+|-
+| {{BIH-d}} {{Lien|langue=en|fr=Irfan Peljto}}<br/>{{BIH-d}} {{Lien|langue=en|fr=Senad Ibrišimbegović}}
+|-
+| {{LTU-d}} [[Donatas Rumsas]]<br/>{{LTU-d}} {{Lien|langue=en|fr=Aleksandr Radiuš}}
+|-
+| {{NED-d}} {{Lien|langue=en|fr=Serdar Gozubuyuk}}<br/>{{NED-d}} {{Lien|langue=en|fr=Johan Balder}}
+|-
+| {{NOR-d}} {{Lien|langue=en|fr=Espen Eskås}}<br/>{{NOR-d}} {{Lien|langue=en|fr=Jan Erik Engan}}
+|-
+| {{SLO-d}} {{Lien|langue=en|fr=Rade Obrenovic}}<br/>{{SLO-d}} {{Lien|langue=en|fr=Jure Praprotnik}}
+|-
+| {{UKR-d}} {{Lien|langue=en|fr=Mykola Balakin}}<br/>{{UKR-d}} {{Lien|langue=en|fr=Oleksandr Berkut}}
+|}
+{{-}}
+
+=== Calendrier des rencontres ===
+{|class=\"wikitable\" style=\"margin:0.5em auto;font-size:80%;text-align:center\"
+|-
+|+ Calendrier des rencontres par groupe et par tour<ref>{{Lien web |langue=fr |auteur=AFP |titre=Euro 2024 - Allemagne - Ecosse en ouverture, les Bleus débutent le 17 juin : le calendrier complet de la compétition |url=https://www.eurosport.fr/football/euro-2024/2024/euro-2024-allemagne-ecosse-en-ouverture-les-bleus-debutent-le-17-juin-le-calendrier-complet-de-la-co_sto9906884/story.shtml |accès url=libre |site=eurosport.fr |date=3 décembre 2023 |consulté le=3 décembre 2023}}.</ref>
+|-
+! scope=\"row\" style=\"text-align:center\" colspan=\"2\" rowspan=2|Dates
+! scope=\"col\" style=\"width:2em\"|14
+! scope=\"col\" style=\"width:2em\"|15
+! scope=\"col\" style=\"width:2em\"|16
+! scope=\"col\" style=\"width:2em\"|17
+! scope=\"col\" style=\"width:2em\"|18
+! scope=\"col\" style=\"width:2em\"|19
+! scope=\"col\" style=\"width:2em\"|20
+! scope=\"col\" style=\"width:2em\"|21
+! scope=\"col\" style=\"width:2em\"|22
+! scope=\"col\" style=\"width:2em\"|23
+! scope=\"col\" style=\"width:2em\"|24
+! scope=\"col\" style=\"width:2em\"|25
+! scope=\"col\" style=\"width:2em\"|26
+! scope=\"col\" style=\"width:2em\"|27
+! scope=\"col\" style=\"width:2em\"|28
+! scope=\"col\" style=\"width:2em\"|29
+! scope=\"col\" style=\"width:2em\"|30
+! scope=\"col\" style=\"width:2em\"|{{1er}}
+! scope=\"col\" style=\"width:2em\"|2
+! scope=\"col\" style=\"width:2em\"|3
+! scope=\"col\" style=\"width:2em\"|4
+! scope=\"col\" style=\"width:2em\"|5
+! scope=\"col\" style=\"width:2em\"|6
+! scope=\"col\" style=\"width:2em\"|7
+! scope=\"col\" style=\"width:2em\"|8
+! scope=\"col\" style=\"width:2em\"|9
+! scope=\"col\" style=\"width:2em\"|10
+! scope=\"col\" style=\"width:2em\"|11
+! scope=\"col\" style=\"width:2em\"|12
+! scope=\"col\" style=\"width:2em\"|13
+! scope=\"col\" style=\"width:2em\"|14
+|-
+!scope=col colspan=17|juin
+!scope=col colspan=14|juillet
+|-
+! scope=\"row\" colspan=\"2\" style=\"text-align:center\"|Groupe A
+| bgcolor=\"#ffdf80\" |1|| bgcolor=\"#ffdf80\" |1|||||||| bgcolor=\"#ffdf80\" |2|||||||| bgcolor=\"#ffdf80\" |2||||||||||||||||||||||||||||||||||||||||||
+|-
+! scope=\"row\" colspan=\"2\" style=\"text-align:center\"|Groupe B
+||| bgcolor=\"#ffdf80\" |2|||||||| bgcolor=\"#ffdf80\" |1|| bgcolor=\"#ffdf80\" |1|||||||| bgcolor=\"#ffdf80\" |2||||||||||||||||||||||||||||||||||||||||
+|-
+! scope=\"row\" colspan=\"2\" style=\"text-align:center\"|Groupe C
+||||| bgcolor=\"#ffdf80\" |2|||||||| bgcolor=\"#ffdf80\" |2|||||||||| bgcolor=\"#ffdf80\" |2||||||||||||||||||||||||||||||||||||||
+|-
+! scope=\"row\" colspan=\"2\" style=\"text-align:center\"|Groupe D
+||||| bgcolor=\"#ffdf80\" |1|| bgcolor=\"#ffdf80\" |1|||||||| bgcolor=\"#ffdf80\" |2|||||||| bgcolor=\"#ffdf80\" |2||||||||||||||||||||||||||||||||||||||
+|-
+! scope=\"row\" colspan=\"2\" style=\"text-align:center\"|Groupe E
+||||||| bgcolor=\"#ffdf80\" |2|||||||| bgcolor=\"#ffdf80\" |1|| bgcolor=\"#ffdf80\" |1|||||||| bgcolor=\"#ffdf80\" |2||||||||||||||||||||||||||||||||||||
+|-
+! scope=\"row\" colspan=\"2\" style=\"text-align:center\"|Groupe F
+||||||||| bgcolor=\"#ffdf80\" |2|||||||| bgcolor=\"#ffdf80\" |2|||||||| bgcolor=\"#ffdf80\" |2||||||||||||||||||||||||||||||||||||
+|-
+! scope=\"row\" colspan=\"2\" style=\"text-align:center\"|Huitièmes de finale
+||||||||||||||||||||||||||||||| bgcolor=\"#ffdf80\" |2|| bgcolor=\"#ffdf80\" |2|| bgcolor=\"#ffdf80\" |2|| bgcolor=\"#ffdf80\" |2||||||||||||||||||||||||
+|-
+! scope=\"row\" colspan=\"2\" style=\"text-align:center\"|Quarts de finale
+||||||||||||||||||||||||||||||||||||||||||| bgcolor=\"#ffdf80\" |2|| bgcolor=\"#ffdf80\" |2||||||||||||||||
+|-
+! scope=\"row\" colspan=\"2\" style=\"text-align:center\"|Demi-finales
+||||||||||||||||||||||||||||||||||||||||||||||||||| bgcolor=\"#ffdf80\" |1|| bgcolor=\"#ffdf80\" |1||||||||
+|-
+! scope=\"row\" colspan=\"2\" style=\"text-align:center\"|Finale
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| bgcolor=\"#ffdf80\" |1
+|}
+{{Centrer|
+{{Légende/Début}}
+{{Légende|#FFDF80|''Nombre de matchs disputés par journée''}}
+{{Légende/Fin}}
+}}
+
+== Phase de groupes ==
+
+=== Tirage au sort ===
+Le tirage au sort de la phase finale de l'Euro 2024 a lieu le {{Date|2|décembre|2023}} à la [[Philharmonie de l'Elbe]], salle de concert située à [[Hambourg]]<ref>{{Lien web |langue=fr |titre=Tirage au sort de l'Euro 2024 : Sur quel chaîne et à quelle heure voir l'événement en direct ? |url=https://www.20minutes.fr/sport/football/euro-2024/4065009-20231202-tirage-sort-euro-2024-chaine-heure-voir-evenement-direct |accès url=libre |site=20minutes.fr |date=2 décembre 2023 |consulté le=3 décembre 2023}}.</ref>. Chaque équipe est d'abord placée dans un chapeau en fonction de ses performances, puis les six groupes sont formés en tirant au sort une équipe de chaque chapeau.
+
+{| class=\"wikitable center\" 
+|+Composition des chapeaux
+!scope=col width=200 |Chapeau 1
+!scope=col width=200 |Chapeau 2
+!scope=col width=200 |Chapeau 3
+!scope=col width=200 |Chapeau 4
+|-
+|{{GER football}} {{Hôte}}
+|{{HUN football}}
+|{{NED football}}
+|{{ITA football}} {{Tenant du titre}}
+|-
+|{{POR football}}
+|{{TUR football}}
+|{{SCO football}}
+|{{SRB football}}
+|-
+|{{FRA football}}
+|{{ROU football}}
+|{{CRO football}}
+|{{SUI football}}
+|-
+|{{ESP football}}
+|{{DEN football}}
+|{{SLO football}}
+|{{POL football}}
+|-
+|{{BEL football}}
+|{{ALB football}}
+|{{SVK football}}
+|{{UKR football}}
+|-
+|{{ENG football}}
+|{{AUT football}}
+|{{CZE football}}
+|{{GEO football}}
+|}
+
+{| class=\"wikitable center\" 
+|+Composition des six groupes pour le premier tour
+!scope=col width=200 |Groupe A
+!scope=col width=200 |Groupe B
+!scope=col width=200 |Groupe C
+|-
+|{{GER football}}
+|{{ESP football}}
+|{{SLO football}}
+|-
+|{{SCO football}}
+|{{CRO football}}
+|{{DEN football}}
+|-
+|{{HUN football}}
+|{{ITA football}}
+|{{SRB football}}
+|-
+|{{SUI football}}
+|{{ALB football}}
+|{{ENG football}}
+|-
+!scope=col width=200 |Groupe D
+!scope=col width=200 |Groupe E
+!scope=col width=200 |Groupe F
+|-
+|{{POL football}}
+|{{BEL football}}
+|{{TUR football}}
+|-
+|{{NED football}}
+|{{SVK football}}
+|{{GEO football}}
+|-
+|{{AUT football}}
+|{{ROU football}}
+|{{POR football}}
+|-
+|{{FRA football}}
+|{{UKR football}}
+|{{CZE football}}
+|}
+
+=== Critères de départage ===
+En cas d'égalité de points à l'issue des trois journées, les équipes sont classées ou départagées suivant les critères{{Référence souhaitée|date=16 juin 2024}}, dans l'ordre :
+
+# Plus grand nombre de points obtenus dans les matches de groupe disputés entre les équipes concernées ;
+# Meilleure différence de buts dans les matches de groupe disputés entre les équipes concernées ;
+# Plus grand nombre de buts marqués dans les matches de groupe disputés entre les équipes concernées ;
+# Si, après l’application des critères 1, 2 et 3 plusieurs équipes sont toujours à égalité, les critères 1, 2 et 3 sont à nouveau appliqués exclusivement aux matches entre les équipes restantes. Si cette procédure ne donne pas de résultat, les critères 5 à 10 s’appliquent dans l'ordre ;
+# Meilleure différence de buts générale ;
+# Plus grand nombre de buts marqués ;
+# Plus grand nombre de victoires ;
+# Cas particulier : si deux équipes à égalité parfaite de points et de buts marqués et concédés se rencontrent lors de la dernière journée et font match nul, une séance de tirs au but en fin de match est prévue afin de les départager. Cette procédure n'est pas utilisée si plus de deux équipes ont le même nombre de points ;
+# Plus petit nombre de points disciplinaires dans tous les matches du groupe suivant le barème : 1 point pour un carton jaune, {{nombre|3|points}} pour deux cartons jaunes menant à un carton rouge, {{nombre|3|points}} pour un carton rouge direct, {{nombre|4|points}} pour un carton jaune suivi d'un carton rouge direct ;
+# Position dans le classement général des qualifications européennes.
+
+=== Groupe A ===
+
+{{Foot classement début|align=center|titre=Groupe A}}
+{{Foot classement|1|{{GER-d}} '''[[Équipe d'Allemagne de football au Championnat d'Europe 2024|Allemagne]]'''|7|3|2|1|0|8|2|bgcolor={{Foot couleur|Europe qualifié}}}}
+{{Foot classement|2|{{SUI-d}} '''[[Équipe de Suisse de football au Championnat d'Europe 2024|Suisse]]'''|5|3|1|2|0|5|3|bgcolor={{Foot couleur|Europe qualifié}}}}
+{{Foot classement|3|{{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]]|3|3|1|0|2|2|5|bgcolor={{Foot couleur|Europe qualifié2}}}}
+{{Foot classement|4|{{SCO-d}} [[Équipe d'Écosse de football au Championnat d'Europe 2024|Écosse]]|1|3|0|1|2|2|7}}
+{{Foot classement fin}}
+{{Légende/Début}}
+{{Légende|{{Foot couleur|Europe qualifié}}|Qualifié pour les huitièmes de finale}}
+{{Légende|{{Foot couleur|Europe qualifié2}}|Qualifié au titre des meilleurs troisièmes}}
+{{Légende/Fin}}
+
+==== {{1re}} journée ====
+{{Feuille de match
+| date = {{date-|14|juin|2024}}
+| titre = Match d'ouverture
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = '''[[Équipe d'Allemagne de football au Championnat d'Europe 2024|Allemagne]] {{GER-d}}'''
+| score = 5 - 1
+| score mi-temps = 3 - 0
+| équipe 2 = {{SCO-d}} [[Équipe d'Écosse de football au Championnat d'Europe 2024|Écosse]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036161--germany-vs-scotland/ Rapport]
+| buts 1 = ({{passe décisive}} [[Joshua Kimmich|Kimmich]]) [[Florian Wirtz|Wirtz]] {{but|10}}<br>({{passe décisive}} [[Kai Havertz|Havertz]]) [[Jamal Musiala|Musiala]] {{but|19}}<br>[[Kai Havertz|Havertz]] {{but|45+1|pen}}<br>[[Niclas Füllkrug|Füllkrug]] {{but|68}}<br>({{passe décisive}} [[Thomas Müller (football)|Müller]]) [[Emre Can|Can]] {{but|90+3}}
+| buts 2 = {{but|87|csc}} [[Antonio Rüdiger|Rüdiger]] ({{passe décisive}} [[Scott McKenna|McKenna]])
+| cartons 1 = [[Robert Andrich|Andrich]] {{yel|31}}<br>[[Jonathan Tah|Tah]] {{yel|62}}
+| cartons 2 = {{sent off|0|44}} [[Ryan Porteous|Porteous]]<br>{{yel|48}} [[Anthony Ralston|Ralston]]
+| stade = [[Allianz Arena|Munich Football Arena]], [[Munich]]
+| affluence = 65052
+| arbitre = {{FRA-d}} [[Clément Turpin]]
+| arbitre video = {{FRA-d}} [[Jérôme Brisard]]
+}}
+----
+{{Feuille de match
+| date = {{date-|15|juin|2024}}
+| titre = Match 2
+| heure = {{Heure|15|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]] {{HUN-d}}
+| score = 1 - 3
+| score mi-temps = 0 - 2
+| équipe 2 = '''{{SUI-d}} [[Équipe de Suisse de football au Championnat d'Europe 2024|Suisse]]'''
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036162--hungary-vs-switzerland/ Rapport]
+| buts 1 = ({{passe décisive}} [[Dominik Szoboszlai|Szoboszlai]]) [[Barnabás Varga|Varga]] {{but|66}}
+| buts 2 = {{but|12}} [[Kwadwo Duah|Duah]] ({{passe décisive}} [[Michel Aebischer|Aebischer]])<br>{{but|45}} [[Michel Aebischer|Aebischer]] ({{passe décisive}} [[Remo Freuler|Freuler]])<br>{{but|90+3}} [[Breel Embolo|Embolo]]
+| cartons 1 = [[Attila Szalai|Szalai]] {{yel|69}}<br>[[Attila Fiola|Fiola]] {{yel|88}}
+| cartons 2 = {{yel|5}} [[Silvan Widmer|Widmer]]<br>{{yel|59}} [[Remo Freuler|Freuler]]
+| stade = [[RheinEnergieStadion|Stade de Cologne]], [[Cologne]]
+| affluence = 41676
+| arbitre = {{SLO-d}} [[Slavko Vinčić]]
+| arbitre video = {{SLO-d}} [[Ned Kajtazovic]]
+}}
+
+Pour le match d'ouverture d'un Euro à domicile, l'[[Équipe d'Allemagne de football|équipe d'Allemagne]] s'impose très largement sur son [[Équipe d'Écosse de football|adversaire écossais]]. Menant sur le score de 3 buts à 0 à la mi-temps, la {{lang|de|''Mannschaft''}} s'impose 5-1 et lance parfaitement son tournoi. L'Écosse débute la compétition par ce que la [[BBC]] qualifie de match {{citation|cauchemardesque}} : outre le lourd score de la défaite, l'équipe perd également un défenseur central, [[Ryan Porteous]], expulsé sur un carton rouge en fin de première mi-temps pour une faute sur le capitaine allemand [[İlkay Gündoğan]]<ref>{{Lien web |langue=fr |auteur=Aude Lasjaunias |titre=Euro 2024 : l’Allemagne s’offre un début de tournoi rêvé face à l’Ecosse |url=https://www.lemonde.fr/sport/article/2024/06/15/euro-2024-l-allemagne-s-offre-un-debut-de-tournoi-reve-face-a-l-ecosse_6240162_3242.html |accès url=limité |site=www.lemonde.fr |éditeur=[[Le Monde]] |date=15 juin 2024 |consulté le=15 juin 2024}}.</ref>{{,}}<ref>{{Lien web |langue=en |auteur=Thomas Duncan |titre=Where do Scotland go now after nightmare opener? |url=https://www.bbc.com/sport/football/articles/cl44r0r1m21o |accès url=libre |site=www.bbc.com |éditeur=[[BBC]] |date=15 juin 2024 |consulté le=15 juin 2024}}.</ref>{{,}}<ref>{{Lien web |langue=fr |titre=Euro 2024 : l’énorme faute du défenseur écossais Porteous sur le capitaine allemand Gundogan |url=https://www.lesoir.be/595230/article/2024-06-14/euro-2024-lenorme-faute-du-defenseur-ecossais-porteous-sur-le-capitaine-allemand |format=vidéo |accès url=libre |site=www.lesoir.be |éditeur=[[Le Soir]] |date=14 juin 2024 |consulté le=15 juin 2024}}.</ref>. 
+
+Le lendemain, à [[Cologne]], la [[Équipe de Suisse de football|Suisse]] domine la [[équipe de Hongrie de football|Hongrie]] : les joueurs de [[Murat Yakın]] s'imposent 3-1, avec le premier but en match international de [[Kwadwo Duah]] suivi de ceux de [[Michel Aebischer]] juste avant la mi-temps puis de [[Breel Embolo]] en toute fin de rencontre. Pour la presse suisse, c'est la prestation de Michel Aebischer qui est à souligner tout particulièrement : c'est la première fois qu'un joueur suisse marque un but et délivre une passe décisive dans le même match d'un Euro<ref>{{Lien web |langue=fr |auteur=Florian Vaney |titre=La Suisse entre à merveille dans son tournoi en battant la Hongrie |url=https://www.tdg.ch/euro-2024-la-suisse-reussit-son-entree-en-lice-contre-la-hongrie-346352479551 |accès url=libre |site=www.tdg.ch |éditeur=[[Tribune de Genève]] |date=15 juin 2024 |consulté le=16 juin 2024}}.</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Valentin Schnorhk |titre=Michel Aebischer, une prestation historique |url=https://www.tdg.ch/vscaebischer1506-974400800267 |accès url=libre |site=www.tdg.ch |éditeur=[[Tribune de Genève]] |date=15 juin 2024 |consulté le=16 juin 2024}}.</ref>.
+
+==== {{2e}} journée ====
+{{Feuille de match
+| date = {{date-|19|juin|2024}}
+| titre = Match 13
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe d'Écosse de football au Championnat d'Europe 2024|Écosse]] {{SCO-d}}
+| score = 1 - 1
+| score mi-temps = 1 - 1
+| équipe 2 = {{SUI-d}} [[Équipe de Suisse de football au Championnat d'Europe 2024|Suisse]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036174--scotland-vs-switzerland/ Rapport]
+| buts 1 = ({{passe décisive}} [[Callum McGregor|McGregor]]) [[Scott McTominay|McTominay]] {{but|13}} 
+| buts 2 = {{but|26}} [[Xherdan Shaqiri|Shaqiri]]
+| cartons 1 = [[Scott McTominay|McTominay]] {{yel|51}}<br>[[Scott McKenna|McKenna]] {{yel|68}}<br> [[John McGinn|McGinn]] {{yel|71}}
+| cartons 2 = {{yel|31}} [[Ricardo Rodríguez (football)|Rodríguez]]<br>{{yel|86}} [[Vincent Sierro|Sierro]]
+| stade = [[RheinEnergieStadion|Stade de Cologne]], [[Cologne]]
+| affluence = 42711
+| arbitre = {{NED-d}} [[Danny Makkelie]]
+| arbitre video = {{NED-d}} Rob Dieperink
+}}
+----
+{{Feuille de match
+| date = {{date-|19|juin|2024}}
+| titre = Match 14
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = '''[[Équipe d'Allemagne de football au Championnat d'Europe 2024|Allemagne]] {{GER-d}}'''
+| score = 2 - 0
+| score mi-temps = 1 - 0
+| équipe 2 = {{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036173--germany-vs-hungary/ Rapport]
+| buts 1 = ({{passe décisive}} [[İlkay Gündoğan|Gündoğan]]) [[Jamal Musiala|Musiala]] {{but|22}}<br>({{passe décisive}} [[Maximilian Mittelstädt|Mittelstädt]]) [[İlkay Gündoğan|Gündoğan]] {{but|67}}
+| buts 2 = 
+| cartons 1 = [[Antonio Rüdiger|Rüdiger]] {{yel|27}}<br>[[Maximilian Mittelstädt|Mittelstädt]] {{yel|89}}
+| cartons 2 = {{yel|22}} [[Barnabás Varga|Varga]]<br>{{yel|90+3}} [[Dominik Szoboszlai|Szoboszlai]]
+| stade = [[MHPArena|Stuttgart Arena]], [[Stuttgart]]
+| affluence = 54000
+| arbitre = {{SVK-d}} {{Lien|langue=en|fr=Ivan Kruzliak}}
+| arbitre video = {{POL-d}} {{Lien|langue=en|fr=Tomasz Kwiatkowski}}
+}}Lors de cette deuxième journée, l'[[Équipe d'Allemagne de football|Allemagne]] vient à bout d'une [[Équipe de Hongrie de football|Hongrie]] offensive et combative qui propose un début de match difficile aux Allemands, avec notamment une grosse occasion de [[Roland Sallai]] dès la {{13e|seconde}} de jeu. La ''Mannschaft'', forte des très bonnes prestations de son gardien [[Manuel Neuer]] et de ses deux milieux de terrain [[Jamal Musiala]] et [[İlkay Gündoğan]], assure l'essentiel et est certaine d'accéder aux huitièmes de finale de la compétition après ce match. Les Magyars sont quant à eux en grand danger avant leur ultime rencontre contre l'[[Équipe d'Écosse de football|Écosse]] puisqu'ils n'ont toujours pas récolté le moindre point<ref>{{Article|langue=fr|titre=Allemagne-Hongrie : revivez la victoire de la Mannschaft, première équipe qualifiée pour les huitièmes de finale|périodique=[[Le Monde]]|date=19 juin 2024|lire en ligne=https://www.lemonde.fr/sport/live/2024/06/19/en-direct-allemagne-hongrie-suivez-le-match-de-l-euro-2024_6241412_3242.html|consulté le=19 juin 2024|accès url=libre}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Pierrick Moniot |titre=Allemagne-Hongrie: Musiala et Neuer en leaders, Wirtz fantomatique... Les tops et les flops |url=https://www.lefigaro.fr/sports/football/euro/allemagne-hongrie-musiala-et-neuer-font-briller-la-mannschaft-wirtz-et-havetz-fantomatiques-les-tops-et-les-flops-20240619 |accès url=libre |site=[[Le Figaro]] |date=19 juin 2024 |consulté le=19 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |titre=Allemagne-Hongrie (2-0) : sans trembler, la \"Mannschaft\" se qualifie pour les huitièmes de finale |url=https://www.tf1info.fr/euro/en-direct-euro-2024-allemagne-hongrie-composition-resultat-la-mannschaft-de-toni-kroos-manuel-neuer-2304621.html |accès url=libre |site=[[TF1]] |date=19 juin 2024 |consulté le=19 juin 2024}}</ref>.
+
+Le même soir, les [[Équipe d'Écosse de football|Écossais]] montrent de bien meilleures choses face aux [[Équipe de Suisse de football|Suisses]] que lors de leur premier match face aux Allemands. Les Écossais ouvrent d'abord la marque sur leur toute première occasion, une erreur défensive de [[Fabian Schär]] qui dévie contre son camp une frappe de [[Scott McTominay]] au quart d'heure de jeu, puis, {{Nombre|13|minutes}} plus tard, les Suisses égalisent grâce à une superbe frappe de [[Xherdan Shaqiri]]. Les deux équipes alternent temps forts et temps faibles de manière spectaculaire sans jamais parvenir à concrétiser. Les Écossais peuvent encore rêver de la première qualification de leur histoire via la troisième place et les Suisses prennent une grosse option sur l'accès direct aux huitièmes de finale, la première place se jouant contre l'Allemagne lors de la dernière journée<ref>{{Article|langue=fr|titre=Ecosse-Suisse : les deux sélections se quittent sur un match nul|périodique=[[Le Monde]]|date=19 juin 2024|lire en ligne=https://www.lemonde.fr/sport/live/2024/06/19/en-direct-ecosse-suisse-suivez-le-match-de-l-euro-2024_6241482_3242.html|consulté le=19 juin 2024|accès url=libre}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Antoine Donnarieix |titre=Euro 2024 - Écosse-Suisse {{!}} Tenue en échec, la Suisse est quasiment en huitièmes de finale, l'Écosse reste en vie |url=https://www.eurosport.fr/geoblocking.shtml |accès url=libre |site=[[Eurosport]] |date=19 juin 2024 |consulté le=19 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Adrien Max |titre=Écosse–Suisse : La Nati cale face à des Ecossais revanchards... Revivez le … |url=https://www.20minutes.fr/sport/football/euro-2024/4096868-20240619-direct-ecosse-suisse-nati-peut-deja-qualifier-ecossais-si-mauvais-suivez-match-20h30 |accès url=libre |site=[[20 Minutes]] |date=19 juin 2024 |consulté le=19 juin 2024}}</ref>.
+
+==== {{3e}} journée ====
+{{Feuille de match
+| date = {{date-|23|juin|2024}}
+| titre = Match 25
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Suisse de football au Championnat d'Europe 2024|Suisse]] {{SUI-d}}
+| score = 1 - 1
+| score mi-temps = 1 - 0
+| équipe 2 = {{GER-d}} [[Équipe d'Allemagne de football au Championnat d'Europe 2024|Allemagne]] 
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036185--switzerland-vs-germany/ Rapport]
+| buts 1 = ({{passe décisive}} [[Remo Freuler|Freuler]]) [[Dan Ndoye|Ndoye]] {{but|28}}
+| buts 2 = {{but|90+2}} [[Niclas Füllkrug|Füllkrug]] ({{passe décisive}} [[David Raum|Raum]])
+| cartons 1 = [[Dan Ndoye|Ndoye]] {{yel|25}}<br>[[Granit Xhaka|Xhaka]] {{yel|67}}<br>[[Silvan Widmer|Widmer]] {{yel|81}}
+| cartons 2 = {{yel|38}} [[Jonathan Tah|Tah]]
+| stade = [[Deutsche Bank Park|Frankfurt Arena]], [[Francfort-sur-le-Main]]
+| affluence = 46685
+| arbitre = {{ITA-d}} [[Daniele Orsato]]
+| arbitre video = {{ITA-d}} [[Massimiliano Irrati]]
+}}
+----
+{{Feuille de match
+| date = {{date-|23|juin|2024}}
+| titre = Match 26
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe d'Écosse de football au Championnat d'Europe 2024|Écosse]] {{SCO-d}}
+| score = 0 - 1
+| score mi-temps = 0 - 0
+| équipe 2 = '''{{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]]'''
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036186--scotland-vs-hungary/ Rapport]
+| buts 1 = 
+| buts 2 = {{but|90+10}} [[Kevin Csoboth|Csoboth]] ({{passe décisive}} [[Roland Sallai|Sallai]])
+| cartons 1 = [[Scott McTominay|McTominay]] {{yel|50}}
+| cartons 2 = {{yel|18}} [[Callum Styles|Styles]]<br>{{yel|26}} [[Willi Orban|Orban]]<br>{{yel|44}} [[András Schäfer|Schäfer]]<br>{{yel|75}} [[László Kleinheisler|Kleinheisler]]<br>{{yel|90+11}} [[Kevin Csoboth|Csoboth]]
+| stade = [[MHPArena|Stuttgart Arena]], [[Stuttgart]]
+| affluence = 54000
+| arbitre = {{ARG-d}} [[Facundo Tello]]
+| arbitre video = {{ESP-d}} [[Alejandro Hernández Hernández]]
+}}
+
+<!-- SUI - ALL à compléter --><!-- Dans le même temps, -->La [[Équipe de Hongrie de football|Hongrie]] remporte son match dans les tous derniers instants grâce au but le plus tardif de la phase de groupes : il est signé de [[Kevin Csoboth]] sur une passe décisive de [[Roland Sallai]] au terme d'une contre-attaque éclair, alors que le match semblait pourtant se solder d'un match nul. Hormis la victoire arrachée par les Hongrois qui éliminent donc l'[[Équipe d'Écosse de football|Écosse]] mais qui devront attendre la fin des autres matchs pour savoir s'ils comptent parmi les meilleurs troisièmes<ref>{{Lien web |langue=fr |titre=Euro 2024 : la Hongrie bat l’Ecosse mais perd son attaquant Varga, évacué après une fracture au visage |url=https://www.lemonde.fr/sport/article/2024/06/23/euro-2024-la-hongrie-bat-l-ecosse-mais-s-inquiete-pour-son-attaquant-varga-evacue-sur-civiere-apres-une-chute-sur-la-nuque_6242977_3242.html |accès url=libre |site=[[Le Monde]] |date=23 juin 2024 |consulté le=24 juin 2024}}</ref>, le match est également marqué par un incident : l'attaquant hongrois [[Barnabás Varga]] et l'arrière latéral écossais [[Anthony Ralston]] sont percutés à la {{69e}} minute par le gardien de la ''Tartan Army'' [[Angus Gunn]] lors d'une sortie aérienne. Barnabás Varga reçoit le coude du gardien dans la tête, et, après avoir chuté, il est mis en [[position latérale de sécurité]], couvert d'un drap par ses coéquipiers puis est évacué sur [[civière]]<ref>{{Lien web |langue=fr |titre=Grosse frayeur à l'Euro pour le Hongrois Varga, sorti sur civière après un contact avec le gardien de l'Écosse |url=https://www.lequipe.fr/Football/Actualites/Grosse-frayeur-a-l-euro-pour-le-hongrois-varga-sorti-sur-civiere-apres-un-contact-avec-le-gardien-de-l-ecosse/1477003 |accès url=libre |site=[[L'Équipe]] |date=23 juin 2024 |consulté le=23 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Valentin Feuillette |titre=Ecosse-Hongrie : énorme inquiétude pour Barnabás Varga sorti sur civière |url=https://www.footmercato.net/a4952306388061074067-ecosse-hongrie-enorme-inquietude-pour-barnabas-varga-sorti-sur-civiere |accès url=libre |site=[[Foot Mercato]] |date=23 juin 2024 |consulté le=23 juin 2024}}</ref>. Dans la soirée de l'incident, Roland Sallai lui dédie dédie la victoire et la [[Fédération hongroise de football]] indique que l'attaquant a eu « plusieurs os du visage brisés » et a subi une « [[commotion cérébrale]] » mais qu'il est dans un état stable<ref>{{Lien web |langue=fr |auteur=Baptiste Chaumier |auteur2=Pierre-Etienne Minonzio |titre=La frayeur sur le terrain, l'hommage des Hongrois, le premier bilan médical : ce que l'on sait après le gros choc subi par Varga |url=https://www.lequipe.fr/Football/Actualites/La-hongrie-dedie-sa-victoire-a-barnabas-varga-son-attaquant-victime-d-un-gros-choc-contre-l-ecosse/1477035 |accès url=libre |site=[[L'Équipe]] |date=24 juin 2024 |consulté le=24 juin 2024 |archive-url=https://archive.ph/eyRPq#selection-1211.186-1217.32}}</ref>.
+
+=== Groupe B ===
+
+{{Foot classement début|align=center|titre=Groupe B|mise à jour=20 juin 2024}}
+{{Foot classement|1|{{ESP-d}} '''[[Équipe d'Espagne de football au Championnat d'Europe 2024|Espagne]]'''|6|2|2|0|0|4|0|bgcolor={{Foot couleur|Europe qualifié}}}}
+{{Foot classement|2|{{ITA-d}} [[Équipe d'Italie de football au Championnat d'Europe 2024|Italie]]|3|2|1|0|1|2|2|bgcolor={{Foot couleur|Europe qualifié}}}}
+{{Foot classement|3|{{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]]|1|2|0|1|1|3|4|bgcolor={{Foot couleur|Europe qualifié2}}}}
+{{Foot classement|4|{{CRO-d}} [[Équipe de Croatie de football au Championnat d'Europe 2024|Croatie]]|1|2|0|1|1|2|5}}
+{{Foot classement fin}}
+{{Légende/Début}}
+{{Légende|{{Foot couleur|Europe qualifié}}|Qualifié pour les huitièmes de finale}}
+{{Légende|{{Foot couleur|Europe qualifié2}}|Qualifié au titre des meilleurs troisièmes}}
+{{Légende/Fin}}
+
+==== {{1re}} journée ====
+{{Feuille de match
+| date = {{date-|15|juin|2024}}
+| titre = Match 3
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = '''[[Équipe d'Espagne de football au Championnat d'Europe 2024|Espagne]] {{ESP-d}}'''
+| score = 3 - 0
+| score mi-temps = 3 - 0
+| équipe 2 = {{CRO-d}} [[Équipe de Croatie de football au Championnat d'Europe 2024|Croatie]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036163--spain-vs-croatia/ Rapport]
+| buts 1 = ({{passe décisive}} [[Fabián Ruiz|Ruiz]]) [[Álvaro Morata|Morata]] {{but|29}}<br>({{passe décisive}} [[Pedri]]) [[Fabián Ruiz|Ruiz]] {{but|32}}<br>({{passe décisive}} [[Lamine Yamal|Yamal]]) [[Dani Carvajal|Carvajal]] {{but|45+2}}
+| buts 2 = 
+| cartons 1 = [[Rodri (football, 1996)|Rodri]] {{yel|78}}
+| stade = [[Stade olympique de Berlin|Olympiastadion]], [[Berlin]]
+| affluence = 68844
+| arbitre = {{ENG-d}} [[Michael Oliver]]
+| arbitre video = {{ENG-d}} [[Stuart Attwell]]
+}}
+----
+{{Feuille de match
+| date = {{date-|15|juin|2024}}
+| titre = Match 4
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = '''[[Équipe d'Italie de football au Championnat d'Europe 2024|Italie]] {{ITA-d}}'''
+| score = 2 - 1
+| score mi-temps = 2 - 1
+| équipe 2 = {{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036164--italy-vs-albania/ Rapport]
+| buts 1 = ({{passe décisive}} [[Lorenzo Pellegrini|Pellegrini]]) [[Alessandro Bastoni|Bastoni]] {{but|10}}<br>[[Nicolò Barella|Barella]] {{but|16}}
+| buts 2 = {{but|1}} [[Nedim Bajrami|Bajrami]]
+| cartons 1 = [[Lorenzo Pellegrini|Pellegrini]] {{yel|22}}<br>[[Riccardo Calafiori|Calafiori]] {{yel|51}}
+| cartons 2 = {{yel|51}} [[Armando Broja|Broja]]<br>{{yel|74}} [[Arbër Hoxha|Hoxha]]
+| stade = [[Signal Iduna Park|BVB Stadion Dortmund]], [[Dortmund]]
+| affluence = 60512
+| arbitre = {{GER-d}} [[Felix Zwayer]]
+| arbitre video = {{GER-d}} [[Bastian Dankert]]
+}}
+
+L'[[Équipe d'Espagne de football|Espagne]] entame parfaitement son tournoi avec une prestation efficace soldée par une victoire écrasante. La mauvaise performance des [[Équipe de Croatie de football|Croates]] est notamment symbolisée par le penalty manqué en deuxième mi-temps par l'attaquant [[Bruno Petković]], qui, dans la foulée de son penalty, pense inscrire un but finalement refusé par l'arbitre assistant vidéo en raison de l'empiètement d'un coéquipier croate dans la surface de réparation lors de l'exécution du penalty<ref>{{Article|langue=fr|titre=Espagne-Croatie : le résumé de la victoire sans trembler de la Roja pour son entrée en lice à l’Euro 2024|périodique=[[Le Monde]]|date=15 juin 2024|lire en ligne=https://www.lemonde.fr/sport/article/2024/06/15/espagne-croatie-le-resume-de-la-victoire-sans-trembler-de-la-roja-pour-son-entree-en-lice-a-l-euro-2024_6240445_3242.html|accès url=libre}}</ref>{{,}}<ref>{{Lien web |langue=fr |titre=Un fait de jeu cruel empêche la Croatie de sauver l'honneur |url=https://www.watson.ch/fr/!731805706 |accès url=libre |site=[[Watson (site d'information)|Watson]] |date=15 juin 2024 |consulté le=19 juin 2024}}</ref>. 
+
+Plus tard le même jour, la rencontre entre l'[[Équipe d'Italie de football|Italie]] et l'[[Équipe d'Albanie de football|Albanie]] est marquée par l'ouverture du score éclair de l'Albanais [[Nedim Bajrami]], à la {{22e}} seconde du match, profitant d'une touche ratée de [[Federico Dimarco]]. L'Italie parvient à rapidement revenir dans le match et, au quart d'heure de jeu, les ''Azzurri'' reprennent l'avantage. Le reste du match est maîtrisé par les Italiens, et le score ne change pas, en raison notamment d'une équipe albanaise inoffensive<ref name=\":0\">{{Article|langue=fr|titre=Italie-Albanie : les images du but le plus rapide de l’histoire de l’Euro, signé Nedim Bajrami|périodique=[[Le Parisien]]|date=15 juin 2024|lire en ligne=https://www.leparisien.fr/sports/football/euro/italie-albanie-les-images-du-but-le-plus-rapide-de-lhistoire-de-leuro-signe-nedim-bajrami-15-06-2024-RPWEJ52Q4JCU5C43CAGMBLYMBI.php#:~:text=En%20ouvrant%20le%20score%20d%C3%A8s,l'histoire%20de%20la%20comp%C3%A9tition.|accès url=libre}}</ref>{{,}}<ref>{{Article|langue=fr|auteur1=A. R.|titre=Euro 2024 : l'Italie domine l'Albanie pour son premier match|périodique=[[Le Figaro]]|date=15 juin 2024|lire en ligne=https://www.lefigaro.fr/sports/football/euro/euro-2024-l-italie-domine-l-albanie-pour-son-premier-match-20240615|accès url=libre}}</ref>.
+
+==== {{2e}} journée ====
+{{Feuille de match
+| date = {{date-|19|juin|2024}}
+| titre = Match 15
+| heure = {{Heure|15|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Croatie de football au Championnat d'Europe 2024|Croatie]] {{CRO-d}}
+| score = 2 - 2
+| score mi-temps = 0 - 1
+| équipe 2 = {{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036176--croatia-vs-albania/ Rapport]
+| buts 1 = ({{passe décisive}} [[Ante Budimir|Budimir]]) [[Andrej Kramarić|Kramarić]] {{but|74}}<br>[[Klaus Gjasula|Gjasula]] {{csc|76}}
+| buts 2 = {{but|11}} [[Qazim Laçi|Laçi]] ({{passe décisive}} [[Jasir Asani|Asani]])<br>{{but|90+5}} [[Klaus Gjasula|Gjasula]]
+| cartons 1 = [[Ivica Ivušić|Ivušić]] {{yel|87}}
+| cartons 2 = {{yel|77}} [[Elseid Hysaj|Hysaj]]<br>{{yel|90+3}} [[Mirlind Daku|Daku]]<br>{{yel|90+7}} [[Klaus Gjasula|Gjasula]]
+| stade = [[Volksparkstadion]], [[Hambourg]]
+| affluence = 46784
+| arbitre = {{FRA-d}} [[François Letexier]]
+| arbitre video = {{FRA-d}} {{Lien|langue=en|fr=Willy Delajod}}
+}}
+----
+{{Feuille de match
+| date = {{date-|20|juin|2024}}
+| titre = Match 16
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = '''[[Équipe d'Espagne de football au Championnat d'Europe 2024|Espagne]] {{ESP-d}}'''
+| score = 1 - 0
+| score mi-temps = 0 - 0
+| équipe 2 = {{ITA-d}} [[Équipe d'Italie de football au Championnat d'Europe 2024|Italie]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036175--spain-vs-italy/ Rapport]
+| buts 1 = [[Riccardo Calafiori|Calafiori]] {{csc|55}}
+| buts 2 = 
+| cartons 1 = [[Rodri (football, 1996)|Rodri]] {{yel|45+1}}<br>[[Robin Le Normand|Le Normand]] {{yel|69}}<br> [[Dani Carvajal|Carvajal]] {{yel|90+6}}
+| cartons 2 = {{yel|15}} [[Gianluigi Donnarumma|Donnarumma]]<br>{{yel|46}} [[Bryan Cristante|Cristante]]
+| stade = [[Veltins-Arena|Arena AufSchalke]], [[Gelsenkirchen]]
+| affluence = 49528
+| arbitre = {{SLO-d}} [[Slavko Vinčić]]
+| arbitre video = {{SLO-d}} {{Lien|langue=en|fr=Ned Kajtazovic}}
+}}
+La deuxième journée du groupe B offre l'affrontement des deux perdants et des deux gagnants de la première journée. Du côté des perdants d'abord, à [[Hambourg]], les [[Équipe d'Albanie de football|Albanais]] ouvrent le score au bout d'une dizaine de minutes face aux [[Équipe de Croatie de football|Croates]], grâce au milieu de terrain [[Qazim Laçi]]. Au milieu de la seconde mi-temps, la Croatie parvient à prendre les devants en marquant deux buts en l'espace de deux minutes, d'abord grâce à [[Andrej Kramarić]] puis par un contre son camp du milieu défensif albanais [[Klaus Gjasula]]. Finalement, grâce à ce dernier, l'Albanie, coriace, arrache le match nul dans les tous derniers instants du temps additionnel. Après ce premier petit point obtenu en deux matchs et la dernière place du classement, la ''Vatreni'' est au pied du mur avant d'affronter le tenant du titre en troisième journée<ref>{{Article|langue=fr|titre=Croatie-Albanie : les Aigles arrachent un match nul décisif, dans les arrêts de jeu|périodique=[[Le Monde]]|date=19 juin 2024|lire en ligne=https://www.lemonde.fr/sport/live/2024/06/19/en-direct-croatie-albanie-suivez-le-match-de-l-euro-2024_6241379_3242.html|consulté le=19 juin 2024|accès url=libre}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Quentin Ballue |titre=Croatie – Albanie Euro 2024 : Les joueurs de Sylvinho arrachent l'égalisation, les Croates déçoivent encore… |url=https://www.20minutes.fr/sport/football/euro-2024/4096807-20240619-direct-croatie-albanie-apres-deroute-croates-dos-mur-malheur-perdant-balkanico-suivez-match |accès url=libre |site=[[20 Minutes]] |date=19 juin 2024 |consulté le=19 juin 2024}}</ref>. 
+
+Le lendemain soir, à [[Gelsenkirchen]], l'[[Espagne]] affronte l'[[Italie]] dans un choc pour la tête du groupe. Le match, malgré un score final d'un but à zéro, fruit du contre son camp de l'arrière central [[Riccardo Calafiori]], est à sens unique : la ''Roja'', forte d'un jeu abouti, domine très largement les ''Azzuri'' (20 tirs à 4), et le gardien italien [[Gianluigi Donnarumma]] permet à de nombreuses reprises d'éviter une correction. À l'issue de cette démonstration, les Espagnols sont assurés de finir en tête de leur groupe et d'accéder aux huitièmes de finale<ref>{{Article|langue=fr|titre=Espagne-Italie : la Roja remporte le choc de l’Euro et se qualifie vers les huitièmes de finale|périodique=[[Le Monde]]|date=20 juin 2024|lire en ligne=https://www.lemonde.fr/sport/live/2024/06/20/en-direct-espagne-italie-suivez-le-match-de-l-euro-2024_6241844_3242.html|consulté le=21 juin 2024|accès url=libre}}</ref>{{,}}<ref>{{Lien web |langue=fr |titre=Espagne-Italie: la Roja s'impose, valide sa qualification et fait forte impression |url=https://rmcsport.bfmtv.com/football/euro/direct-espagne-italie-suivez-le-choc-de-la-deuxieme-journee-du-groupe-b-de-l-euro-2024-en-live_LS-202406200643.html |accès url=libre |site=[[RMC Sport]] |date=20 juin 2024 |consulté le=21 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |titre=L'Espagne domine l'Italie et se qualifie en 8es de finale de l'Euro |url=https://www.lequipe.fr/Football/Actualites/L-espagne-domine-l-italie-et-se-qualifie-en-8es-de-finale-de-l-euro/1476317 |accès url=libre |site=[[L'Équipe]] |date=20 juin 2024 |consulté le=21 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Valentin Feuillette |titre=Euro 2024 : revivez la démonstration de l’Espagne face à l’Italie |url=https://www.lefigaro.fr/sports/football/live/euro/2023/2413146/espagne-italie |accès url=libre |site=Le Figaro |date=20 juin 2024 |consulté le=21 juin 2024}}</ref>.
+
+==== {{3e}} journée ====
+{{Feuille de match
+| date = {{date-|24|juin|2024}}
+| titre = Match 27
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]] {{ALB-d}} 
+| score = 
+| score mi-temps = -
+| équipe 2 = {{ESP-d}} [[Équipe d'Espagne de football au Championnat d'Europe 2024|Espagne]] 
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036187--albania-vs-spain/ Rapport]
+| buts 1 = 
+| buts 2 = 
+| stade = [[Merkur Spiel-Arena|Düsseldorf Arena]], [[Düsseldorf]]
+| affluence = 
+| arbitre = {{SWE-d}} [[Glenn Nyberg]]
+| arbitre video = {{GER-d}} [[Christian Dingert]]
+}}
+----
+{{Feuille de match
+| date = {{date-|24|juin|2024}}
+| titre = Match 28
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Croatie de football au Championnat d'Europe 2024|Croatie]] {{CRO-d}}
+| score = 
+| score mi-temps = -
+| équipe 2 = {{ITA-d}} [[Équipe d'Italie de football au Championnat d'Europe 2024|Italie]] 
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036188--croatia-vs-italy/ Rapport]
+| buts 1 = 
+| buts 2 = 
+| stade = [[Red Bull Arena (Leipzig)|Stade de Leipzig]], [[Leipzig]]
+| affluence = 
+| arbitre = {{NED-d}} [[Danny Makkelie]]
+| arbitre video = {{NED-d}} [[Rob Dieperink]]
+}}
+
+=== Groupe C ===
+{{Foot classement début|align=center|titre=Groupe C|mise à jour=20 juin 2024}}
+{{Foot classement|1|{{ENG-d}} [[Équipe d'Angleterre de football au Championnat d'Europe 2024|Angleterre]]|4|2|1|1|0|2|1|bgcolor={{Foot couleur|Europe qualifié}}}}
+{{Foot classement|2|{{DEN-d}} [[Équipe du Danemark de football au Championnat d'Europe 2024|Danemark]]|2|2|0|2|0|2|2|bgcolor={{Foot couleur|Europe qualifié}}}}
+{{Foot classement|3|{{SLO-d}} [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]]|2|2|0|2|0|2|2|bgcolor={{Foot couleur|Europe qualifié2}}}}
+{{Foot classement|4|{{SRB-d}} [[Équipe de Serbie de football au Championnat d'Europe 2024|Serbie]]|1|2|0|1|1|1|2}}
+{{Foot classement fin}}
+{{Légende/Début}}
+{{Légende|{{Foot couleur|Europe qualifié}}|Qualifié pour les huitièmes de finale}}
+{{Légende|{{Foot couleur|Europe qualifié2}}|Qualifié au titre des meilleurs troisièmes}}
+{{Légende/Fin}}
+
+==== {{1re}} journée ====
+{{Feuille de match
+| date = {{date-|16|juin|2024}}
+| titre = Match 5
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]] {{SLO-d}}
+| score = 1 - 1
+| score mi-temps = 0 - 1
+| équipe 2 = {{DEN-d}} [[Équipe du Danemark de football au Championnat d'Europe 2024|Danemark]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036165--slovenia-vs-denmark/ Rapport]
+| buts 1 = [[Erik Janža|Janža]] {{but|77}}
+| buts 2 = {{but|17}} [[Christian Eriksen|Eriksen]] ({{passe décisive}} [[Jonas Wind|Wind]])
+| cartons 1 = [[Petar Stojanović (football)|Stojanović]] {{yel|53}}<br>[[Žan Celar|Celar]] {{yel|84}}
+| cartons 2 = {{yel|49}} [[Morten Hjulmand|Hjulmand]]
+| stade = [[MHPArena|Stuttgart Arena]], [[Stuttgart]]
+| affluence = 54000
+| arbitre = {{SWI-d}} [[Sandro Schärer]]
+| arbitre video = {{SWI-d}} [[Fedayi San]]
+}}
+----
+{{Feuille de match
+| date = {{date-|16|juin|2024}}
+| titre = Match 6
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Serbie de football au Championnat d'Europe 2024|Serbie]] {{SRB-d}}
+| score = 0 - 1
+| score mi-temps = 0 - 1
+| équipe 2 = {{ENG-d}} '''[[Équipe d'Angleterre de football au Championnat d'Europe 2024|Angleterre]]'''
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036166--serbia-vs-england/ Rapport]
+| buts 1 = 
+| buts 2 = {{but|13}} [[Jude Bellingham|Bellingham]] ({{passe décisive}} [[Bukayo Saka|Saka]])
+| cartons 1 = [[Nemanja Gudelj|Gudelj]] {{yel|39}}<br>[[Dušan Tadić|Tadić]] {{yel|75}}
+| stade = [[Veltins-Arena|Arena AufSchalke]], [[Gelsenkirchen]]
+| affluence = 48953
+| arbitre = {{ITA-d}} [[Daniele Orsato]]
+| arbitre video = {{ITA-d}} [[Massimiliano Irrati]]
+}}
+
+Trois ans après un [[Christian Eriksen#Arrêt cardiaque|arrêt cardiaque]] presque fatal, le [[Équipe du Danemark de football|Danois]] [[Christian Eriksen]] ouvre le score peu après le premier quart d'heure de jeu, mais le [[Équipe de Slovénie de football|Slovène]] [[Erik Janža]] parvient finalement à répliquer dans le dernier quart d’heure en dépit d'une importante domination des rouges et blancs. Bien que le dernier match entre ces deux nations lors des [[Groupe H des éliminatoires du Championnat d'Europe de football 2024|éliminatoires de la compétition]] eut été favorable aux Danois (victoire 2-1), les Slovènes arrachent cette fois-ci un petit point précieux face au demi-finaliste du précédent Euro. C'est par ailleurs le premier match nul du tournoi<ref>{{Lien web |langue=fr |auteur=Alexandre Le Bris |titre=Euro 2024 : La Slovénie crée la première surprise en accrochant le Danemark en fin de rencontre |url=https://www.ouest-france.fr/euro/direct/direct-slovenie-danemark-suivez-le-match-de-leuro-2024-en-live-9a907938-3af8-4668-bae9-b8661d5b5524 |accès url=libre |site=Ouest-France.fr |date=16 juin 2024 |consulté le=16 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Jérémy Laugier |titre=Slovénie-Danemark Euro 2024 : Les inexpérimentés Slovènes arrachent un match nul inattendu (1-1) |url=https://www.20minutes.fr/sport/football/euro-2024/4095886-20240616-direct-slovenie-danemark-euro-2024-danois-veulent-retrouver-statut-outsiders-2021-suivez-match-17h30 |accès url=libre |site=www.20minutes.fr |date=16 juin 2024 |consulté le=16 juin 2024}}</ref>. 
+
+Un peu plus tard dans la soirée, à [[Gelsenkirchen]], l'[[Équipe d'Angleterre de football|Angleterre]] propose une prestation sérieuse tout en contrôle en étant globalement dominateurs, particulièrement en première période, face à des [[Équipe de Serbie de football|Serbes]] muets qui ne parviendront jamais à revenir au score malgré quelques occasions en seconde mi-temps<ref>{{Lien web |langue=fr |auteur=Marius Veillerot |titre=Serbie - Angleterre (0-1) : premier succès pour les Anglais, sans forcer et sans trembler |url=https://www.leparisien.fr/sports/football/euro/serbie-angleterre-0-1-premier-succes-pour-les-anglais-sans-forcer-et-sans-trembler-16-06-2024-UWARWBESQ5HZHMNUZ63BYU7SGY.php |accès url=libre |site=leparisien.fr |date=16 juin 2024 |consulté le=16 juin 2024}}</ref>. Les trois équipes de ce groupe C qui sont parvenues à inscrire au moins un but n'en ont finalement inscrit qu'un seul, c'est une première journée assez timide d'un point de vue purement comptable.
+
+==== {{2e}} journée ====
+{{Feuille de match
+| date = {{date-|20|juin|2024}}
+| titre = Match 17
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe du Danemark de football au Championnat d'Europe 2024|Danemark]] {{DEN-d}}
+| score = 1 - 1
+| score mi-temps = 1 - 1 
+| équipe 2 = {{ENG-d}} [[Équipe d'Angleterre de football au Championnat d'Europe 2024|Angleterre]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036178--denmark-vs-england/ Rapport]
+| buts 1 = ({{passe décisive}} [[Victor Kristiansen|Kristiansen]]) [[Morten Hjulmand|Hjulmand]] {{goal|34}}
+| buts 2 = {{goal|18}} [[Harry Kane|Kane]]
+| cartons 1 = [[Jannik Vestergaard|Vestergaard]] {{yel|27}}<br>[[Joakim Mæhle|Mæhle]] {{yel|73}}<br>[[Christian Nørgaard|Nørgaard]] {{yel|87}}
+| cartons 2 = {{yel|62}} [[Conor Gallagher|Gallagher]]
+| stade = [[Deutsche Bank Park|Frankfurt Arena]], [[Francfort-sur-le-Main]]
+| affluence = 54000
+| arbitre = {{POR-d}} [[Artur Soares Dias]]
+| arbitre video = {{POR-d}} {{Lien|langue=en|trad=Tiago Martins (referee)|fr=Tiago Martins}}
+}}
+----
+{{Feuille de match
+| date = {{date-|20|juin|2024}}
+| titre = Match 18
+| heure = {{Heure|15|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]] {{SLO-d}} 
+| score = 1 - 1
+| score mi-temps = 0 - 0
+| équipe 2 = {{SRB-d}} [[Équipe de Serbie de football au Championnat d'Europe 2024|Serbie]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036177--slovenia-vs-serbia/ Rapport]
+| buts 1 = ({{passe décisive}} [[Timi Max Elšnik|Elšnik]]) [[Žan Karničnik|Karničnik]] {{but|69}}
+| buts 2 = {{but|90+5}} [[Luka Jović|Jović]] ({{passe décisive}} [[Ivan Ilić (football)|Ilić]])
+| cartons 1 = [[Erik Janža|Janža]] {{yel|87}}<br>[[Žan Vipotnik|Vipotnik]] {{yel|90+4}}
+| cartons 2 = {{yel|25}} [[Filip Mladenović|Mladenović]]<br>{{yel|54}} [[Saša Lukić|Lukić]]<br>{{yel|90+2}} [[Luka Jović|Jović]]<br>{{yel|90+3}} [[Mijat Gaćinović|Gaćinović]]
+| stade = [[Allianz Arena|Munich Football Arena]], [[Munich]]
+| affluence = 63028
+| arbitre = {{ROU-d}} [[István Kovács (arbitre)|István Kovács]]
+| arbitre video = {{NED-d}} {{Lien|langue=en|fr=Pol van Boekel}}
+}}Malgré l'ouverture du score du meilleur buteur du championnat allemand [[Harry Kane]] en première mi-temps, les [[Équipe d'Angleterre de football|Anglais]] s'éteignent rapidement et se font rattraper au score grâce à une grosse frappe du [[Équipe du Danemark de football|Danois]] [[Morten Hjulmand]] peu après la demi-heure de jeu. Le reste du match est accroché et aucune des deux équipes ne parvient à arracher la victoire, l'Angleterre laissant le même sentiment de déception que lors de la première journée, en manquant cette fois-ci une bonne occasion de valider sa qualification pour les huitièmes de finale. Les Danois, eux, peuvent toujours croire en la qualification<ref>{{Lien web |langue=fr |auteur=Antoine Huot de Saint Albin |titre=Danemark – Angleterre : Les Three Lions sont des petits agneaux, mais restent invaincus... |url=https://www.20minutes.fr/sport/football/euro-2024/4096982-20240620-direct-danemark-angleterre-anglais-veulent-confirmer-mieux-jouer-danois-inconnu-suivez-match |accès url=libre |site=[[20 Minutes]] |date=20 juin 2024 |consulté le=21 juin 2024}}</ref>{{,}}<ref>{{Article|langue=fr|titre=Danemark-Angleterre : revivez le match nul concédé par des Anglais décevants|périodique=[[Le Monde]]|date=20 juin 2024|lire en ligne=https://www.lemonde.fr/sport/live/2024/06/20/en-direct-danemark-angleterre-suivez-le-match-de-l-euro-2024_6241809_3242.html|consulté le=21 juin 2024|accès url=libre}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Delphine de Freitas |titre=Danemark-Angleterre (1-1) : accrochés, les Three Lions ne rassurent pas |url=https://www.tf1info.fr/euro/football-euro-2024-danemark-angleterre-direct-video-composition-avant-match-coulisses-retrouvailles-apres-la-demi-finale-2021-jude-bellingham-harry-kane-christian-eriksen-2304799.html |accès url=libre |site=[[TF1]] |date=20 juin 2024 |consulté le=21 juin 2024}}</ref>.
+
+Plus tôt dans la journée, les [[Équipe de Slovénie de football|Slovènes]] et les [[Équipe de Serbie de football|Serbes]] se quittent sur le même score, mais, à l'inverse du match précédent, celui-ci se décide dans les vingts dernières minutes : alors que la Slovénie ouvre le score grâce à [[Žan Karničnik]] à la {{69e}} minute d'un match âpre et équilibré, la Serbie parvient à arracher le match nul dans les tout derniers instants du match par à une tête de [[Luka Jović]] sur un corner d'[[Andrej Ilić]]. Les Slovènes, qui concèdent leur deuxième match nul, devront à nouveau faire au moins match nul contre les Anglais dans la troisième journée pour espérer se qualifier. Réciproquement, les Serbes devront absolument éviter la défaite contre le Danemark, alors que dans le même temps, la [[Fédération de Serbie de football|fédération serbe de football]] menace de retirer son équipe de la compétition en raison de tensions avec des supporters [[Équipe d'Albanie de football|albanais]]<ref>{{Lien web |langue=fr |titre=Slovénie-Serbie: les Serbes arrachent un point à la dernière seconde et se relancent dans ce groupe C |url=https://rmcsport.bfmtv.com/football/euro/direct-slovenie-serbie-suivez-le-match-de-l-euro-2024-en-live_LS-202406200307.html |accès url=libre |site=[[RMC Sport]] |date=20 juin 2024 |consulté le=21 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=AFP |titre=La Serbie, miraculée, arrache le nul contre la Slovénie |url=https://www.leprogres.fr/sport/2024/06/20/la-serbie-arrache-le-nul-contre-la-slovenie |accès url=libre |site=[[Le Progrès (Lyon)|Le Progrès]] |date=20 juin 2024 |consulté le=21 juin 2024}}</ref>.
+
+==== {{3e}} journée ====
+{{Feuille de match
+| date = {{date-|25|juin|2024}}
+| titre = Match 29
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe d'Angleterre de football au Championnat d'Europe 2024|Angleterre]] {{ENG-d}}
+| score = 
+| score mi-temps = -
+| équipe 2 = {{SLO-d}} [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036189--england-vs-slovenia/ Rapport]
+| buts 1 = 
+| buts 2 = 
+| stade = [[RheinEnergieStadion|Stade de Cologne]], [[Cologne]]
+| affluence = 
+| arbitre = {{FRA-d}} [[Clément Turpin]]
+| arbitre video = {{FRA-d}} [[Jérôme Brisard]]
+}}
+----
+{{Feuille de match
+| date = {{date-|25|juin|2024}}
+| titre = Match 30
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe du Danemark de football au Championnat d'Europe 2024|Danemark]] {{DEN-d}}
+| score = 
+| score mi-temps = -
+| équipe 2 = {{SRB-d}} [[Équipe de Serbie de football au Championnat d'Europe 2024|Serbie]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036190--denmark-vs-serbia/ Rapport]
+| buts 1 = 
+| buts 2 = 
+| stade = [[Allianz Arena|Munich Football Arena]], [[Munich]]
+| affluence = 
+| arbitre = {{FRA-d}} [[François Letexier]]
+| arbitre video = {{GER-d}} [[Bastian Dankert]]
+}}
+
+=== Groupe D ===
+{{Foot classement début|align=center|titre=Groupe D|mise à jour=21 juin 2024}}
+{{Foot classement|1|{{NED-d}} [[Équipe des Pays-Bas de football au Championnat d'Europe 2024|Pays-Bas]]|4|2|1|1|0|2|1|bgcolor={{Foot couleur|Europe qualifié}}}}
+{{Foot classement|2|{{FRA-d}} [[Équipe de France de football au Championnat d'Europe 2024|France]]|4|2|1|1|0|1|0|bgcolor={{Foot couleur|Europe qualifié}}}}
+{{Foot classement|3|{{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]]|3|2|1|0|1|3|2|bgcolor={{Foot couleur|Europe qualifié2}}}}
+{{Foot classement|4|{{POL-d}} [[Équipe de Pologne de football au Championnat d'Europe 2024|Pologne]]|0|2|0|0|2|2|5}}
+{{Foot classement fin}}
+{{Légende/Début}}
+{{Légende|{{Foot couleur|Europe qualifié}}|Qualifié pour les huitièmes de finale}}
+{{Légende|{{Foot couleur|Europe qualifié2}}|Qualifié au titre des meilleurs troisièmes}}
+{{Légende/Fin}}
+
+==== {{1re}} journée ====
+{{Feuille de match
+| date = {{date-|16|juin|2024}}
+| titre = Match 7
+| heure = {{Heure|15|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Pologne de football au Championnat d'Europe 2024|Pologne]] {{POL-d}}
+| score = 1 - 2
+| score mi-temps = 1 - 1
+| équipe 2 = '''{{NED-d}} [[Équipe des Pays-Bas de football au Championnat d'Europe 2024|Pays-Bas]]'''
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036167--poland-vs-netherlands/ Rapport]
+| buts 1 = ({{passe décisive}} [[Piotr Zieliński (football)|Zieliński]]) [[Adam Buksa|Buksa]] {{but|16}}
+| buts 2 = {{but|29}} [[Cody Gakpo|Gakpo]] ({{passe décisive}} [[Nathan Aké|Aké]])<br>{{but|83}} [[Wout Weghorst|Weghorst]] ({{passe décisive}} [[Nathan Aké|Aké]])
+| cartons 1 = 
+| cartons 2 = {{yel|15}} [[Joey Veerman|Veerman]]
+| stade = [[Volksparkstadion]], [[Hambourg]]
+| affluence = 48117
+| arbitre = {{POR-d}} [[Artur Soares Dias]]
+| arbitre video = {{POR-d}} {{Lien|langue=en|trad=Tiago Martins (referee)|fr=Tiago Martins}}
+}}
+----
+{{Feuille de match
+| date = {{date-|17|juin|2024}}
+| titre = Match 8
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]] {{AUT-d}}
+| score = 0 - 1
+| score mi-temps = 0 - 1
+| équipe 2 = '''{{FRA-d}} [[Équipe de France de football au Championnat d'Europe 2024|France]]'''
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036168--austria-vs-france/ Rapport]
+| buts 1 = 
+| buts 2 = {{but|38|csc}} [[Maximilian Wöber|Wöber]] ({{passe décisive}} [[Kylian Mbappé|Mbappé]])
+| cartons 1 = [[Maximilian Wöber|Wöber]] {{yel|16}}<br>[[Phillipp Mwene|Mwene]] {{yel|34}}<br>[[Christoph Baumgartner|Baumgartner]] {{yel|80}}<br>[[Konrad Laimer|Laimer]] {{yel|84}}<br>[[Kevin Danso|Danso]] {{yel|90+3}}
+| cartons 2 = {{yel|56}} [[Ousmane Dembélé|Dembélé]]<br>{{yel|90}} [[Kylian Mbappé|Mbappé]]
+| stade = [[Merkur Spiel-Arena|Düsseldorf Arena]], [[Düsseldorf]]
+| affluence = 46425
+| arbitre = {{ESP-d}} {{Lien|langue=en|fr=Jesús Gil Manzano}}
+| arbitre video = {{ESP-d}} {{Lien|langue=en|fr=Juan Martínez Munuera}}
+}}Alors que les [[Équipe des Pays-Bas de football|Pays-Bas]] et la [[Équipe de Pologne de football|Pologne]] ont chacun inscrit un but en première période ([[Adam Buksa]] d'une tête pour les Polonais à la {{16e}} minute puis [[Cody Gakpo]] d'une frappe détournée par un défenseur pour les Bataves à la {{29e}} minute) et que le match semble vouloir se diriger vers un match nul malgré la domination des Néerlandais, les ''Oranje'' trouvent finalement la solution et arrachent les trois points grâce à [[Wout Weghorst]], à 7 minutes de la fin du temps réglementaire d'un match difficile et accroché<ref>{{Lien web |langue=fr |auteur=Pierre Guyon |titre=Euro 2024. Malmenés par la Pologne, les Pays-Bas arrachent la victoire pour leur entrée en lice |url=https://www.ouest-france.fr/euro/direct/direct-pologne-pays-bas-suivez-le-premier-match-du-groupe-des-bleus-a-leuro-2024-en-live-77d881ce-d8b9-49ad-b06a-87288e46398e |accès url=libre |site=[[Ouest-France]] |date=16 juin 2024 |consulté le=16 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Milan Busignies |titre=Pologne - Pays-Bas (1-2) : Wout Weghorst délivre les Bataves à l'Euro 2024, le résumé du match |url=https://www.leparisien.fr/sports/football/euro/direct-pologne-pays-bas-les-futurs-adversaires-des-bleus-entrent-en-lice-a-leuro-2024-16-06-2024-5CI2DQ6C4NAMZJDUWY3ZYWOCFE.php |accès url=libre |site=[[Le Parisien]] |date=16 juin 2024 |consulté le=23 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |titre=Euro 2024 : futurs adversaires des Bleus, les Pays-Bas renversent la Pologne pour leur entrée en lice |url=https://www.francetvinfo.fr/euro/direct-pologne-pays-bas-les-deux-futurs-adversaires-des-bleus-veulent-reussir-leur-entree-suivez-le-match-de-l-euro-2024_6606162.html |accès url=libre |site=[[France Info]] |date=16 juin 2024 |consulté le=23 juin 2024}}</ref>. 
+
+Le lendemain soir à [[Düsseldorf]], les [[Équipe de France de football|Français]] battent péniblement une [[Équipe d'Autriche de football|équipe d'Autriche]] agressive (18 fautes et 5 cartons jaunes) d'un petit but à zéro, grâce à une tête [[But contre son camp|contre son camp]] du défenseur viennois [[Maximilian Wöber]] après un centre en retrait de [[Kylian Mbappé]], quelques minutes avant la mi-temps. Outre les trois points, le match de la France se solde cependant par les blessures d'[[Antoine Griezmann]], touché au [[Front (anatomie)|front]] après avoir cogné un panneau publicitaire le long de la ligne de touche sur une poussette de Wöber ; et de Kylian Mbappé, touché au nez après un contact aérien avec [[Kevin Danso]] en toute fin de match<ref>{{Lien web |langue=fr |titre=Autriche - France, 17 juin 2024 - Championnat d'Europe 2024 - Statistiques |url=https://www.transfermarkt.fr/autriche_france/statistik/spielbericht/4235814 |accès url=libre |site=www.transfermarkt.fr |consulté le=17 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Alexandre Jaquin |titre=France-Autriche : les Bleus lancent leur Euro 2024 par une victoire, mais s'inquiètent pour Mbappé |url=https://rmcsport.bfmtv.com/football/euro/france-autriche-les-bleus-lancent-leur-euro-2024-par-une-victoire-mais-s-inquietent-pour-mbappe_AV-202406170990.html |accès url=libre |site=[[RMC Sport]] |date=17 juin 2024 |consulté le=17 juin 2024}}</ref>. 
+
+==== {{2e}} journée ====
+{{Feuille de match
+| date = {{date-|21|juin|2024}}
+| titre = Match 19
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Pologne de football au Championnat d'Europe 2024|Pologne]] {{POL-d}}
+| score = 1 - 3
+| score mi-temps = 1 - 1
+| équipe 2 = '''{{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]]'''
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036179--poland-vs-austria/ Rapport]
+| buts 1 = [[Krzysztof Piątek|Piątek]] {{but|30}}
+| buts 2 = {{but|9}} [[Gernot Trauner|Trauner]] ({{passe décisive}} [[Phillipp Mwene|Mwene]])<br>{{but|66}} [[Christoph Baumgartner|Baumgartner]] ({{passe décisive}} [[Alexander Prass|Prass]])<br>{{but|78|pen}} [[Marko Arnautović|Arnautović]]
+| cartons 1 = [[Bartosz Slisz|Slisz]] {{yel|53}}<br>[[Jakub Moder|Moder]] {{yel|62}}<br>[[Robert Lewandowski|Lewandowski]] {{yel|64}}<br>[[Wojciech Szczęsny|Szczęsny]] {{yel|77}}
+| cartons 2 = {{yel|56}} [[Patrick Wimmer|Wimmer]]<br>{{yel|70}} [[Marko Arnautović|Arnautović]]
+| stade = [[Stade olympique de Berlin|Olympiastadion]], [[Berlin]]
+| affluence = 69455
+| arbitre = {{TUR-d}} {{Lien|langue=en|fr=Halil Umut Meler}}
+| arbitre video = {{ITA-d}} {{Lien|langue=en|fr=Paolo Valeri}}
+}}
+----
+{{Feuille de match
+| date = {{date-|21|juin|2024}}
+| titre = Match 20
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe des Pays-Bas de football au Championnat d'Europe 2024|Pays-Bas]] {{NED-d}}
+| score = 0 - 0
+| score mi-temps = 0 - 0
+| équipe 2 = {{FRA-d}} [[Équipe de France de football au Championnat d'Europe 2024|France]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036180--netherlands-vs-france/ Rapport]
+| buts 1 = 
+| buts 2 = 
+| cartons 1 = [[Jerdy Schouten|Schouten]] {{yel|31}}
+| stade = [[Red Bull Arena (Leipzig)|Stade de Leipzig]], [[Leipzig]]
+| affluence = 38531
+| arbitre = {{ENG-d}} [[Anthony Taylor (arbitre)|Anthony Taylor]]
+| arbitre video = {{ENG-d}} {{Lien|langue=en|fr=Stuart Attwell}}
+}}Le match opposant la [[Équipe de Pologne de football|Pologne]] à l'[[Équipe d'Autriche de football|Autriche]] voit s'affronter les deux perdants de la première journée. Les Autrichiens entament très bien la rencontre en ouvrant le score tôt grâce à une tête de l'arrière central [[Gernot Trauner]], mais, une vingtaine de minutes plus tard, la Pologne revient à égalité grâce à [[Krzysztof Piątek]]. Malgré un match équilibré et l'entrée de l'attaquant star [[Robert Lewandowski]] à trente minutes de la fin du match, les Autrichiens passent devant à la {{66e}} avec [[Christoph Baumgartner]], puis enfoncent le clou à la {{78e}} grâce à [[Marko Arnautović]] sur penalty<ref>{{Lien web |langue=fr |auteur=Jérémy Laugier |titre=Pologne-Autriche : Au-dessus, les Autrichiens se relancent pour les huitièmes de finale dans le groupe des Bleus (1-3) |url=https://www.20minutes.fr/sport/football/euro-2024/4097267-20240621-direct-pologne-autriche-lewandowski-retour-bleus-esperent-nul-suivez-match |accès url=libre |site=[[20 Minutes]] |date=21 juin 2024 |consulté le=22 juin 2024}}</ref>{{,}}<ref>{{Article|langue=fr|titre=Revivez la victoire des Autrichiens face à la Pologne, pour se relancer dans l’Euro 2024|périodique=[[Le Monde]]|date=21 juin 2024|lire en ligne=https://www.lemonde.fr/sport/live/2024/06/21/en-direct-pologne-autriche-suivez-le-match-des-adversaires-des-bleus-a-l-euro-2024_6242125_3242.html|consulté le=22 juin 2024|accès url=libre}}</ref>.
+
+Le soir même, la [[Équipe de France de football|France]] domine des [[Équipe des Pays-Bas de football|Pays-Bas]] solides défensivement dans un match très ouvert mais, peut-être en raison de l'absence de [[Kylian Mbappé]] blessé au nez au match précédent, les Bleus ne parviennent jamais à concrétiser, malgré les grosses occasions d'[[Antoine Griezmann]] et d'[[Adrien Rabiot]]. Le match est également marqué, à la {{69e}} minute, par le but de [[Xavi Simons]] finalement refusé pour hors-jeu en raison de la position de [[Denzel Dumfries]] qui empêche le gardien français [[Mike Maignan]] de plonger. Cette décision arbitrale est relativement critiquée, notamment par le sélectionneur néerlandais [[Ronald Koeman]]. Ce résultat nul et vierge, le premier de la compétition, a comme double conséquence de ne pas assurer la qualification aux Français (ce qui aurait été le cas en cas de victoire) mais également d'éliminer définitivement la Pologne, la première nation de la compétition dans cette situation<ref>{{Lien web |langue=fr |auteur=Nicolas Stival |titre=L’arbitre a-t-il eu raison de refuser le but des Pays-Bas face aux Bleus ? |url=https://www.20minutes.fr/sport/football/euro-2024/4097527-20240622-france-pays-bas-arbitre-raison-refuser-but-neerlandais-xavi-simons |accès url=libre |site=[[20 Minutes]] |date=21 juin 2024 |consulté le=22 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Arthur Verdelet |titre=Maladroite, l'équipe de France concède le nul face aux Pays-Bas |url=https://www.lequipe.fr/Football/Actualites/Maladroite-l-equipe-de-france-concede-le-nul-face-aux-pays-bas/1476557 |accès url=libre |site=[[L'Équipe]] |date=21 juin 2024 |consulté le=22 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Victor Tribot Laspière |auteur2=Flavien Groyer |auteur3=AFP |titre=Euro 2024 : les Bleus concèdent le nul face aux Pays-Bas (0-0) et devront attendre pour la qualification en huitièmes |url=https://www.francebleu.fr/sports/football/direct-euro-2024-suivez-pays-bas-france-21h00-5833915 |accès url=libre |site=[[France Bleu]] |date=21 juin 2024 |consulté le=22 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Cyril Morin |titre=L'antisèche de Pays-Bas - France (0-0) : tellement Deschamps, tellement frustrant |url=https://www.eurosport.fr/geoblocking.shtml |accès url=libre |site=[[Eurosport]] |date=22 juin 2024 |consulté le=22 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Mateo Calabrese |auteur2=Fabien Magnenou |titre=Euro 2024 : revivez le match nul frustrant des Bleus face aux Néerlandais |url=https://www.francetvinfo.fr/euro/directs/direct-pays-bas-france-les-bleus-visent-deja-la-qualification-en-huitiemes-de-finale-suivez-le-match-au-sommet-du-groupe-d-de-l-euro-2024_6616341.html |accès url=libre |site=[[France Info]] |date=21 juin 2024 |consulté le=22 juin 2024}}</ref>.
+
+==== {{3e}} journée ====
+{{Feuille de match
+| date = {{date-|25|juin|2024}}
+| titre = Match 31
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe des Pays-Bas de football au Championnat d'Europe 2024|Pays-Bas]] {{NED-d}}
+| score = 
+| score mi-temps = - 
+| équipe 2 = {{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036192--netherlands-vs-austria/ Rapport]
+| buts 1 = 
+| buts 2 = 
+| stade = [[Stade olympique de Berlin|Olympiastadion]], [[Berlin]]
+| affluence = 
+| arbitre = {{SVK-d}} [[Ivan Kružliak]]
+| arbitre video = {{GER-d}} [[Marco Fritz]]
+}}
+----
+{{Feuille de match
+| date = {{date-|25|juin|2024}}
+| titre = Match 32
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de France de football au Championnat d'Europe 2024|France]] {{FRA-d}}
+| score = 
+| score mi-temps = -
+| équipe 2 = {{POL-d}} [[Équipe de Pologne de football au Championnat d'Europe 2024|Pologne]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036191--france-vs-poland/ Rapport]
+| buts 1 = 
+| buts 2 = 
+| stade = [[Signal Iduna Park|BVB Stadion Dortmund]], [[Dortmund]]
+| affluence = 
+| arbitre = {{ITA-d}} [[Marco Guida]]
+| arbitre video = {{ITA-d}} [[Massimiliano Irrati]]
+}}
+
+=== Groupe E ===
+{{Foot classement début|align=center|titre=Groupe E|mise à jour=22 juin 2024}}
+{{Foot classement|1|{{ROU-d}} [[Équipe de Roumanie de football au Championnat d'Europe 2024|Roumanie]]|3|2|1|0|1|3|2|bgcolor={{Foot couleur|Europe qualifié}}}}
+{{Foot classement|2|{{BEL-d}} [[Équipe de Belgique de football au Championnat d'Europe 2024|Belgique]]|3|2|1|0|1|2|1|bgcolor={{Foot couleur|Europe qualifié}}}}
+{{Foot classement|3|{{SVK-d}} [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]]|3|2|1|0|1|2|2|bgcolor={{Foot couleur|Europe qualifié2}}}}
+{{Foot classement|4|{{UKR-d}} [[Équipe d'Ukraine de football au Championnat d'Europe 2024|Ukraine]]|3|2|1|0|1|2|4}}
+{{Foot classement fin}}
+{{Légende/Début}}
+{{Légende|{{Foot couleur|Europe qualifié}}|Qualifié pour les huitièmes de finale}}
+{{Légende|{{Foot couleur|Europe qualifié2}}|Qualifié au titre des meilleurs troisièmes}}
+{{Légende/Fin}}
+
+==== {{1re}} journée ====
+{{Feuille de match
+| date = {{date-|17|juin|2024}}
+| titre = Match 9
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Belgique de football au Championnat d'Europe 2024|Belgique]] {{BEL-d}}
+| score = 0 - 1
+| score mi-temps = 0 - 1 
+| équipe 2 = '''{{SVK-d}} [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]]'''
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036169--belgium-vs-slovakia/ Rapport]
+| buts 1 = 
+| buts 2 = {{but|7}} [[Ivan Schranz|Schranz]] ({{passe décisive}} [[Juraj Kucka|Kucka]])
+| stade = [[Deutsche Bank Park|Frankfurt Arena]], [[Francfort-sur-le-Main]]
+| cartons 1 = [[Orel Mangala|Mangala]] {{yel|30}}<br>[[Youri Tielemans|Tielemans]] {{yel|76}}<br>[[Dodi Lukebakio|Lukebakio]] {{yel|85}}
+| cartons 2 = {{yel|41}} [[Ivan Schranz|Schranz]]
+| affluence = 45181
+| arbitre = {{TUR-d}} {{Lien|langue=en|fr=Halil Umut Meler}}
+| arbitre video = {{GER-d}} {{Lien|langue=en|fr=Bastian Dankert}}
+}}
+----
+{{Feuille de match
+| date = {{date-|17|juin|2024}}
+| titre = Match 10
+| heure = {{Heure|15|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = '''[[Équipe de Roumanie de football au Championnat d'Europe 2024|Roumanie]] {{ROU-d}}'''
+| score = 3 - 0
+| score mi-temps = 1 - 0
+| équipe 2 = {{UKR-d}} [[Équipe d'Ukraine de football au Championnat d'Europe 2024|Ukraine]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036170--romania-vs-ukraine/ Rapport]
+| buts 1 = ({{passe décisive}} [[Dennis Man|Man]]) [[Nicolae Stanciu (football, 1993)|Stanciu]] {{but|29}}<br>[[Răzvan Marin|R. Marin]] {{but|53}}<br>({{passe décisive}} [[Dennis Man|Man]]) [[Denis Drăguș|Drăguș]] {{but|57}}
+| cartons 1 = [[Răzvan Marin|R. Marin]] {{yel|79}}
+| cartons 2 = {{yel|67}} [[Yukhym Konoplia|Konoplia]]
+| stade = [[Allianz Arena|Munich Football Arena]], [[Munich]]
+| affluence = 61591
+| arbitre = {{SWE-d}} {{Lien|langue=en|fr=Glenn Nyberg}}
+| arbitre video = {{NED-d}} Rob Dieperink
+}}
+
+À [[Munich]], la [[Équipe de Roumanie de football|sélection roumaine]] débute fort sa compétition et inflige une nette correction à l'[[Équipe d'Ukraine de football|Ukraine]], qui avait pourtant bien débuté son match : la ''Zbirna'' domine la première demi-heure de jeu, jusqu'à l'ouverture du score surprise du milieu offensif roumain [[Nicolae Stanciu (football, 1993)|Nicolae Stanciu]]. Au retour des vestiaires, la Roumanie scelle définitivement sa victoire par deux buts en l'espace de quatre minutes ([[Răzvan Marin]] à la {{53e}} puis [[Denis Drăguș]] à la {{57e}}) et les Ukrainiens, impuissants, ne reviennent jamais au score<ref>{{Lien web |langue=fr |auteur=Flavien Gagnepain |titre=Roumanie-Ukraine (3-0) : revivez la claque infligée par les Roumains pour leur premier match de l'Euro |url=https://www.leparisien.fr/sports/football/euro/direct-roumanie-ukraine-malgre-la-guerre-les-ukrainiens-veulent-briller-a-leuro-17-06-2024-WOW4BBVKVNCCTLAC6XKHJKPDZE.php |accès url=libre |site=leparisien.fr |date=17 juin 2024 |consulté le=17 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |titre=Euro 2024 : la Roumanie assomme l'Ukraine pour le premier match du groupe E |url=https://www.france24.com/fr/sports/20240617-euro-2024-la-roumanie-assomme-l-ukraine-pour-le-premier-match-du-groupe-e |accès url=libre |site=[[France 24]] |date=17 juin 2024 |consulté le=17 juin 2024}}</ref>. 
+
+Après la victoire des Roumains, les [[Équipe de Slovaquie de football|Slovaques]] surprennent les outsiders [[Équipe de Belgique de football|Belges]] à Francfort, un peu plus tard dans la journée : [[Ivan Schranz]] ouvre le score tôt dans le match, profitant d'une erreur de [[Jérémy Doku]]. Les quart-de-finalistes de l'édition précédente ne parviennent pas à revenir dans le match et l'avant-centre [[Romelu Lukaku]] inscrit même deux buts refusés (le premier pour [[Loi 11 du football|hors-jeu]] à la {{56e}}, le second pour une [[Loi 12 du football|faute de main]] de [[Loïs Openda]] à la {{86e}})<ref>{{Lien web |langue=fr |auteur=Douglas de Graaf |titre=Euro 2024. La Slovaquie crée la sensation en battant la Belgique dès son entrée en lice |url=https://www.ouest-france.fr/euro/direct/direct-belgique-slovaquie-suivez-le-match-de-la-1re-journee-du-groupe-e-en-live-cbfbc4a4-3cf6-4acf-a066-ab0966efe192 |accès url=libre |site=Ouest-France.fr |date=17 juin 2024 |consulté le=17 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Matéo Benoist-Fritsch |titre=Belgique-Slovaquie (0-1) : le résumé de l'inattendue défaite des Diables rouges |url=https://www.leparisien.fr/sports/football/euro/direct-belgique-slovaquie-les-diables-rouges-lancent-leur-euro-2024-17-06-2024-V6DZFOZRJNA7XHWJGLWC6UWQIU.php |accès url=libre |site=leparisien.fr |date=17 juin 2024 |consulté le=17 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Alexandre Jaquin |titre=Belgique-Slovaquie: comment le nouveau ballon connecté de l’Euro 2024 a plombé les Diables Rouges |url=https://rmcsport.bfmtv.com/football/euro/belgique-slovaquie-comment-le-nouveau-ballon-connecte-de-l-euro-2024-a-plombe-les-diables-rouges_AV-202406170899.html |accès url=libre |site=[[RMC Sport]] |date=17 juin 2024 |consulté le=17 juin 2024}}</ref>.
+
+==== {{2e}} journée ====
+{{Feuille de match
+| date = {{date-|21|juin|2024}}
+| titre = Match 21
+| heure = {{Heure|15|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]] {{SVK-d}}
+| score = 1 - 2
+| score mi-temps = 1 - 0
+| équipe 2 = '''{{UKR-d}} [[Équipe d'Ukraine de football au Championnat d'Europe 2024|Ukraine]]'''
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036182--slovakia-vs-ukraine/ Rapport]
+| buts 1 = ({{passe décisive}} [[Lukáš Haraslín|Haraslín]]) [[Ivan Schranz|Schranz]] {{but|17}}
+| buts 2 = {{but|54}} [[Mykola Chaparenko|Chaparenko]] ({{passe décisive}} [[Oleksandr Zintchenko|Zintchenko]])<br>{{but|80}} [[Roman Iaremtchouk|Iaremtchouk]] ({{passe décisive}} [[Mykola Chaparenko|Chaparenko]])
+| cartons 2 = {{yel|84}} [[Roman Iaremtchouk|Iaremtchouk]]
+| stade = [[Merkur Spiel-Arena|Düsseldorf Arena]], [[Düsseldorf]]
+| affluence = 43910
+| arbitre = {{ENG-d}} [[Michael Oliver]]
+| arbitre video = {{GER-d}} {{Lien|langue=en|fr=Bastian Dankert}}
+}}
+----
+{{Feuille de match
+| date = {{date-|22|juin|2024}}
+| titre = Match 22
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = '''[[Équipe de Belgique de football au Championnat d'Europe 2024|Belgique]] {{BEL-d}}'''
+| score = 2 - 0
+| score mi-temps = 1 - 0
+| équipe 2 = {{ROU-d}} [[Équipe de Roumanie de football au Championnat d'Europe 2024|Roumanie]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036181--belgium-vs-romania/ Rapport]
+| buts 1 = ({{passe décisive}} [[Romelu Lukaku|Lukaku]]) [[Youri Tielemans|Tielemans]] {{but|2}}<br>({{passe décisive}} [[Koen Casteels|Casteels]]) [[Kevin De Bruyne|De Bruyne]] {{but|80}}
+| buts 2 = 
+| cartons 1 = [[Dodi Lukebakio|Lukebakio]] {{yel|35}}
+| cartons 2 = {{yel|60}} [[Nicușor Bancu|Bancu]]<br>{{yel|65}} [[Marius Marin|M. Marin]]
+| stade = [[RheinEnergieStadion|Stade de Cologne]], [[Cologne]]
+| affluence = 42535
+| arbitre = {{POL-d}} [[Szymon Marciniak]]
+| arbitre video = {{POL-d}} {{Lien|langue=de|trad=Tomasz Kwiatkowski|fr=Tomasz Kwiatkowski}}
+}}
+
+Corrigés 3-0 lors de la première journée, les [[Équipe d'Ukraine de football|Ukrainiens]] parviennent cette fois à se relancer face aux [[Équipe de Slovaquie de football|Slovaques]] : malgré la domination des ''Sokoli'' qui permet l'ouverture du score d'[[Ivan Schranz]] d'une tête piquée en première mi-temps, la ''Zbirna'', libérée, prend ensuite l'ascendant, et au terme de plusieurs occasions, elle parvient logiquement à renverser le match lors du second acte grâce à [[Mykola Chaparenko]] d'abord, puis à [[Roman Iaremtchouk]] ensuite. Le président ukrainien [[Volodymyr Zelensky]] salue la victoire<ref>{{Lien web |langue=fr |auteur=AFP |titre=L'Ukraine renverse la Slovaquie (2-1) et se relance dans le Groupe E |url=https://www.eurosport.fr/football/euro-2024/2024/euro-2024-l-ukraine-renverse-la-slovaquie-2-1-et-se-relance-dans-le-groupe-e_sto10203149/story.shtml |accès url=libre |site=[[Eurosport]] |date=21 juin 2022 |consulté le=22 juin 2022}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Célestin Barraud |titre=L'Ukraine renverse la Slovaquie et peut croire en sa qualification pour les 8es de l'Euro |url=https://www.lequipe.fr/Football/Actualites/L-ukraine-renverse-la-slovaquie-et-peut-croire-en-sa-qualification-pour-les-8es-de-l-euro/1476449 |accès url=libre |site=[[L'Équipe]] |date=21 juin 2024 |consulté le=22 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Victor Garlan |titre=Euro 2024 : une Ukraine révoltée renverse la Slovaquie ! |url=https://www.footmercato.net/a8076894356447379446-euro-2024-une-ukraine-revoltee-renverse-la-slovaquie |accès url=libre |site=[[Foot Mercato]] |date=21 juin 2024 |consulté le=22 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=AFP |titre=Euro 2024 : l’Ukraine renverse la Slovaquie et se relance dans le Groupe E |url=https://www.sudouest.fr/sport/football/euro/euro-2024-l-ukraine-renverse-la-slovaquie-et-se-relance-dans-le-groupe-e-20233633.php |accès url=libre |site=[[Sud Ouest]] |date=21 juin 2024 |consulté le=22 juin 2024}}</ref>.
+<!-- BEL - ROU à compléter -->
+
+==== {{3e}} journée ====
+{{Feuille de match
+| date = {{date-|26|juin|2024}}
+| titre = Match 33
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]] {{SVK-d}}
+| score =
+| score mi-temps = -
+| équipe 2 = {{ROU-d}} [[Équipe de Roumanie de football au Championnat d'Europe 2024|Roumanie]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036194--slovakia-vs-romania/ Rapport]
+| buts 1 = 
+| buts 2 = 
+| stade = [[Deutsche Bank Park|Frankfurt Arena]], [[Francfort-sur-le-Main]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+}}
+----
+{{Feuille de match
+| date = {{date-|26|juin|2024}}
+| titre = Match 34
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe d'Ukraine de football au Championnat d'Europe 2024|Ukraine]] {{UKR-d}}
+| score =
+| score mi-temps = - 
+| équipe 2 = {{BEL-d}} [[Équipe de Belgique de football au Championnat d'Europe 2024|Belgique]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036193--ukraine-vs-belgium/ Rapport]
+| buts 1 = 
+| buts 2 = 
+| stade = [[MHPArena|Stuttgart Arena]], [[Stuttgart]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+}}
+
+=== Groupe F ===
+{{Foot classement début|align=center|titre=Groupe F|mise à jour=22 juin 2024}}
+{{Foot classement|1|{{POR-d}} '''[[Équipe du Portugal de football au Championnat d'Europe 2024|Portugal]]'''|6|2|2|0|0|5|1|bgcolor={{Foot couleur|Europe qualifié}}}}
+{{Foot classement|2|{{TUR-d}} [[Équipe de Turquie de football au Championnat d'Europe 2024|Turquie]]|3|2|1|0|1|3|4|bgcolor={{Foot couleur|Europe qualifié}}}}
+{{Foot classement|3|{{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]]|1|2|0|1|1|2|3|bgcolor={{Foot couleur|Europe qualifié2}}}}
+{{Foot classement|4|{{GEO-d}} [[Équipe de Géorgie de football au Championnat d'Europe 2024|Géorgie]]|1|2|0|1|1|2|4}}
+{{Foot classement fin}}
+{{Légende/Début}}
+{{Légende|{{Foot couleur|Europe qualifié}}|Qualifié pour les huitièmes de finale}}
+{{Légende|{{Foot couleur|Europe qualifié2}}|Qualifié au titre des meilleurs troisièmes}}
+{{Légende/Fin}}
+
+==== {{1re}} journée ====
+{{Feuille de match
+| date = {{date-|18|juin|2024}}
+| titre = Match 11
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = '''[[Équipe de Turquie de football au Championnat d'Europe 2024|Turquie]] {{TUR-d}}'''
+| score = 3 - 1
+| score mi-temps = 1 - 1
+| équipe 2 = {{GEO-d}} [[Équipe de Géorgie de football au Championnat d'Europe 2024|Géorgie]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036171--turkiye-vs-georgia/ Rapport]
+| buts 1 = [[Mert Müldür|Müldür]] {{but|25}}<br>({{passe décisive}} [[Kaan Ayhan|Ayhan]]) [[Arda Güler|Güler]] {{but|65}}<br> [[Kerem Aktürkoğlu|Aktürkoğlu]] {{but|90+7}}
+| buts 2 = {{but|32}} [[Georges Mikautadze|Mikautadze]] ({{passe décisive}} [[Giorgi Kochorashvili|Kochorashvili]])
+| cartons 1 = [[Abdülkerim Bardakcı|Bardakcı]] {{yel|35}}<br>[[Hakan Çalhanoğlu|Çalhanoğlu]] {{yel|89}}
+| cartons 2 = {{yel|55}} [[Solomon Kvirkvelia|Kvirkvelia]]
+| stade = [[Signal Iduna Park|BVB Stadion Dortmund]], [[Dortmund]]
+| affluence = 59127
+| arbitre = {{ARG-d}} [[Facundo Tello]]
+| arbitre video = {{ESP-d}} {{Lien|langue=en|fr=Alejandro Hernández Hernández}}
+}}
+----
+{{Feuille de match
+| date = {{date-|18|juin|2024}}
+| titre = Match 12
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = '''[[Équipe du Portugal de football au Championnat d'Europe 2024|Portugal]] {{POR-d}}'''
+| score = 2 - 1
+| score mi-temps = 0 - 0
+| équipe 2 = {{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036172--portugal-vs-czechia/ Rapport]
+| buts 1 = [[Robin Hranáč|Hranáč]] {{csc|69}}<br>[[Francisco Conceição|Conceição]] {{but|90+2}}
+| buts 2 = {{but|62}} [[Lukáš Provod|Provod]] ({{passe décisive}} [[Vladimír Coufal|Coufal]])
+| cartons 1 = [[Rafael Leão|Leão]] {{yel|39}}<br>[[Francisco Conceição|Conceição]] {{yel|90+3}}
+| cartons 2 = {{yel|57}} [[Patrik Schick|Schick]]
+| stade = [[Red Bull Arena (Leipzig)|Stade de Leipzig]], [[Leipzig]]
+| affluence = 38421
+| arbitre = {{ITA-d}} {{Lien|langue=en|fr=Marco Guida}}
+| arbitre video = {{ITA-d}} [[Massimiliano Irrati]]
+}}
+
+À [[Dortmund]], la [[Équipe de Turquie de football|Turquie]] bat son voisin [[Équipe de Géorgie de football|géorgien]] sous des pluies diluviennes dans un match rythmé et débridé. L'ouverture du score turque est l'œuvre du défenseur [[Mert Müldür]], qui offre une puissante volée de l'extérieur de la surface, but déjà qualifié de l'un des plus beaux de la compétition. [[Georges Mikautadze]] égalise quelques minutes plus tard pour la Géorgie, puis l'offensif du Real Madrid [[Arda Güler]] permet aux Turcs de repasser devant peu après l'heure de jeu, avec une frappe des 20 mètres enroulée en lucarne également vantée par les médias. C'est finalement l'ailier [[Kerem Aktürkoğlu]] qui entérine la victoire des siens à la dernière seconde du match et permet à la Turquie de prendre la tête du groupe. Cette victoire des Turcs constitue déjà une meilleure performance que [[Équipe de Turquie de football au Championnat d'Europe 2020|celle de l'édition précédente]] où ils n'avaient pas gagné un seul match lors de la phase de groupes. Les Géorgiens, quant à eux, ont souvent manqué de réalisme et de réussite à la finition, malgré la bonne performance de Mikautadze<ref>{{Lien web |langue=fr |titre=Malgré les trombes d’eau, le match Turquie-Géorgie offre le plus beau buts de l’Euro |url=https://www.huffingtonpost.fr/sport/article/euro-2024-le-match-turquie-georgie-offre-l-un-des-plus-beaux-but-de-la-competition_235692.html |accès url=libre |site=[[Le HuffPost]] |date=18 juin 2024 |consulté le=18 juin 2024}}</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Alexandre Jourdan |titre=Turquie-Géorgie : Güler dans la lumière, Kvaratskhelia sans solution... Les tops et les flops |url=https://www.lefigaro.fr/sports/football/euro/turquie-georgie-gueler-dans-la-lumiere-kvaratskhelia-sans-solution-les-tops-et-les-flops-20240618 |accès url=libre |site=[[Le Figaro]] |date=18 juin 2024 |consulté le=18 juin 2024}}</ref>. 
+
+Quelques heures plus tard à Leipzig, à nouveau partiellement sous la pluie, le [[Équipe du Portugal de football|Portugal]], l'un des favoris de la compétition, se fait peur face à la [[Équipe de Tchéquie de football|Tchéquie]] : alors que les Portugais dominent sans parvenir à concrétiser, c'est le Tchèque [[Lukáš Provod]] qui ouvre le score à l'heure de jeu. L'espoir est cependant assez bref puisque 7 minutes plus tard une erreur du défenseur [[Robin Hranáč]] permet aux Portugais de revenir à un but partout. Dans les tous derniers instants du match, l'ailier [[Francisco Conceição]] libère son équipe et arrache une victoire aux forceps avec un but à bout portant. Ce match marque également quelques records : [[Cristiano Ronaldo]] devient le premier joueur à prendre part à six éditions de l'Euro et [[Pepe (football)|Pepe]], à 41 ans, est le joueur le plus âgé de la compétition<ref>{{Lien web |langue=fr |auteur=Quentin Ballue |titre=Portugal - Tchéquie Euro 2024 : La Seleção s'en sort au forceps dans le tem… |url=https://www.20minutes.fr/sport/football/euro-2024/4096583-20240618-direct-portugal-tchequie-selecao-cristiano-ronaldo-veulent-assumer-statut-favoris-suivez-match |accès url=libre |site=[[20 Minutes (France)|20 Minutes]] |date=18 juin 2024 |consulté le=18 juin 2024}}</ref>.
+
+==== {{2e}} journée ====
+{{Feuille de match
+| date = {{date-|22|juin|2024}}
+| titre = Match 23
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Turquie de football au Championnat d'Europe 2024|Turquie]] {{TUR-d}}
+| score = 0 - 3
+| score mi-temps = 0 - 2
+| équipe 2 = '''{{POR-d}} [[Équipe du Portugal de football au Championnat d'Europe 2024|Portugal]]'''
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036183--turkiye-vs-portugal/ Rapport]
+| buts 1 = 
+| buts 2 = {{but|21}} [[Bernardo Silva|Silva]]<br>{{but|28|csc}} [[Samet Akaydin|Akaydin]]<br>{{but|56}} [[Bruno Fernandes (football, 1994)|Fernandes]] ({{passe décisive}} [[Cristiano Ronaldo|Ronaldo]])
+| cartons 1 = [[Abdülkerim Bardakcı|Bardakcı]] {{yel|25}}<br>[[Samet Akaydin|Akaydin]] {{yel|42}}<br>[[Zeki Çelik|Çelik]] {{yel|42}}
+| cartons 2 = {{yel|39}} [[Rafael Leão|Leão]]<br>{{yel|45}} [[João Palhinha|Palhinha]]
+| stade = [[Signal Iduna Park|BVB Stadion Dortmund]], [[Dortmund]]
+| affluence = 61047
+| arbitre = {{GER-d}} [[Felix Zwayer]]
+| arbitre video = {{GER-d}} {{Lien|langue=en|fr=Bastian Dankert}}
+}}
+----
+{{Feuille de match
+| date = {{date-|22|juin|2024}}
+| titre = Match 24
+| heure = {{Heure|15|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Géorgie de football au Championnat d'Europe 2024|Géorgie]] {{GEO-d}}
+| score = 1 - 1
+| score mi-temps = 1 - 0
+| équipe 2 = {{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036184--georgia-vs-czechia/ Rapport]
+| buts 1 = [[Georges Mikautadze|Mikautadze]] {{but|45+4|pen}}
+| buts 2 = {{but|59}} [[Patrik Schick|Schick]] ({{passe décisive}} [[Ondřej Lingr|Lingr]])
+| cartons 1 = [[Guram Kashia|Kashia]] {{yel|36}}<br>{{Lien|langue=en|Giorgi Gvelesiani|texte=Gvelesiani}} {{yel|82}}<br>[[Anzor Mekvabishvili|Mekvabishvili]] {{yel|83}}<br>[[Giorgi Kochorashvili|Kochorashvili]] {{yel|90+5}}
+| cartons 2 = {{yel|18}} [[Vladimír Coufal|Coufal]]<br>{{yel|40}} [[Lukáš Provod|Provod]]<br>{{yel|47}} [[David Jurásek|Jurásek]]<br>{{yel|53}} [[Tomáš Holeš|Holeš]]<br>{{yel|81}} [[Tomáš Souček|Souček]]
+| stade = [[Volksparkstadion]], [[Hambourg]]
+| affluence = 46524
+| arbitre = {{GER-d}} [[Daniel Siebert]]
+| arbitre video = {{GER-d}} {{Lien|langue=en|fr=Marco Fritz}}
+}}<!-- TUR - POR à compléter --><!-- GEO - CZE à compléter -->
+
+==== {{3e}} journée ====
+{{Feuille de match
+| date = {{date-|26|juin|2024}}
+| titre = Match 35
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Géorgie de football au Championnat d'Europe 2024|Géorgie]] {{GEO-d}}
+| score =
+| score mi-temps = - 
+| équipe 2 = {{POR-d}} [[Équipe du Portugal de football au Championnat d'Europe 2024|Portugal]]
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036196--georgia-vs-portugal/ Rapport]
+| buts 1 = 
+| buts 2 = 
+| stade = [[Veltins-Arena|Arena AufSchalke]], [[Gelsenkirchen]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+}}
+----
+{{Feuille de match
+| date = {{date-|26|juin|2024}}
+| titre = Match 36
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| équipe 1 = [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]] {{CZE-d}}
+| score =
+| score mi-temps = -
+| équipe 2 = {{TUR-d}} [[Équipe de Turquie de football au Championnat d'Europe 2024|Turquie]] 
+| historique = 
+| rapport = [https://www.uefa.com/euro2024/match/2036195--czechia-vs-turkiye/ Rapport]
+| buts 1 = 
+| buts 2 = 
+| stade = [[Volksparkstadion]], [[Hambourg]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+}}
+
+=== Meilleurs troisièmes ===
+Quatre équipes classées troisièmes de leur poule sont repêchées pour compléter le tableau des huitièmes de finale. Pour désigner les 4 meilleurs troisièmes (parmi les 6 au total), un classement est effectué en comparant les résultats dans leur groupe respectif de chacune des équipes :
+
+Règles de départage :
+# Plus grand nombre de points obtenus ;
+# Meilleure différence de buts ;
+# Plus grand nombre de buts marqués ;
+# Plus petit nombre de points disciplinaires. Barème : deux cartons jaunes dans le même match ou un carton rouge direct donnent -{{nobr|3 points}}, et un carton jaune donne -1 point ;
+# Position dans le [[Éliminatoires du Championnat d'Europe de football 2024#Classement général|classement général des éliminatoires]].
+
+==== Classement ====
+{{Foot classement début}}
+{{Foot classement |1|{{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]] ([[#Groupe D |<small>Grp.</small> D]])|3|2|1|0|1|3|2|bgcolor={{Foot couleur |Europe qualifié}} }}
+{{Foot classement |2|{{SVK-d}} [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]] ([[#Groupe E |<small>Grp.</small> E]])|3|2|1|0|1|2|2|bgcolor={{Foot couleur |Europe qualifié}} }}
+{{Foot classement |3|{{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]] ([[#Groupe A |<small>Grp.</small> A]])|3|3|1|0|2|2|5|bgcolor={{Foot couleur |Europe qualifié}}}}
+{{Foot classement |4|{{SLO-d}} [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]] ([[#Groupe C |<small>Grp.</small> C]])|2|2|0|2|0|2|2|bgcolor={{Foot couleur |Europe qualifié}} }}
+{{Foot classement |5|{{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]] ([[#Groupe B |<small>Grp.</small> B]])|1|2|0|1|1|3|4}}
+{{Foot classement |6|{{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]] ([[#Groupe F |<small>Grp.</small> F]])|1|2|0|1|1|2|3 }}
+|}
+
+==== Appariements en huitièmes de finale ====
+Puisque quatre des six groupes placent une troisième équipe dans le tableau final, les différentes combinaisons formées par les groupes de provenance des équipes qualifiées servent à les répartir contre les premiers des groupes B, C, E et F (voir tableau final ci-dessus), comme suit<ref name=\"Reglement_euro2024_huitiemesdefinale\">{{Lien web
+ | langue          = fr
+ | auteur1         = [[Union des associations européennes de football|UEFA]]
+ | url             = https://documents.uefa.com/r/Reglement-du-Championnat-d-Europe-de-football-de-l-UEFA-2022-24-Online
+ | titre           = Règlement du Championnat d'Europe de football de l'UEFA 2022-24
+ | mois            = mai
+ | année           = 2022
+ | site            = uefa.com
+ | page            = 20 (Chap. II Système de la compétition, art. 21 Formule des matches à élimination directe de la phase finale)
+ | consulté le     = 22 juin 2024
+}}
+*</ref> :
+
+{| class=\"wikitable alternance gauche\" style=\"text-align:left;\"
+ |+Appariements des huitièmes de finale en fonction des groupes d'origine des repêchés du premier tour
+ |-
+ ! scope=\"col\" colspan=6 rowspan=2 | Groupes d'origine<br/>des meilleurs {{3e}}
+ ! scope=\"col\" colspan=4 | Adversaires de
+ |-
+ ! scope=\"col\" | <small>[1B]</small> {{ESP-d}} [[Équipe d'Espagne de football au Championnat d'Europe 2024|Espagne]]
+ ! scope=\"col\" | <small>[1C]</small> {{-d}}
+ ! scope=\"col\" | <small>[1E]</small> {{-d}}
+ ! scope=\"col\" | <small>[1F]</small> {{POR-d}} [[Équipe du Portugal de football au Championnat d'Europe 2024|Portugal]]
+
+ |-
+ | A || B || C || D ||  ||  || <small>[3A]</small> {{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]] || <small>[3D]</small> {{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]] || <small>[3B]</small> {{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]] || <small>[3C]</small> {{SVN-d}} [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]]
+ |-
+ | A || B || C ||  || E ||  || <small>[3A]</small> {{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]] || <small>[3E]</small> {{SVK-d}} [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]] || <small>[3B]</small> {{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]] || <small>[3C]</small> {{SVN-d}} [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]]
+ |-
+ | A || B || C ||  ||  || F || <small>[3A]</small> {{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]] || <small>[3F]</small> {{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]] || <small>[3B]</small> {{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]] || <small>[3C]</small> {{SVN-d}} [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]]
+ |-
+ | A || B ||  || D || E ||  || <small>[3D]</small> {{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]] || <small>[3E]</small> {{SVK-d}} [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]] || <small>[3A]</small> {{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]] || <small>[3B]</small> {{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]]
+ |-
+ | A || B ||  || D ||  || F || <small>[3D]</small> {{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]] || <small>[3F]</small> {{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]] || <small>[3A]</small> {{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]] || <small>[3B]</small> {{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]]
+ |-
+ | A || B ||  ||  || E || F || <small>[3E]</small> {{SVK-d}} [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]] || <small>[3F]</small> {{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]] || <small>[3B]</small> {{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]] || <small>[3A]</small> {{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]]
+ |-
+ | A ||  || C || D || E ||  || <small>[3E]</small> {{SVK-d}} [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]] || <small>[3D]</small> {{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]] || <small>[3C]</small> {{SVN-d}} [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]] || <small>[3A]</small> {{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]]
+ |-
+ | A ||  || C || D ||  || F || <small>[3F]</small> {{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]] || <small>[3D]</small> {{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]] || <small>[3C]</small> {{SVN-d}} [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]] || <small>[3A]</small> {{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]]
+ |-
+ | A ||  || C ||  || E || F || <small>[3E]</small> {{SVK-d}} [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]] || <small>[3F]</small> {{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]] || <small>[3C]</small> {{SVN-d}} [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]] || <small>[3A]</small> {{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]]
+ |-
+ | A ||  ||  || D || E || F || <small>[3E]</small> {{SVK-d}} [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]] || <small>[3F]</small> {{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]] || <small>[3D]</small> {{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]] || <small>[3A]</small> {{HUN-d}} [[Équipe de Hongrie de football au Championnat d'Europe 2024|Hongrie]]
+ |-
+ |  || B || C || D || E ||  || <small>[3E]</small> {{SVK-d}} [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]] || <small>[3D]</small> {{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]] || <small>[3B]</small> {{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]] || <small>[3C]</small> {{SVN-d}} [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]]
+ |-
+ |  || B || C || D ||  || F || <small>[3F]</small> {{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]]  || <small>[3D]</small> {{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]] || <small>[3C]</small> {{SVN-d}} [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]] || <small>[3B]</small> {{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]]
+ |-
+ |  || B || C ||  || E || F || <small>[3F]</small> {{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]] || <small>[3E]</small> {{SVK-d}} [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]] || <small>[3C]</small> {{SVN-d}} [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]] || <small>[3B]</small> {{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]]
+ |-
+ |  || B ||  || D || E || F || <small>[3F]</small> {{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]] || <small>[3E]</small> {{SVK-d}} [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]] || <small>[3D]</small> {{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]] || <small>[3B]</small> {{ALB-d}} [[Équipe d'Albanie de football au Championnat d'Europe 2024|Albanie]]
+ |-
+ |  ||  || C || D || E || F || <small>[3F]</small> {{CZE-d}} [[Équipe de Tchéquie de football au Championnat d'Europe 2024|Tchéquie]] || <small>[3E]</small> {{SVK-d}} [[Équipe de Slovaquie de football au Championnat d'Europe 2024|Slovaquie]] || <small>[3D]</small> {{AUT-d}} [[Équipe d'Autriche de football au Championnat d'Europe 2024|Autriche]] || <small>[3C]</small> {{SVN-d}} [[Équipe de Slovénie de football au Championnat d'Europe 2024|Slovénie]]
+ |}
+{{Clr}}
+{{Légende/Début}}
+{{Légende|#E54342|Combinaison qui ne peut plus être réalisée}}
+{{Légende/Fin}}
+
+== Phase à élimination directe ==
+
+=== Tableau final ===
+{{Tournoi sur 4 tours|couleur titres={{Fc|Europe}} 
+|couleur 1/8m1={{Fc|Europe qualifié}}|couleur 1/8m2={{Fc|Europe qualifié}}|couleur 1/8m3={{Fc|Europe qualifié}}|couleur 1/8m4={{Fc|Europe qualifié}}
+|couleur 1/8m5={{Fc|Europe qualifié}}|couleur 1/8m6={{Fc|Europe qualifié}}|couleur 1/8m7={{Fc|Europe qualifié}}|couleur 1/8m8={{Fc|Europe qualifié}}
+|couleur 1/4m1={{Fc|Europe qualifié}}|couleur 1/4m2={{Fc|Europe qualifié}}|couleur 1/4m3={{Fc|Europe qualifié}}|couleur 1/4m4={{Fc|Europe qualifié}}
+|couleur 1/2m1={{Fc|Europe qualifié}}|couleur 1/2m2={{Fc|Europe qualifié}}|couleur 1m1={{Fc|or}}
+|descr 1/8m1A={{abréviation|B1|Premier du groupe B}}|descr 1/8m1B={{abréviation|A/D/E/F3|Troisième du groupe A, D, E ou F}}
+|descr 1/8m2A={{abréviation|A1|Premier du groupe A}}|descr 1/8m2B={{abréviation|C2|Deuxième du groupe C}}
+|descr 1/8m3A={{abréviation|F1|Premier du groupe F}}|descr 1/8m3B={{abréviation|A/B/C3|Troisième du groupe A, B ou C}}
+|descr 1/8m4A={{abréviation|D2|Deuxième du groupe D}}|descr 1/8m4B={{abréviation|E2|Deuxième du groupe E}}
+|descr 1/8m5A={{abréviation|E1|Premier du groupe E}}|descr 1/8m5B={{abréviation|A/B/C/D3|Troisième du groupe A, B, C ou D}}
+|descr 1/8m6A={{abréviation|D1|Premier du groupe D}}|descr 1/8m6B={{abréviation|F2|Deuxième du groupe F}}
+|descr 1/8m7A={{abréviation|C1|Premier du groupe C}}|descr 1/8m7B={{abréviation|D/E/F3|Troisième du groupe D, E ou F}}
+|descr 1/8m8A={{abréviation|B2|Deuxième du groupe B}}|descr 1/8m8B={{abréviation|A2|Deuxième du groupe A}}
+<!-- Huitièmes de finale-->
+|{{date-|30|juin|2024}} - [[RheinEnergieStadion|Stade de Cologne]], [[Cologne]]|{{ESP football}}|-||{{-d}}|-|
+|{{date-|29|juin|2024}} - [[Signal Iduna Park|BVB Stadion Dortmund]], [[Dortmund]]|{{GER football}}|-||{{-d}}|-|
+|{{date-|1|juillet|2024}} - [[Deutsche Bank Park|Frankfurt Arena]], [[Francfort-sur-le-Main]]|{{POR football}}|-||{{-d}}|-|
+|{{date-|1|juillet|2024}} - [[Merkur Spiel-Arena|Düsseldorf Arena]], [[Düsseldorf]]|{{-d}}|-||{{-d}}|-|
+|{{date-|2|juillet|2024}} - [[Allianz Arena|Munich Football Arena]], [[Munich]]|{{-d}}|-||{{-d}}|-|
+|{{date-|2|juillet|2024}} - [[Red Bull Arena (Leipzig)|Stade de Leipzig]], [[Leipzig]]|{{-d}}|-||{{-d}}|-|
+|{{date-|30|juin|2024}} - [[Veltins-Arena|Arena AufSchalke]], [[Gelsenkirchen]]|{{-d}}|-||{{-d}}|-|
+|{{date-|29|juin|2024}} - [[Stade olympique de Berlin|Olympiastadion]], [[Berlin]]|{{-d}}|-||{{SUI football}}|-|
+<!-- Quarts de finale-->
+|{{date-|5|juillet|2024}} - [[MHPArena|Stuttgart Arena]], [[Stuttgart]]|{{-d}}|-||{{-d}}|-|
+|{{date-|5|juillet|2024}} - [[Volksparkstadion]], [[Hambourg]]|{{-d}}|-||{{-d}}|-|
+|{{date-|6|juillet|2024}} - [[Stade olympique de Berlin|Olympiastadion]], [[Berlin]]|{{-d}}|-||{{-d}}|-|
+|{{date-|6|juillet|2024}} - [[Merkur Spiel-Arena|Düsseldorf Arena]], [[Düsseldorf]]|{{-d}}|-||{{-d}}|-|
+<!-- Demi-finale-->
+|{{date-|9|juillet|2024}} - [[Allianz Arena|Munich Football Arena]], [[Munich]]|{{-d}}|-||{{-d}}|-|
+|{{date-|10|juillet|2024}} - [[Signal Iduna Park|BVB Stadion Dortmund]], [[Dortmund]]|{{-d}}|-||{{-d}}|-|
+<!-- finale -->
+|{{date-|14|juillet|2024}} - [[Stade olympique de Berlin|Olympiastadion]], [[Berlin]]|{{-d}}|-||{{-d}}|-|
+}}
+
+=== Huitièmes de finale ===
+{{Feuille de match
+| titre = Match 37
+| date = {{date-|29|juin|2024}}
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = {{GER football|droite}}
+| équipe 2 = {{-d}} C2
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[Signal Iduna Park|BVB Stadion Dortmund]], [[Dortmund]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+{{Feuille de match
+| titre = Match 38
+| date = {{date-|29|juin|2024}}
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = B2 {{-d}}
+| équipe 2 = {{SUI football}}
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[Stade olympique de Berlin|Olympiastadion]], [[Berlin]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+{{Feuille de match
+| titre = Match 39
+| date = {{date-|30|juin|2024}}
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = {{ESP football|d}}
+| équipe 2 = {{-d}} A/D/E/F3
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[RheinEnergieStadion|Stade de Cologne]], [[Cologne]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+{{Feuille de match
+| titre = Match 40
+| date = {{date-|30|juin|2024}}
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = C1 {{-d}}
+| équipe 2 = {{-d}} D/E/F3
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[Veltins-Arena|Arena AufSchalke]], [[Gelsenkirchen]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+{{Feuille de match
+| titre = Match 41
+| date = {{date-|1|juillet|2024}}
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = {{POR football|d}}
+| équipe 2 = {{-d}} A/B/C3
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[Deutsche Bank Park|Frankfurt Arena]], [[Francfort-sur-le-Main]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+{{Feuille de match
+| titre = Match 42
+| date = {{date-|1|juillet|2024}}
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = D2 {{-d}}
+| équipe 2 = {{-d}} E2
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[Merkur Spiel-Arena|Düsseldorf Arena]], [[Düsseldorf]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+{{Feuille de match
+| titre = Match 43
+| date = {{date-|2|juillet|2024}}
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = E1 {{-d}}
+| équipe 2 = {{-d}} A/B/C/D3
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[Allianz Arena|Munich Football Arena]], [[Munich]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+{{Feuille de match
+| titre = Match 44
+| date = {{date-|2|juillet|2024}}
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = D1 {{-d}}
+| équipe 2 = {{-d}} F2
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[Red Bull Arena (Leipzig)|Stade de Leipzig]], [[Leipzig]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+
+=== Quarts de finale ===
+{{Feuille de match
+| titre = Match 45
+| date = {{date-|5|juillet|2024}}
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = W39 {{-d}}
+| équipe 2 = {{-d}} W37
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[MHPArena|Stuttgart Arena]], [[Stuttgart]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+{{Feuille de match
+| titre = Match 46
+| date = {{date-|5|juillet|2024}}
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = W41 {{-d}}
+| équipe 2 = {{-d}} W42
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[Volksparkstadion]], [[Hambourg]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+{{Feuille de match
+| titre = Match 47
+| date = {{date-|6|juillet|2024}}
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = W43 {{-d}}
+| équipe 2 = {{-d}} W44
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[Stade olympique de Berlin|Olympiastadion]], [[Berlin]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+{{Feuille de match
+| titre = Match 48
+| date = {{date-|6|juillet|2024}}
+| heure = {{Heure|18|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = W40 {{-d}}
+| équipe 2 = {{-d}} W38
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[Merkur Spiel-Arena|Düsseldorf Arena]], [[Düsseldorf]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+
+=== Demi-finales ===
+{{Feuille de match
+| titre = Match 49
+| date = {{date-|9|juillet|2024}}
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = W45 {{-d}}
+| équipe 2 = {{-d}} W46
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[Allianz Arena|Munich Football Arena]], [[Munich]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+{{Feuille de match
+| titre = Match 50
+| date = {{date-|10|juillet|2024}}
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = W47 {{-d}}
+| équipe 2 = {{-d}} W48
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[Signal Iduna Park|BVB Stadion Dortmund]], [[Dortmund]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport]
+}}
+----
+
+=== Finale ===
+{{Article détaillé|Finale du Championnat d'Europe de football 2024|}}
+{{Feuille de match
+| bgcolor = {{Fc|or}}
+| titre = Match 51
+| date = {{date-|14|juillet|2024}}
+| heure = {{Heure|21|00}} <small>[[Heure d'été d'Europe centrale|CEST]]</small>
+| historique = 
+| équipe 1 = W49 {{-d}}
+| équipe 2 = {{-d}} W50
+| score = 
+| score mi-temps = 
+| buts 1 = 
+| buts 2 = 
+| stade = [[Stade olympique de Berlin|Olympiastadion]], [[Berlin]]
+| affluence = 
+| arbitre = {{-d}}
+| arbitre video = {{-d}}
+| rapport = [ Rapport] <br>[[Fichier:UEFA European Cup.svg|25px]]
+}}
+
+== Statistiques ==
+=== Classement des buteurs ===
+==== 2 buts {{but}}{{but}} ====
+{{Colonnes|nombre=2|1=
+* {{GER-d}} [[Niclas Füllkrug]]
+* {{GER-d}} [[Jamal Musiala]]
+* {{GEO-d}} [[Georges Mikautadze]] <small>(dont 1 penalty)</small>
+* {{SVK-d}} [[Ivan Schranz]]
+}}
+
+==== 1 but {{but}} ====
+{{Colonnes|nombre=2|1=
+* {{ALB-d}} [[Nedim Bajrami]]
+* {{ALB-d}} [[Klaus Gjasula]]
+* {{ALB-d}} [[Qazim Laçi]]
+* {{AUT-d}} [[Marko Arnautović]] <small>(1 penalty)</small>
+* {{AUT-d}} [[Christoph Baumgartner]]
+* {{AUT-d}} [[Gernot Trauner]]
+* {{GER-d}} [[Emre Can]]
+* {{GER-d}} [[İlkay Gündoğan]]
+* {{GER-d}} [[Kai Havertz]] <small>(1 penalty)</small>
+* {{GER-d}} [[Florian Wirtz]]
+* {{ENG-d}} [[Jude Bellingham]]
+* {{ENG-d}} [[Harry Kane]]
+* {{BEL-d}} [[Kevin De Bruyne]]
+* {{BEL-d}} [[Youri Tielemans]]
+* {{CRO-d}} [[Andrej Kramarić]]
+* {{DEN-d}} [[Christian Eriksen]]
+* {{DEN-d}} [[Morten Hjulmand]]
+* {{SCO-d}} [[Scott McTominay]]
+* {{ESP-d}} [[Dani Carvajal]]
+* {{ESP-d}} [[Álvaro Morata]]
+* {{ESP-d}} [[Fabián Ruiz]]
+* {{HUN-d}} [[Kevin Csoboth]]
+* {{HUN-d}} [[Barnabás Varga]]
+* {{ITA-d}} [[Nicolò Barella]]
+* {{ITA-d}} [[Alessandro Bastoni]]
+* {{NED-d}} [[Cody Gakpo]]
+* {{NED-d}} [[Wout Weghorst]]
+* {{POL-d}} [[Adam Buksa]]
+* {{POL-d}} [[Krzysztof Piątek]]
+* {{POR-d}} [[Francisco Conceição]]
+* {{POR-d}} [[Bruno Fernandes (football, 1994)|Bruno Fernandes]]
+* {{POR-d}} [[Bernardo Silva]]
+* {{ROU-d}} [[Denis Drăguș]]
+* {{ROU-d}} [[Răzvan Marin]]
+* {{ROU-d}} [[Nicolae Stanciu (football, 1993)|Nicolae Stanciu]]
+* {{SRB-d}} [[Luka Jović]]
+* {{SLO-d}} [[Erik Janža]]
+* {{SLO-d}} [[Žan Karničnik]]
+* {{SUI-d}} [[Michel Aebischer]]
+* {{SUI-d}} [[Kwadwo Duah]]
+* {{SUI-d}} [[Breel Embolo]]
+* {{SUI-d}} [[Dan Ndoye]]
+* {{SUI-d}} [[Xherdan Shaqiri]]
+* {{CZE-d}} [[Lukáš Provod]]
+* {{CZE-d}} [[Patrik Schick]]
+* {{TUR-d}} [[Kerem Aktürkoğlu]]
+* {{TUR-d}} [[Arda Güler]]
+* {{TUR-d}} [[Mert Müldür]]
+* {{UKR-d}} [[Mykola Chaparenko]]
+* {{UKR-d}} [[Roman Iaremtchouk]]
+}}
+
+==== 1 but contre son camp [[Fichier:Soccerball-red.svg|10px]] ====
+{{Colonnes|nombre=2|1=
+* {{ALB-d}} [[Klaus Gjasula]] <small>(pour la Croatie)</small>
+* {{GER-d}} [[Antonio Rüdiger]] <small>(pour l'Écosse)</small>
+* {{AUT-d}} [[Maximilian Wöber]] <small>(pour la France)</small>
+* {{ITA-d}} [[Riccardo Calafiori]] <small>(pour l'Espagne)</small>
+* {{CZE-d}} [[Robin Hranáč]] <small>(pour le Portugal)</small>
+* {{TUR-d}} [[Samet Akaydin]] <small>(pour le Portugal)</small>
+}}
+
+=== Classement des passeurs ===
+Les passes décisives sont sujettes à différentes interprétations, notamment au regard des [[But contre son camp|buts contre son camp]]. Les passeurs listés ci-dessous sont ceux officiellement comptabilisées par l'[[Union des associations européennes de football|UEFA]] et admet donc les joueurs faisant explicitement la dernière {{Citation|passe}} vers le buteur contre son camp comme des passeurs décisifs<ref>{{Lien web |langue=en |titre=Player Attacking Stats {{!}} UEFA EURO 2024 |url=https://www.uefa.com/euro2024/statistics/players/attacking/ |accès url=libre |site=[[Union des associations européennes de football|UEFA]]}}</ref>.
+
+==== 2 passes {{passe décisive}}{{passe décisive}} ====
+{{Colonnes|nombre=2|1=
+* {{NED-d}} [[Nathan Aké]]
+* {{ROU-d}} [[Dennis Man]]
+* {{SUI-d}} [[Remo Freuler]]
+}}
+
+==== 1 passe {{passe décisive}} ====
+{{Colonnes|nombre=2|1=
+* {{ALB-d}} [[Jasir Asani]]
+* {{AUT-d}} [[Phillipp Mwene]]
+* {{AUT-d}} [[Alexander Prass]]
+* {{GER-d}} [[Kai Havertz]]
+* {{GER-d}} [[İlkay Gündoğan]]
+* {{GER-d}} [[Joshua Kimmich]]
+* {{GER-d}} [[Maximilian Mittelstädt]]
+* {{GER-d}} [[Thomas Müller (football)|Thomas Müller]]
+* {{ENG-d}} [[Bukayo Saka]]
+* {{BEL-d}} [[Koen Casteels]]
+* {{BEL-d}} [[Romelu Lukaku]]
+* {{CRO-d}} [[Ante Budimir]]
+* {{DEN-d}} [[Victor Kristiansen]]
+* {{DEN-d}} [[Jonas Wind]]
+* {{SCO-d}} [[Callum McGregor]]
+* {{SCO-d}} [[Scott McKenna]] <small>(passe décisive d'un {{csc}})</small>
+* {{ESP-d}} [[Pedri]]
+* {{ESP-d}} [[Fabián Ruiz]]
+* {{ESP-d}} [[Lamine Yamal]]
+* {{FRA-d}} [[Kylian Mbappé]] <small>(passe décisive d'un {{csc}})</small>
+* {{GEO-d}} [[Giorgi Kochorashvili]]
+* {{HUN-d}} [[Roland Sallai]]
+* {{HUN-d}} [[Dominik Szoboszlai]]
+* {{ITA-d}} [[Lorenzo Pellegrini]]
+* {{POL-d}} [[Piotr Zieliński (football)|Piotr Zieliński]]
+* {{POR-d}} [[Cristiano Ronaldo]]
+* {{SRB-d}} [[Ivan Ilić (football)|Ivan Ilić]]
+* {{SVK-d}} [[Lukáš Haraslín]]
+* {{SLO-d}} [[Timi Max Elšnik]]
+* {{SUI-d}} [[Michel Aebischer]]
+* {{SUI-d}} [[David Raum]]
+* {{CZE-d}} [[Vladimír Coufal]]
+* {{CZE-d}} [[Ondřej Lingr]]
+* {{TUR-d}} [[Kaan Ayhan]]
+* {{UKR-d}} [[Mykola Chaparenko]]
+* {{UKR-d}} [[Oleksandr Zintchenko]]
+}}
+
+=== Discipline ===
+==== 1 carton rouge {{sentoff}} ====
+* {{SCO-d}} [[Ryan Porteous]]
+
+==== 2 cartons jaunes {{yel}}{{yel}} ====
+{{Colonnes|nombre=2|1=
+* {{GER-d}} [[Jonathan Tah]]
+* {{BEL-d}} [[Dodi Lukebakio]]
+* {{SCO-d}} [[Scott McTominay]]
+* {{ESP-d}} [[Rodri (football, 1996)|Rodri]]
+* {{POR-d}} [[Rafael Leão]]
+* {{SUI-d}} [[Silvan Widmer]]
+* {{TUR-d}} [[Abdülkerim Bardakcı]]
+}}
+
+==== 1 carton jaune {{yel}} ====
+{{Colonnes|nombre=2|1=
+* {{ALB-d}} [[Armando Broja]]
+* {{ALB-d}} [[Mirlind Daku]]
+* {{ALB-d}} [[Klaus Gjasula]]
+* {{ALB-d}} [[Elseid Hysaj]]
+* {{ALB-d}} [[Arbër Hoxha]]
+* {{AUT-d}} [[Marko Arnautović]]
+* {{AUT-d}} [[Christoph Baumgartner]]
+* {{AUT-d}} [[Kevin Danso]]
+* {{AUT-d}} [[Konrad Laimer]]
+* {{AUT-d}} [[Phillipp Mwene]]
+* {{AUT-d}} [[Patrick Wimmer]]
+* {{AUT-d}} [[Maximilian Wöber]]
+* {{GER-d}} [[Robert Andrich]]
+* {{GER-d}} [[Maximilian Mittelstädt]]
+* {{GER-d}} [[Antonio Rüdiger]]
+* {{ENG-d}} [[Conor Gallagher]]
+* {{BEL-d}} [[Orel Mangala]]
+* {{BEL-d}} [[Youri Tielemans]]
+* {{CRO-d}} [[Ivica Ivušić]]
+* {{DEN-d}} [[Morten Hjulmand]]
+* {{DEN-d}} [[Joakim Mæhle]]
+* {{DEN-d}} [[Christian Nørgaard]]
+* {{DEN-d}} [[Jannik Vestergaard]]
+* {{SCO-d}} [[John McGinn]]
+* {{SCO-d}} [[Scott McKenna]]
+* {{SCO-d}} [[Anthony Ralston]]
+* {{ESP-d}} [[Dani Carvajal]]
+* {{ESP-d}} [[Robin Le Normand]]
+* {{FRA-d}} [[Ousmane Dembélé]]
+* {{FRA-d}} [[Kylian Mbappé]]
+* {{GEO-d}} {{Lien|langue=en|Giorgi Gvelesiani}}
+* {{GEO-d}} [[Guram Kashia]]
+* {{GEO-d}} [[Giorgi Kochorashvili]]
+* {{GEO-d}} [[Solomon Kvirkvelia]]
+* {{GEO-d}} [[Anzor Mekvabishvili]]
+* {{HUN-d}} [[Kevin Csoboth]]
+* {{HUN-d}} [[Attila Fiola]]
+* {{HUN-d}} [[László Kleinheisler]]
+* {{HUN-d}} [[Willi Orban]]
+* {{HUN-d}} [[András Schäfer]]
+* {{HUN-d}} [[Callum Styles]]
+* {{HUN-d}} [[Attila Szalai]]
+* {{HUN-d}} [[Dominik Szoboszlai]]
+* {{ITA-d}} [[Bryan Cristante]]
+* {{ITA-d}} [[Riccardo Calafiori]]
+* {{ITA-d}} [[Gianluigi Donnarumma]]
+* {{ITA-d}} [[Lorenzo Pellegrini]]
+* {{NED-d}} [[Jerdy Schouten]]
+* {{NED-d}} [[Joey Veerman]]
+* {{POL-d}} [[Robert Lewandowski]]
+* {{POL-d}} [[Jakub Moder]]
+* {{POL-d}} [[Bartosz Slisz]]
+* {{POL-d}} [[Wojciech Szczęsny]]
+* {{POR-d}} [[Francisco Conceição]]
+* {{POR-d}} [[João Palhinha]]
+* {{ROU-d}} [[Nicușor Bancu]]
+* {{ROU-d}} [[Marius Marin]]
+* {{ROU-d}} [[Răzvan Marin]]
+* {{SRB-d}} [[Mijat Gaćinović]]
+* {{SRB-d}} [[Nemanja Gudelj]]
+* {{SRB-d}} [[Luka Jović]]
+* {{SRB-d}} [[Saša Lukić]]
+* {{SRB-d}} [[Filip Mladenović]]
+* {{SRB-d}} [[Dušan Tadić]]
+* {{SVK-d}} [[Ivan Schranz]]
+* {{SLO-d}} [[Žan Celar]]
+* {{SLO-d}} [[Erik Janža]]
+* {{SLO-d}} [[Petar Stojanović (football)|Petar Stojanović]]
+* {{SLO-d}} [[Žan Vipotnik]]
+* {{SUI-d}} [[Remo Freuler]]
+* {{SUI-d}} [[Dan Ndoye]]
+* {{SUI-d}} [[Ricardo Rodríguez (football)|Ricardo Rodríguez]]
+* {{SUI-d}} [[Vincent Sierro]]
+* {{SUI-d}} [[Granit Xhaka]]
+* {{CZE-d}} [[Vladimír Coufal]]
+* {{CZE-d}} [[Tomáš Holeš]]
+* {{CZE-d}} [[David Jurásek]]
+* {{CZE-d}} [[Lukáš Provod]]
+* {{CZE-d}} [[Patrik Schick]]
+* {{CZE-d}} [[Tomáš Souček]]
+* {{TUR-d}} [[Samet Akaydin]]
+* {{TUR-d}} [[Hakan Çalhanoğlu]]
+* {{TUR-d}} [[Zeki Çelik]]
+* {{UKR-d}} [[Roman Iaremtchouk]]
+* {{UKR-d}} [[Yukhym Konoplia]]
+}}
+
+=== Trophée d'Homme du match ===
+Le trophée d'Homme du match récompense le joueur considéré comme le plus performant lors de chaque match. Il est attribué par l'[[Union des associations européennes de football|UEFA]]<ref>{{Lien web |langue=en |titre=Every EURO player of the match since 1996 |url=https://www.uefa.com/euro2024/news/025e-0f9c8722214d-322ca3bf47b7-1000--every-euro-player-of-the-match-since-1996/ |accès url=libre |site=[[UEFA]]}}</ref>.
+
+==== 2 fois ====
+* {{FRA-d}} [[N'Golo Kanté]] <small>(contre l'Autriche et les Pays-Bas)</small>
+* {{SUI-d}} [[Granit Xhaka]] <small>(contre la Hongrie et l'Allemagne)</small>
+
+==== 1 fois ====
+{{Colonnes|nombre=2|1=
+* {{ALL-d}} [[İlkay Gündoğan]] <small>(contre la Hongrie)</small>
+* {{ALL-d}} [[Jamal Musiala]] <small>(contre l'Ecosse)</small>
+* {{ENG-d}} [[Jude Bellingham]] <small>(contre la Serbie)</small>
+* {{AUT-d}} [[Christoph Baumgartner]] <small>(contre la Pologne)</small>
+* {{BEL-d}} [[Kevin De Bruyne]] <small>(contre la Roumanie)</small>
+* {{CRO-d}} [[Andrej Kramarić]] <small>(contre l'Albanie)</small>
+* {{DEN-d}} [[Christian Eriksen]] <small>(contre la Slovénie)</small>
+* {{DEN-d}} [[Pierre-Emile Højbjerg]] <small>(contre l'Angleterre)</small>
+* {{ESP-d}} [[Fabián Ruiz]] <small>(contre la Croatie)</small>
+* {{ESP-d}} [[Nico Williams]] <small>(contre l'Italie)</small>
+* {{GEO-d}} [[Giorgi Mamardashvili]] <small>(contre la Tchéquie)</small>
+* {{HUN-d}} [[Roland Sallai]] <small>(contre l'Écosse)</small>
+* {{ITA-d}} [[Federico Chiesa]] <small>(contre l'Albanie)</small>
+* {{NED-d}} [[Cody Gakpo]] <small>(contre la Pologne)</small>
+* {{POR-d}} [[Bernardo Silva]] <small>(contre la Turquie)</small>
+* {{POR-d}} [[Vitinha (football, 13-02-2000)|Vitinha]] <small>(contre la Tchéquie)</small>
+* {{ROM-d}} [[Nicolae Stanciu (football, 1993)|Nicolae Stanciu]] <small>(contre l'Ukraine)</small>
+* {{SVK-d}} [[Stanislav Lobotka]] <small>(contre la Belgique)</small>
+* {{SLO-d}} [[Žan Karničnik]] <small>(contre la Serbie)</small>
+* {{SUI-d}} [[Manuel Akanji]] <small>(contre l'Écosse)</small>
+* {{TUR-d}} [[Arda Güler]] <small>(contre la Géorgie)</small>
+* {{UKR-d}} [[Mykola Chaparenko]] <small>(contre la Slovaquie)</small>
+}}
+
+=== Record ===
+Le {{Date|15|juin|2024}}, lors de la première journée de la phase de groupes face à l'[[Équipe d'Italie de football|Italie]], l'[[Équipe d'Albanie de football|Albanais]] [[Nedim Bajrami]] inscrit le but le plus rapide de l'histoire de l'[[Championnat d'Europe de football|Euro]], à la {{22e}} seconde, après une touche ratée de [[Federico Dimarco]]<ref name=\":0\" />.
+
+== Dotations financières ==
+En {{date-|décembre 2023}}, le comité exécutif de l'UEFA approuve les dotations financières, dont le total de 331 millions d'euros est identique à l'[[Championnat d'Europe de football 2020|édition précédente]]{{Réf nécessaire|date=19 juin 2024}}.
+
+Ainsi, l'équipe qui remporterait la compétition en gagnant tous ses matches, se verrait attribuer la somme de {{unité|28250000|€}}.
+
+{| class=\"wikitable center\" style=\"text-align:right;\"
+|+Dotations financières (cumulatives)<ref>{{Lien web |langue=fr |auteur=Gauthier Delomez |titre=Euro 2024 : combien vont gagner les équipes participantes ? |url=https://www.europe1.fr/sport/euro-2024-combien-vont-gagner-les-equipes-participantes-4251337 |accès url=libre |site=[[Europe 1]] |date=11 juin 2024 |consulté le=19 juin 2024}}</ref>
+!scope=col| Tour / Performance
+!scope=col| Dotations
+|-
+| style=\"text-align:left;\" | Participation
+| {{unité|9250000|€}}
+|-
+| style=\"text-align:left;\" | Match gagné en phase de groupes
+| {{unité|1000000|€}}
+|-
+| style=\"text-align:left;\" | Match nul en phase de groupes
+| {{unité|500000|€}}
+|-
+| style=\"text-align:left;\" | Qualification pour les huitièmes de finale
+| {{unité|1500000|€}}
+|-
+| style=\"text-align:left;\" | Qualification pour les quarts de finale
+| {{unité|2500000|€}}
+|-
+| style=\"text-align:left;\" | Qualification pour les demi-finales
+| {{unité|4000000|€}}
+|-
+| style=\"text-align:left;\" | Vice-champion d'Europe
+| {{unité|5000000|€}}
+|-
+| style=\"text-align:left;\" | Champion d'Europe
+| {{unité|8000000|€}}
+|}
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=Note}}
+
+=== Références ===
+{{Références nombreuses}}
+
+== Liens externes ==
+* {{Site officiel|langue=fr|url=https://fr.uefa.com/euro-2024}}
+* [https://www.maillots-foot-actu.fr/maillots-euro-2024-designs-tendances-et-equipementiers-a-la-loupe Informations sur les maillots de l'EURO 2024]
+{{Palette|Championnat d'Europe de football 2024|Championnat d'Europe de football}}
+{{Portail|football|années 2020|Allemagne}}
+
+[[Catégorie:Championnat d'Europe de football 2024|2024]]
+ 

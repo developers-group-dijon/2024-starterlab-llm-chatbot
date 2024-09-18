@@ -1,6 +1,7 @@
 from collections.abc import Iterator
 
 from langchain_community.chat_models import ChatOllama
+from langchain_community.document_loaders import TextLoader
 from langchain_core.language_models.chat_models import BaseChatModel
 from langchain_core.messages import SystemMessage
 from langchain_core.output_parsers import StrOutputParser

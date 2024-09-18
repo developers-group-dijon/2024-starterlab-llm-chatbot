@@ -1,7 +1,7 @@
 from collections.abc import Iterator
 import time
 
-from langchain_community.vectorstore import FAISS
+from langchain_community.vectorstores import FAISS
 from langchain_community.chat_models import ChatOllama
 from langchain_community.document_loaders import TextLoader
 from langchain_community.embeddings.ollama import OllamaEmbeddings
@@ -79,7 +79,7 @@ def init_data(embedding: Embeddings, _store: VectorStore, chunk_size: int, chunk
   _store = ...
   debug(f"Génération et sauvegarde des embeddings en <ansigreen>{(time.time() - t0):0.3} secondes</ansigreen>")
 
-  return store
+  return _store
 
 
 def ask_bot(chain: RunnableSerializable, question: str) -> Iterator[str]:

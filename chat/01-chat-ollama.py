@@ -39,7 +39,7 @@ if __name__ == "__main__":
   Debugger.debug_mode = args.debug
 
   # TODO 001
-  client = ...
+  client_ = ...
 
   # Starting the prompt session
   prompt_session(lambda question: ask_bot(args.model, client_, args.temperature, question))

@@ -2,6 +2,7 @@
 import time
 from typing import List
 
+import ollama
 import numpy as np
 import numpy.typing as npt
 from utils.args import init_args

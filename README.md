@@ -3,6 +3,20 @@
 
 # Pré-requis
 
+## Git
+
+### Installation
+
+- Sur le poste : https://git-scm.com/downloads
+
+### Téléchargement du dépôt
+
+*Pour éviter le téléchargement pendant le starter lab*
+
+```
+git clone git@github.com:developers-group-dijon/2024-starterlab-llm-chatbot.git
+```
+
 ## Python - poetry
 
 ### Installation
@@ -12,6 +26,8 @@
 ### Téléchargement des dépendances
 
 *Pour éviter le téléchargement pendant le starter lab*
+
+À la racine du dépôt Git :
 
 ```
 POETRY_VIRTUALENVS_IN_PROJECT=true poetry install
@@ -44,6 +60,8 @@ ollama pull all-minilm
 - Sur le poste : https://docs.docker.com/engine/install/ https://docs.docker.com/compose/install/
 
 ### Téléchargement des images
+
+À la racine du dépôt Git :
 
 ```
 docker compose pull

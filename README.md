@@ -76,5 +76,5 @@ Les répertoire `data` contient des données utilisées par les scripts.
 
 Exemple de commande pour lancer le script "chat.rag-langchain"
 ```
-poetry run python chat/rag-langchain.py
+poetry run python chat/07-rag-langchain.py
 ```

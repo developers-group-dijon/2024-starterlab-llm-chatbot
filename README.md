@@ -1,5 +1,12 @@
 # 2024-starterlab-llm-chatbot
 
+# Contexte
+
+Ce dépôt contient le code sources ainsi que de le [support de présentation](./Support%20présentation%20-%20Starterlab%20LLM%20Chatbot.pdf) de l'atelier organisé par le Developers Group Dijon le 3 octobre 2024.
+
+Le dépôt Git propose 2 branches :
+- main : socle applicatif et exercices _à trous_
+- solutions : les exercices complétés
 
 # Pré-requis
 
